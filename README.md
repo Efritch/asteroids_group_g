@@ -1,6 +1,9 @@
 # project_one
 This repo contains all files and code related to project 1.
 
+API Key:
+In order to successfully run the code for this project you will need to sign up for an API key from NASA. A key can be requested at https://api.nasa.gov/. Once you have an API key from NASA, you will want to store this key in a file called "secrets.py" and save it on your local.
+
 Group Members:
 Paul Hoogestraat
 Brent Sergent

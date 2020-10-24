@@ -27,14 +27,29 @@ Our data for this project will be sourced from NASA’s public APIs.
 •	SSD/CNEOS
 We will also be looking at asterlink.com for information related to near-earth objects.
 
-Wednesday:  Identify project.                           (.5 hrs)
-            Defined roles and responsibilities          (1  hrs)
-Thursday:   Reviewing API, assess resources             (1  hrs)
-Friday:     Reviewing API, assess resources             (.5 hrs)
-            Start Individual projects                   (5  hrs)
-Saturday:   Work on Individual projects                 (6  hrs)
-Sunday:     Work on Individual projects together        (5  hrs)
-Monday:     Combine Projects                            (2  hrs)
-            work on presentation.                       (2  hrs)
-Tuesday:    address any final issues                    (2  hrs)  
-Wednesday:  Deliver presentaion.                        (.2 hrs)
+Wednesday: 
+Identify project. (.5 hrs)
+Defined roles and responsibilities. (1 hrs)
+
+Thursday:   
+Reviewing API, assess resources. (1 hrs)
+
+Friday:
+Reviewing API, assess resources. (.5 hrs)
+Start Individual projects. (5 hrs)
+
+Saturday:
+Work on Individual projects. (6 hrs)
+
+Sunday:
+Work on Individual projects together. (5 hrs)
+
+Monday:
+Combine Projects. (2 hrs)
+work on presentation. (2 hrs)
+
+Tuesday:
+address any final issues. (2 hrs)
+
+Wednesday:
+Deliver presentaion. (.2 hrs)

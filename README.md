@@ -10,9 +10,9 @@ This project will dive into which planets receive the most close approaches of a
 
 Using data collected by NASA, we are going to analyze asteroids in our solar system. Our program will address the following questions.
 
-1.	Do outer planets receive more close approaches than inner planets?
-    Null: If the inner planets are similar to the outer planets, then the quantity of close approaches with the Inner planets will not be more or less than with the outer planets.
-    Alt: If the inner planets are different from the outer planets, then the quantity of close approaches with the Inner planets will be more or less than the with outer planets.
+1.	Are inner planets receiving more close approaches than they did 50 years ago?
+    Null: If an inner planet's close approaches count recently is simular to the last few decades, then the quantity of close approaches recently will not be more or less than the quantity over the last few decades.
+    Alt: If an inner planet's close approaches count recently is different from the last few decades, then the quantity of close approaches recently will be more or less than the quantity over the last few decades.
 
 2.  How many asteroids have impacted or had a potential impact with earth? (pending)
     Null: (pending review)

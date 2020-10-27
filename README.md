@@ -7,9 +7,9 @@ This project will dive into which planets receive the most close approaches of a
 
 Using data collected by NASA, we are going to analyze asteroids in our solar system. Our program will address the following questions.
 
-1. Are inner planets receiving more close approaches than they did 50 years ago? 
-Null: If an inner planet's close approaches count recently is simular to the last few decades, then the quantity of close approaches recently will not be more or less than the quantity over the last few decades. 
-Alt: If an inner planet's close approaches count recently is different from the last few decades, then the quantity of close approaches recently will be more or less than the quantity over the last few decades.
+1. Are inner planets receiving more close approaches on average in the recent decade they did in the last 5 decades? 
+Null: If the average close approaches count is unchanged per year over the last 50 years, then no changes in the average close approaches count will be seen comparing the most recent decade to the last 5 decades from now.
+Alt: If the average close approaches count is changed per year over the last 50 years, then changes in the average close approaches count will be seen comparing the most recent decade to the last 5 decades from now.
 
 2. How many asteroids have impacted or had a potential impact with earth? (pending) 
 Null: (pending review) 

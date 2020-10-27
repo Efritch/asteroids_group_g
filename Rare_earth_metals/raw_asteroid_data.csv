@@ -1,0 +1,4001 @@
+﻿name,Type,Orbit (AU),e,Value ($),Est. Profit ($),Δv (km/s),Group
+Ryugu,Cg,1.19,0.19,82.76 billion,30.08 billion,4.663,APO (PHA)
+1989 ML,X,1.272,0.137,13.94 billion,4.38 billion,4.889,AMO
+Nereus,Xe,1.489,0.36,4.71 billion,1.39 billion,4.987,APO (PHA)
+Bennu,B,1.126,0.204,669.96 million,185.00 million,5.096,APO (PHA)
+Didymos,Xk,1.644,0.384,62.25 billion,16.41 billion,5.162,APO (PHA)
+2011 UW158,Xc,1.621,0.376,6.69 billion,1.74 billion,5.189,APO (PHA)
+Anteros,L,1.43,0.256,5.57 trillion,1.25 trillion,5.44,AMO
+2001 CC21,L,1.032,0.219,147.04 billion,29.77 billion,5.636,APO
+1992 TC,X,1.566,0.292,84.01 billion,16.78 billion,5.648,AMO
+2001 SG10,X,1.449,0.424,3.05 billion,544.48 million,5.88,APO (PHA)
+2002 DO3,X,1.86,0.499,334.44 million,59.03 million,5.896,APO (PHA)
+2000 CE59,L,1.137,0.167,10.65 billion,1.80 billion,6.015,APO (PHA)
+1995 BC2,X,1.917,0.43,78.87 billion,13.22 billion,6.01,AMO
+1991 DB,C,1.715,0.402,168.20 billion,26.68 billion,6.146,AMO
+2000 RW37,C,1.248,0.25,29.27 billion,4.53 billion,6.225,APO (PHA)
+1998 UT18,C,1.404,0.329,644.70 billion,99.62 billion,6.221,APO (PHA)
+Seleucus,K,2.033,0.456,33.52 trillion,5.02 trillion,6.289,AMO
+1998 KU2,Cb,2.252,0.553,80.32 trillion,11.95 trillion,6.302,APO
+1989 UQ,B,0.915,0.265,600.73 billion,87.58 billion,6.402,ATE (PHA)
+1999 KV4,B,1.54,0.371,25.68 trillion,3.73 trillion,6.384,APO
+1988 XB,B,1.468,0.482,217.07 billion,31.31 billion,6.411,APO (PHA)
+1997 RT,O,2.247,0.524,174.31 billion,24.24 billion,6.498,AMO
+1997 XF11,Xk,1.443,0.484,383.99 billion,52.97 billion,6.548,APO (PHA)
+1996 FG3,C,1.054,0.35,1.33 trillion,181.34 billion,6.607,APO (PHA)
+1992 QN,X,1.19,0.359,253.70 billion,34.53 billion,6.601,APO
+2001 TY44,X,2.358,0.522,3.50 billion,473.52 million,6.583,AMO
+1999 JV6,Xk,1.008,0.311,12.03 billion,1.59 billion,6.7,APO (PHA)
+2002 EA,L,1.378,0.423,672.12 million,87.43 million,6.747,APO
+2001 HK31,X,2.437,0.575,1.33 billion,172.64 million,6.725,AMO
+2005 YU55,C,1.157,0.431,49.84 billion,6.23 billion,6.907,APO (PHA)
+1992 BF,Xc,0.908,0.272,2.90 billion,357.67 million,6.982,ATE
+2001 PD1,K,2.234,0.458,646.08 billion,80.77 billion,6.859,AMO
+Lucianotesi,Xc,1.325,0.118,53.17 billion,6.49 billion,6.988,AMO
+2002 CS11,X,2.019,0.404,766.16 million,94.41 million,6.921,AMO
+1992 NA,C,2.398,0.555,4.55 trillion,547.95 billion,7.005,AMO
+2002 AV,K,2.47,0.659,17.79 billion,2.14 billion,7.023,APO (PHA)
+2002 BM26,X,1.833,0.444,77.75 billion,9.25 billion,7.074,AMO (PHA)
+1999 NC43,Q,1.759,0.579,2.61 billion,307.19 million,7.131,APO (PHA)
+2000 CO101,Xk,1.076,0.09,29.27 billion,3.39 billion,7.237,APO (PHA)
+Dionysus,Cb,2.199,0.542,2.62 trillion,304.03 billion,7.181,APO (PHA)
+1999 CF9,Q,1.773,0.6,152.75 million,17.52 million,7.248,APO (PHA)
+2002 AH29,K,2.409,0.561,7.77 billion,892.46 million,7.212,AMO
+1986 DA,M,2.822,0.582,4.25 trillion,484.74 billion,7.229,AMO
+1996 BZ3,X,2.644,0.527,73.17 billion,8.35 billion,7.236,AMO
+Davidharvey,C,2.85,0.589,53.90 trillion,6.14 trillion,7.238,AMO
+2001 HA8,C,2.386,0.529,1.51 trillion,169.29 billion,7.314,AMO
+Apollo,Q,1.47,0.56,805.03 million,88.36 million,7.484,APO (PHA)
+2000 LC16,Xk,2.735,0.553,4.23 trillion,472.54 billion,7.335,AMO
+2001 WH2,X,2.042,0.427,4.62 billion,497.31 million,7.544,AMO
+2000 WC67,X,2.692,0.574,296.27 billion,32.10 billion,7.492,AMO
+1998 HT31,C,2.512,0.693,10.42 billion,1.11 billion,7.585,APO (PHA)
+2000 WJ10,Xk,2.069,0.459,3.50 billion,373.22 million,7.602,AMO
+Atlantis,L,2.251,0.335,48.69 trillion,5.22 trillion,7.55,MCA
+2001 HW15,X,1.525,0.253,3.50 billion,362.50 million,7.801,AMO
+1999 VN6,C,1.733,0.37,62.78 billion,6.50 billion,7.787,AMO
+2001 XS1,Cb,2.67,0.556,125.08 billion,13.16 billion,7.653,AMO
+Eger,Xe,1.404,0.354,442.75 billion,44.76 billion,7.961,APO
+Calingasta,Cb,2.195,0.389,20.76 trillion,2.15 trillion,7.762,MCA
+Vishnu,O,1.06,0.444,242.46 billion,23.25 billion,8.358,APO (PHA)
+2000 BG19,X,2.658,0.561,727.45 billion,74.68 billion,7.797,AMO
+Zao,X,2.103,0.423,1.60 trillion,161.92 billion,7.888,AMO
+1999 SE10,X,3.216,0.619,5.30 billion,546.90 million,7.752,AMO
+1999 JM8,X,2.726,0.641,45.00 trillion,4.58 trillion,7.858,APO (PHA)
+1994 AH2,O,2.537,0.707,21.02 trillion,2.11 trillion,7.952,APO
+2000 WL10,Xc,3.141,0.717,92.39 billion,9.31 billion,7.908,APO
+2000 BM19,O,0.74,0.359,914.79 billion,73.15 billion,9.951,ATE
+1997 US9,Q,1.053,0.282,67.65 million,6.01 million,8.943,APO
+2001 SJ262,C,2.945,0.575,30.61 billion,3.04 billion,7.984,AMO
+1997 SE5,T,3.759,0.661,76.10 million,7.64 million,7.903,AMO
+Ra-Shalom,Xc,0.832,0.437,1.76 trillion,130.81 billion,10.649,ATE
+1997 AQ18,C,1.147,0.465,329.46 billion,28.82 billion,9.071,APO
+1999 HF1,X,0.819,0.463,9.21 trillion,556.48 billion,13.13,ATE
+1999 YK5,X,0.829,0.558,7.66 trillion,475.65 billion,12.768,ATE
+1999 JD6,K,0.883,0.633,4.77 trillion,254.72 billion,14.847,ATE (PHA)
+2000 WO107,X,0.912,0.781,17.40 billion,725.99 million,18.996,ATE (PHA)
+1997 AC11,Xc,0.913,0.368,2.92 billion,170.33 million,13.58,ATE
+2000 EA107,Q,0.93,0.456,1.06 billion,61.22 million,13.755,ATE
+2000 CK33,Xk,0.968,0.415,63.73 billion,4.55 billion,11.089,ATE
+Poseidon,O,1.835,0.679,38.13 trillion,3.50 trillion,8.627,APO
+2002 DH2,Ch,2.051,0.541,20.79 billion,1.96 billion,8.409,APO
+2001 YK4,X,2.656,0.776,314.94 billion,29.75 billion,8.372,APO
+Cruithne,Q,0.998,0.515,2.12 billion,117.69 million,14.237,ATE
+1999 FB,Q,1.18,0.607,175.38 million,14.15 million,9.799,APO
+2002 DY3,Xk,1.492,0.274,48.34 billion,4.31 billion,8.856,AMO
+Izhdubar,Q,1.007,0.266,801.64 million,24.81 million,25.539,APO
+2001 XS30,Xc,1.165,0.828,139.84 billion,7.00 billion,15.785,APO
+2000 YH66,Xk,1.173,0.744,73.17 billion,4.62 billion,12.51,APO
+David Hughes,Xe,1.726,0.149,12.14 trillion,1.11 trillion,8.637,MCA
+Phaethon,B,1.271,0.89,>100 trillion,5.30 trillion,15.347,APO (PHA)
+2000 CN33,X,2.601,0.586,16.01 billion,1.51 billion,8.344,AMO
+Bede,Xc,1.774,0.284,11.47 trillion,1.04 trillion,8.662,AMO
+Gressmann,B,2.22,0.192,81.81 trillion,7.76 trillion,8.317,MBA
+1995 BL2,L,1.235,0.504,261.02 billion,19.86 billion,10.365,APO
+2000 BJ19,Q,1.292,0.764,2.78 billion,150.11 million,14.597,APO
+2001 UY4,X,1.453,0.788,252.55 billion,18.59 billion,10.701,APO (PHA)
+2000 WK10,X,1.479,0.702,48.34 billion,3.77 billion,10.098,APO (PHA)
+2002 AU5,X,2.02,0.754,145.99 billion,12.69 billion,9.055,APO
+Tantalus,Q,1.29,0.299,1.07 billion,35.86 million,23.46,APO (PHA)
+Tapio,B,2.299,0.245,>100 trillion,>100 trillion,8.464,MBA
+Heracles,O,1.834,0.772,>100 trillion,30.33 trillion,9.636,APO
+Sigurd,K,1.392,0.375,32.74 trillion,2.02 trillion,12.716,APO
+Munroe,X,2.202,0.136,5.40 trillion,495.45 billion,8.563,MBA
+Orchis,C,2.419,0.259,>100 trillion,>100 trillion,8.476,MBA
+Pyotr Pervyj,C,2.331,0.203,>100 trillion,51.16 trillion,8.52,MBA
+1991 WA,Q,1.575,0.643,698.20 million,37.97 million,14.434,APO
+2002 AD9,L,1.773,0.809,1.54 trillion,88.50 billion,13.653,APO
+1991 AM,Q,1.698,0.695,2.42 billion,155.32 million,12.226,APO
+1974 MA,Q,1.786,0.762,5.55 billion,295.91 million,14.699,APO
+Yakhontovia,X,2.61,0.324,95.95 trillion,8.86 trillion,8.496,MBA
+Lilliputia,Cb,2.313,0.171,>100 trillion,17.98 trillion,8.645,MBA
+Syringa,Xk,2.629,0.344,>100 trillion,>100 trillion,8.533,MBA
+Bryantsev,Cgh,2.453,0.238,>100 trillion,18.78 trillion,8.597,MBA
+1991 XB,K,2.952,0.587,323.81 billion,29.41 billion,8.626,AMO
+2002 BP26,X,1.697,0.394,16.01 billion,1.23 billion,10.201,AMO
+2000 YO29,C,1.815,0.694,754.75 billion,31.53 billion,18.756,APO
+Toyota,Xk,2.22,0.117,>100 trillion,9.91 trillion,8.754,MBA
+Rudra,B,1.74,0.229,90.46 trillion,7.32 trillion,9.678,MCA
+Leonardo,B,2.351,0.18,>100 trillion,66.78 trillion,8.672,MBA
+Mukai,X,2.184,0.091,85.23 trillion,7.59 trillion,8.796,MBA
+Olmstead,L,2.366,0.3,76.85 trillion,6.90 trillion,8.727,MCA
+2001 TX16,X,3.579,0.598,23.04 trillion,2.14 trillion,8.434,OMB
+Eichhorn,Cb,2.335,0.193,38.37 trillion,3.45 trillion,8.709,MBA
+Parvulesco,C,2.426,0.22,>100 trillion,13.12 trillion,8.667,MBA
+Beatty,Cgh,2.387,0.191,>100 trillion,25.12 trillion,8.69,MBA
+Boznemcova,O,2.54,0.297,>100 trillion,97.88 trillion,8.65,MBA
+Storeria,Ch,2.365,0.287,>100 trillion,83.06 trillion,8.775,MBA
+Swann,Ch,2.389,0.258,>100 trillion,60.29 trillion,8.761,MBA
+Nora,C,2.342,0.23,>100 trillion,>100 trillion,8.791,MBA
+Horky,C,2.401,0.19,>100 trillion,20.84 trillion,8.734,MBA
+1994 EF2,Q,2.293,0.516,304.77 million,26.04 million,9.158,AMO
+Amy,C,2.172,0.025,>100 trillion,20.69 trillion,8.937,MBA
+Leetsungdao,T,2.392,0.307,604.51 million,53.60 million,8.823,MCA
+Sigrid,Xc,2.43,0.201,>100 trillion,>100 trillion,8.742,MBA
+Berry,C,2.287,0.154,>100 trillion,>100 trillion,8.86,MBA
+Lunacharsky,B,2.355,0.161,>100 trillion,>100 trillion,8.797,MBA
+Tangshan,Cb,2.281,0.122,>100 trillion,>100 trillion,8.874,MBA
+A'Hearn,C,2.377,0.168,64.58 trillion,5.74 trillion,8.799,MBA
+1998 ST49,Q,2.308,0.595,231.20 million,19.20 million,9.415,APO
+Fowler,Cb,2.33,0.153,69.31 trillion,6.13 trillion,8.842,MBA
+Tiflis,L,2.329,0.221,>100 trillion,>100 trillion,8.879,MBA
+Tatianina,Xc,2.358,0.194,5.10 trillion,450.42 billion,8.851,MBA
+Dugan,B,2.314,0.205,>100 trillion,60.19 trillion,8.908,MBA
+Kani,C,2.429,0.199,>100 trillion,>100 trillion,8.812,MBA
+Amaravella,X,2.274,0.079,7.77 trillion,677.75 billion,8.956,MBA
+Peraga,Ch,2.374,0.153,>100 trillion,>100 trillion,8.871,MBA
+Lacadiera,Xk,2.251,0.095,>100 trillion,>100 trillion,8.989,MBA
+Maisica,B,2.365,0.158,32.64 trillion,2.87 trillion,8.885,MBA
+Kaho,Ch,2.4,0.274,>100 trillion,89.25 trillion,8.92,MBA
+1980 RC1,C,2.458,0.2,>100 trillion,>100 trillion,8.827,MBA
+Vernadskij,B,2.429,0.18,>100 trillion,>100 trillion,8.845,MBA
+Chukotka,C,2.456,0.194,>100 trillion,>100 trillion,8.844,MBA
+Komendantov,Xc,2.468,0.209,32.49 trillion,2.86 trillion,8.868,MBA
+Paavo Nurmi,C,2.466,0.191,>100 trillion,>100 trillion,8.863,MBA
+Horn-d'Arturo,Ch,2.628,0.277,>100 trillion,>100 trillion,8.782,MBA
+Makharadze,C,2.461,0.188,>100 trillion,>100 trillion,8.87,MBA
+Levitan,B,2.361,0.127,>100 trillion,>100 trillion,8.954,MBA
+Sequoia,Xk,1.934,0.095,39.31 trillion,3.12 trillion,9.835,IMB
+Popov,B,2.339,0.111,>100 trillion,64.96 trillion,8.986,MBA
+Lilio,C,2.371,0.157,>100 trillion,76.53 trillion,8.985,MBA
+Madreteresa,Cgh,2.4,0.239,>100 trillion,85.82 trillion,9.008,MBA
+Gregory,B,2.467,0.186,>100 trillion,33.06 trillion,8.905,MBA
+Appenzella,C,2.45,0.179,>100 trillion,>100 trillion,8.921,MBA
+Capek,C,2.541,0.272,>100 trillion,19.89 trillion,8.897,MBA
+Heckmann,C,2.435,0.163,>100 trillion,>100 trillion,8.955,MBA
+Jo-Ann,C,2.451,0.166,>100 trillion,>100 trillion,8.953,MBA
+1995 WQ5,Ch,2.347,0.414,3.00 trillion,250.04 billion,9.374,MCA
+Salli,X,2.398,0.241,>100 trillion,>100 trillion,9.071,MBA
+Aurelia,C,2.598,0.251,>100 trillion,>100 trillion,8.876,MBA
+Clifford,Cb,2.01,0.204,68.11 trillion,5.34 trillion,9.947,MCA
+Jekhovsky,C,2.687,0.319,>100 trillion,>100 trillion,8.873,MBA
+1992 UB,X,3.105,0.568,766.16 billion,66.98 billion,8.92,MCA
+Kenos,M,1.909,0.168,39.19 trillion,2.81 trillion,10.885,MCA
+Seilandfarm,L,2.264,0.019,>100 trillion,16.22 trillion,9.223,MBA
+1999 CW8,B,2.236,0.599,217.07 billion,14.58 billion,11.605,APO
+Stearns,Xe,1.884,0.132,14.73 trillion,970.17 billion,11.835,MCA
+Sazava,C,2.452,0.163,>100 trillion,>100 trillion,9.033,MBA
+Ostro,Xe,1.892,0.067,13.29 trillion,894.63 billion,11.582,IMB
+Barto,C,2.459,0.158,>100 trillion,>100 trillion,9.042,MBA
+Einstein,Xe,1.934,0.099,8.24 trillion,591.00 billion,10.866,IMB
+Ops,Xc,2.291,0.085,9.07 trillion,762.76 billion,9.266,MBA
+Jennifer,Xe,1.915,0.142,84.01 trillion,5.50 trillion,11.904,MCA
+Paola,B,2.468,0.153,>100 trillion,>100 trillion,9.054,MBA
+Geichenko,C,2.452,0.148,>100 trillion,40.08 trillion,9.076,MBA
+Hungaria,Xe,1.944,0.074,93.54 trillion,6.61 trillion,11.021,IMB
+2002 CE26,C,2.233,0.561,33.39 trillion,1.70 trillion,15.275,APO
+Billmclaughlin,Xc,2.353,0.143,>100 trillion,13.11 trillion,9.239,MBA
+Roberta,B,2.475,0.173,>100 trillion,>100 trillion,9.085,MBA
+Kagamigawa,Xc,2.351,0.07,60.28 trillion,5.09 trillion,9.227,MBA
+Kanaya,Ch,2.345,0.168,>100 trillion,>100 trillion,9.302,MBA
+Sayers,B,2.349,0.147,>100 trillion,88.15 trillion,9.288,MBA
+Limpopo,Xc,2.354,0.155,>100 trillion,39.57 trillion,9.289,MBA
+Robeson,C,2.342,0.146,>100 trillion,>100 trillion,9.31,MBA
+Dwornik,M,1.954,0.043,6.23 trillion,419.14 billion,11.569,IMB
+Devosa,X,2.383,0.137,>100 trillion,>100 trillion,9.249,MBA
+Reaves,X,2.368,0.133,>100 trillion,18.38 trillion,9.277,MBA
+Dunham,C,2.463,0.135,>100 trillion,>100 trillion,9.137,MBA
+Nansenia,Ch,2.312,0.106,>100 trillion,>100 trillion,9.371,MBA
+Walkure,C,2.486,0.161,>100 trillion,>100 trillion,9.131,MBA
+Viola,C,2.474,0.146,>100 trillion,>100 trillion,9.143,MBA
+Betulia,C,2.197,0.488,>100 trillion,6.93 trillion,17.06,AMO
+Wielen,Xc,2.285,0.064,20.52 trillion,1.69 trillion,9.428,MBA
+Oskar,C,2.445,0.129,>100 trillion,>100 trillion,9.19,MBA
+Aenna,Xe,2.464,0.164,>100 trillion,8.89 trillion,9.193,MBA
+Fredegundis,X,2.573,0.219,>100 trillion,>100 trillion,9.099,MBA
+Riema,Xe,1.979,0.039,12.81 trillion,801.24 billion,12.448,IMB
+Eichsfeldia,Ch,2.345,0.071,>100 trillion,>100 trillion,9.358,MBA
+Thais,T,2.431,0.242,12.08 billion,1.01 billion,9.338,MBA
+Onizaki,Xe,2.346,0.109,>100 trillion,15.41 trillion,9.408,MBA
+Newell,Xc,2.402,0.111,32.68 trillion,2.73 trillion,9.32,MBA
+Portlandia,Xk,2.373,0.11,>100 trillion,>100 trillion,9.391,MBA
+Alvema,Xc,2.786,0.313,>100 trillion,32.91 trillion,9.027,MBA
+Hamburga,C,2.551,0.173,>100 trillion,>100 trillion,9.163,MBA
+Sarema,C,2.482,0.134,>100 trillion,>100 trillion,9.244,MBA
+NOT,T,2.4,0.096,875.46 million,72.92 million,9.343,MBA
+Tatry,C,2.351,0.077,>100 trillion,53.10 trillion,9.473,MBA
+Rebekka,C,2.4,0.158,>100 trillion,>100 trillion,9.434,MBA
+Drakonia,M,2.436,0.135,>100 trillion,42.78 trillion,9.365,MBA
+Boury,C,2.324,0.046,>100 trillion,24.16 trillion,9.557,MBA
+Bilkis,C,2.431,0.128,>100 trillion,>100 trillion,9.375,MBA
+Zelinda,Ch,2.297,0.231,>100 trillion,>100 trillion,9.855,MBA
+d'Alembert,C,2.711,0.292,>100 trillion,>100 trillion,9.162,MBA
+Lindelof,X,2.763,0.283,>100 trillion,93.95 trillion,9.098,MBA
+Lindbloom,Xc,2.399,0.08,73.10 trillion,6.00 trillion,9.469,MBA
+Arpola,Xc,2.328,0.042,>100 trillion,8.53 trillion,9.654,MBA
+Tercidina,Ch,2.326,0.061,>100 trillion,>100 trillion,9.679,MBA
+Braille,Q,2.342,0.433,2.78 billion,197.73 million,10.931,MCA
+Brangane,K,2.587,0.22,>100 trillion,>100 trillion,9.298,MBA
+Sanguin,Ch,2.319,0.114,>100 trillion,>100 trillion,9.81,MBA
+Opik,Ch,2.304,0.36,24.54 trillion,1.76 trillion,10.838,MCA
+Iva,M,2.851,0.3,>100 trillion,>100 trillion,9.104,MBA
+Idelsonia,Cgh,2.716,0.295,>100 trillion,>100 trillion,9.263,MBA
+2001 UC5,X,2.743,0.627,879.67 million,62.42 million,10.955,AMO
+Tsubetsu,X,2.401,0.067,63.39 trillion,5.12 trillion,9.613,MBA
+Osiris,C,2.435,0.063,>100 trillion,>100 trillion,9.53,MBA
+Gaoshiqi,Xk,2.41,0.05,>100 trillion,9.33 trillion,9.591,MBA
+1996 TE11,Xc,2.57,0.473,1.68 trillion,128.40 billion,10.175,MCA
+Lyyli,X,2.591,0.407,>100 trillion,>100 trillion,9.774,MCA
+1988 AA5,Cb,2.796,0.283,>100 trillion,81.57 trillion,9.194,MBA
+Lambrecht,Xc,2.473,0.072,>100 trillion,53.59 trillion,9.527,MBA
+Spicer,Xc,2.697,0.234,>100 trillion,56.48 trillion,9.278,MBA
+Titius,Xc,2.419,0.064,>100 trillion,33.48 trillion,9.671,MBA
+Misa,Cg,2.657,0.181,>100 trillion,>100 trillion,9.292,MBA
+Thia,Ch,2.585,0.243,>100 trillion,>100 trillion,9.493,MBA
+Seifert,Xk,2.609,0.253,>100 trillion,44.24 trillion,9.468,MBA
+Kridsadaporn,C,3.113,0.574,>100 trillion,26.80 trillion,9.548,MCA
+Dolores,Cb,2.701,0.237,>100 trillion,>100 trillion,9.301,MBA
+Barbarossa,X,2.568,0.201,>100 trillion,50.98 trillion,9.479,MBA
+Daisetsuzan,Xc,2.436,0.07,77.84 trillion,6.25 trillion,9.672,MBA
+Smiley,Cgh,2.734,0.262,>100 trillion,>100 trillion,9.297,MBA
+Thernoe,K,2.769,0.238,>100 trillion,>100 trillion,9.234,MBA
+Flagsymphony,Ch,2.778,0.288,>100 trillion,>100 trillion,9.299,MBA
+Decaro,Cb,2.608,0.27,>100 trillion,73.51 trillion,9.553,MBA
+Strattonia,C,2.683,0.214,>100 trillion,>100 trillion,9.351,MBA
+Lilith,X,2.663,0.196,>100 trillion,93.59 trillion,9.366,MBA
+Edburga,X,2.586,0.341,>100 trillion,>100 trillion,9.85,MBA
+Durrell,C,2.728,0.252,>100 trillion,>100 trillion,9.358,MBA
+Antwerpia,C,2.686,0.234,>100 trillion,>100 trillion,9.419,MBA
+Brixia,Ch,2.741,0.282,>100 trillion,>100 trillion,9.418,MBA
+Tokio,M,2.652,0.223,>100 trillion,>100 trillion,9.484,MBA
+Ludibunda,K,2.746,0.238,>100 trillion,>100 trillion,9.36,MBA
+Johnmills,C,2.737,0.272,>100 trillion,90.13 trillion,9.449,MBA
+Bower,C,2.572,0.15,>100 trillion,>100 trillion,9.619,MBA
+Afra,X,2.64,0.223,>100 trillion,>100 trillion,9.573,MBA
+Zwetana,Cb,2.569,0.211,>100 trillion,>100 trillion,9.732,MBA
+Endymion,Ch,2.568,0.129,>100 trillion,>100 trillion,9.635,MBA
+Nicole,C,2.568,0.114,>100 trillion,>100 trillion,9.625,MBA
+Vienna,K,2.635,0.247,>100 trillion,>100 trillion,9.662,MBA
+Buda,L,2.472,0.148,>100 trillion,>100 trillion,9.968,MBA
+Tamara,C,2.317,0.19,>100 trillion,>100 trillion,,MBA
+Nasi,Cgh,2.729,0.252,>100 trillion,>100 trillion,9.488,MBA
+Victoria,L,2.334,0.22,9.64 billion,623.30 million,,MBA
+Amherstia,X,2.682,0.272,>100 trillion,>100 trillion,9.618,MBA
+Tarkovskij,C,2.474,0.19,>100 trillion,>100 trillion,10.078,MBA
+Desiderata,C,2.597,0.314,>100 trillion,>100 trillion,9.974,MBA
+Westphalia,Ch,2.431,0.144,>100 trillion,>100 trillion,10.178,MBA
+Austria,Xe,2.286,0.085,>100 trillion,>100 trillion,,MBA
+Roxane,Xe,2.287,0.085,>100 trillion,55.01 trillion,,MBA
+Hedda,Ch,2.284,0.029,>100 trillion,>100 trillion,,MBA
+Milton,Xe,2.585,0.315,>100 trillion,15.52 trillion,10.077,MBA
+Backlunda,C,2.436,0.119,>100 trillion,>100 trillion,10.174,MBA
+Klio,Ch,2.362,0.236,>100 trillion,>100 trillion,,MBA
+Beira,B,2.733,0.49,>100 trillion,57.73 trillion,10.689,MCA
+Henrika,C,2.712,0.206,>100 trillion,>100 trillion,9.496,MBA
+Liguria,C,2.756,0.24,>100 trillion,>100 trillion,9.47,MBA
+Amalia,Ch,2.358,0.222,>100 trillion,>100 trillion,,MBA
+Ruanda,X,2.751,0.188,>100 trillion,75.17 trillion,9.425,MBA
+Giovannipratesi,Ch,2.792,0.237,>100 trillion,>100 trillion,9.427,MBA
+Pamina,Ch,2.738,0.213,>100 trillion,>100 trillion,9.486,MBA
+Alemannia,M,2.592,0.12,>100 trillion,>100 trillion,9.692,MBA
+Brubeck,B,2.643,0.204,>100 trillion,>100 trillion,9.687,MBA
+Caprera,C,2.72,0.219,>100 trillion,>100 trillion,9.558,MBA
+Boliviana,X,2.574,0.187,>100 trillion,>100 trillion,9.87,MBA
+Mathieu,X,2.766,0.305,>100 trillion,28.07 trillion,9.64,MBA
+Erigone,Ch,2.367,0.191,17.33 billion,1.12 billion,,MBA
+Prymno,X,2.332,0.089,>100 trillion,>100 trillion,,MBA
+Lampetia,Xc,2.779,0.33,>100 trillion,>100 trillion,9.682,MBA
+Dora,Ch,2.793,0.236,>100 trillion,>100 trillion,9.463,MBA
+Fanny,Ch,2.771,0.213,>100 trillion,>100 trillion,9.468,MBA
+Ostrovskij,Xk,2.75,0.19,>100 trillion,25.22 trillion,9.485,MBA
+Sarita,X,2.634,0.32,>100 trillion,>100 trillion,10.11,MBA
+Chaldaea,C,2.375,0.182,>100 trillion,>100 trillion,,MBA
+Clorinde,B,2.34,0.08,>100 trillion,>100 trillion,,MBA
+Celuta,K,2.361,0.15,>100 trillion,>100 trillion,,MBA
+Artemis,Ch,2.374,0.177,18.15 billion,1.17 billion,,MBA
+Chloris,Ch,2.724,0.242,>100 trillion,>100 trillion,9.642,MBA
+Evelyn,Ch,2.723,0.176,>100 trillion,>100 trillion,9.55,MBA
+Bezovec,C,2.422,0.211,>100 trillion,>100 trillion,11.551,MBA
+Olga,Xc,2.404,0.222,1.27 billion,81.91 million,,MBA
+Athor,Xc,2.379,0.138,>100 trillion,>100 trillion,,MBA
+Svetlanov,Ch,2.788,0.233,>100 trillion,>100 trillion,9.541,MBA
+Zhongolovich,Ch,2.777,0.231,>100 trillion,>100 trillion,9.566,MBA
+Nemausa,Ch,2.366,0.068,>100 trillion,>100 trillion,,MBA
+Estremadoyro,C,2.784,0.234,>100 trillion,>100 trillion,9.566,MBA
+Baucis,L,2.38,0.114,>100 trillion,>100 trillion,,MBA
+Arsinoe,Ch,2.594,0.199,>100 trillion,>100 trillion,10.01,MBA
+Marghanna,Ch,2.729,0.322,>100 trillion,>100 trillion,9.925,MBA
+Happelia,Xc,2.751,0.192,>100 trillion,>100 trillion,9.576,MBA
+Semphyra,Xe,2.806,0.2,>100 trillion,57.34 trillion,9.484,MBA
+Admete,C,2.743,0.223,>100 trillion,>100 trillion,9.65,MBA
+Burnaby,C,2.701,0.173,>100 trillion,68.18 trillion,9.669,MBA
+Libera,X,2.654,0.247,>100 trillion,>100 trillion,9.953,MBA
+Metcalfia,X,2.622,0.131,>100 trillion,>100 trillion,9.826,MBA
+Aeolia,Xe,2.741,0.16,>100 trillion,>100 trillion,9.574,MBA
+Pariana,M,2.612,0.166,>100 trillion,>100 trillion,9.923,MBA
+Milani,Xe,2.703,0.14,>100 trillion,31.91 trillion,9.638,MBA
+Isis,L,2.442,0.223,8.07 billion,521.52 million,,MBA
+Ellenbeth,Ch,2.789,0.23,>100 trillion,>100 trillion,9.586,MBA
+Fujiwara,Ch,2.772,0.225,>100 trillion,>100 trillion,9.616,MBA
+Aethra,Xe,2.608,0.39,>100 trillion,26.67 trillion,,MCA
+Pien,B,2.728,0.188,>100 trillion,>100 trillion,9.659,MBA
+Odessa,Xk,2.758,0.265,>100 trillion,42.07 trillion,9.734,MBA
+Colchis,Xk,2.665,0.116,>100 trillion,>100 trillion,9.721,MBA
+Ryabov,B,2.703,0.165,>100 trillion,79.02 trillion,9.689,MBA
+Hertha,Xk,2.428,0.207,1.50 billion,96.79 million,,MBA
+Merlin,Ch,2.781,0.218,>100 trillion,>100 trillion,9.601,MBA
+Lubomir,Ch,2.768,0.206,>100 trillion,>100 trillion,9.616,MBA
+Priska,Ch,2.669,0.183,>100 trillion,>100 trillion,9.819,MBA
+Lotis,C,2.607,0.123,>100 trillion,>100 trillion,9.922,MBA
+Latvia,L,2.645,0.171,>100 trillion,>100 trillion,9.875,MBA
+Comas Sola,B,2.779,0.235,>100 trillion,>100 trillion,9.647,MBA
+Clarissa,C,2.405,0.111,>100 trillion,>100 trillion,,MBA
+van Altena,Cb,2.715,0.182,>100 trillion,>100 trillion,9.706,MBA
+Lova,Ch,2.702,0.149,>100 trillion,>100 trillion,9.691,MBA
+Nezarka,X,2.621,0.144,>100 trillion,>100 trillion,9.915,MBA
+Lene,C,2.697,0.151,>100 trillion,>100 trillion,9.715,MBA
+Nysa,Xc,2.423,0.148,>100 trillion,>100 trillion,,MBA
+Polana,B,2.419,0.135,>100 trillion,>100 trillion,,MBA
+Chloe,K,2.559,0.112,>100 trillion,>100 trillion,10.125,MBA
+Hedera,X,2.716,0.158,>100 trillion,24.36 trillion,9.684,MBA
+Recogne,C,2.713,0.174,>100 trillion,>100 trillion,9.714,MBA
+Phillipadams,B,2.711,0.225,>100 trillion,>100 trillion,9.821,MBA
+Chodas,Ch,2.735,0.209,>100 trillion,61.74 trillion,9.728,MBA
+Tinette,X,2.721,0.273,>100 trillion,>100 trillion,9.918,MBA
+Rufino,C,2.555,0.202,>100 trillion,>100 trillion,10.413,MBA
+Siberia,Xk,2.545,0.133,>100 trillion,56.53 trillion,10.262,MBA
+Ruvuma,C,2.751,0.212,>100 trillion,>100 trillion,9.703,MBA
+Paulharris,C,2.788,0.467,>100 trillion,34.29 trillion,11.27,MCA
+Lucidor,C,2.692,0.143,>100 trillion,>100 trillion,9.749,MBA
+Bezruc,C,2.666,0.195,>100 trillion,>100 trillion,9.92,MBA
+Madeline,D,2.626,0.162,3.65 billion,284.51 million,9.951,MBA
+1980 VX1,Ch,2.787,0.207,>100 trillion,83.26 trillion,9.634,MBA
+Fortuna,Ch,2.443,0.158,73.89 billion,4.77 billion,,MBA
+Nina,X,2.663,0.228,>100 trillion,>100 trillion,10.033,MBA
+Harryford,C,2.739,0.198,>100 trillion,>100 trillion,9.735,MBA
+Lutetia,Xk,2.435,0.163,1.70 billion,110.03 million,,MBA
+Pax,K,2.589,0.31,>100 trillion,>100 trillion,11.077,MBA
+Iphigenia,Ch,2.434,0.128,16.98 billion,1.10 billion,,MBA
+1992 ST1,Cb,2.79,0.209,>100 trillion,>100 trillion,9.644,MBA
+Octavia,X,2.761,0.25,>100 trillion,>100 trillion,9.795,MBA
+Soderblom,Ch,2.747,0.149,>100 trillion,>100 trillion,9.656,MBA
+Murray,X,2.784,0.196,>100 trillion,63.74 trillion,9.641,MBA
+Montague,C,2.569,0.024,>100 trillion,>100 trillion,10.096,MBA
+Faina,Ch,2.551,0.153,>100 trillion,>100 trillion,10.389,MBA
+Dabu,Ch,2.786,0.215,>100 trillion,>100 trillion,9.676,MBA
+Jacqueline,C,2.605,0.079,>100 trillion,>100 trillion,9.997,MBA
+1989 BD,C,2.699,0.152,>100 trillion,47.67 trillion,9.788,MBA
+Flammario,B,2.736,0.285,>100 trillion,>100 trillion,10.004,MBA
+Hurban,Xk,2.726,0.161,>100 trillion,>100 trillion,9.74,MBA
+Beatrix,X,2.432,0.082,>100 trillion,>100 trillion,,MBA
+1991 PK11,D,2.745,0.177,696.64 million,55.73 million,9.686,MBA
+Vala,Xc,2.432,0.068,>100 trillion,>100 trillion,,MBA
+Pawlowia,K,2.706,0.112,>100 trillion,>100 trillion,9.748,MBA
+Georgia,X,2.727,0.157,>100 trillion,>100 trillion,9.75,MBA
+Marceline,Xe,2.786,0.222,>100 trillion,36.74 trillion,9.72,MBA
+1987 YH,Ch,2.779,0.203,>100 trillion,>100 trillion,9.707,MBA
+Fiducia,C,2.678,0.113,>100 trillion,>100 trillion,9.845,MBA
+Tikhov,Cb,2.71,0.149,>100 trillion,>100 trillion,9.805,MBA
+Irkutsk,X,2.781,0.168,>100 trillion,>100 trillion,9.666,MBA
+Komarov,Ch,2.785,0.191,>100 trillion,>100 trillion,9.695,MBA
+Johnpearse,Ch,2.801,0.206,>100 trillion,>100 trillion,9.689,MBA
+Janacek,X,2.715,0.112,>100 trillion,9.65 trillion,9.772,MBA
+Parks,Ch,2.712,0.399,>100 trillion,8.36 trillion,11.601,MCA
+Eva,X,2.632,0.346,>100 trillion,60.10 trillion,,MBA
+Arachne,C,2.625,0.07,>100 trillion,>100 trillion,10.044,MBA
+Woltjer,Ch,2.785,0.191,>100 trillion,>100 trillion,9.729,MBA
+Akan,C,2.796,0.199,>100 trillion,>100 trillion,9.717,MBA
+Aspasia,Xc,2.576,0.073,>100 trillion,>100 trillion,10.29,MBA
+Antoku,X,2.741,0.146,>100 trillion,58.10 trillion,9.771,MBA
+Moira,Ch,2.735,0.159,>100 trillion,>100 trillion,9.82,MBA
+Viipuri,C,2.693,0.081,>100 trillion,>100 trillion,9.846,MBA
+Grissom,C,2.748,0.163,>100 trillion,>100 trillion,9.795,MBA
+Kodaira,B,2.755,0.417,>100 trillion,43.86 trillion,11.709,MCA
+Cora,X,2.723,0.215,>100 trillion,>100 trillion,9.996,MBA
+Zdenekhorsky,C,2.741,0.128,>100 trillion,>100 trillion,9.78,MBA
+Clasien,C,2.774,0.18,>100 trillion,>100 trillion,9.768,MBA
+Barks,C,2.721,0.13,>100 trillion,>100 trillion,9.854,MBA
+Lobachevskij,L,2.698,0.078,>100 trillion,44.89 trillion,9.871,MBA
+Canterbury,Ch,2.79,0.181,>100 trillion,>100 trillion,9.754,MBA
+Alsatia,C,2.64,0.162,>100 trillion,>100 trillion,10.247,MBA
+Kemi,C,2.773,0.417,>100 trillion,>100 trillion,11.594,MCA
+Thirouin,K,2.717,0.093,>100 trillion,61.14 trillion,9.844,MBA
+Pia,C,2.693,0.111,>100 trillion,>100 trillion,9.937,MBA
+Henan,L,2.699,0.086,>100 trillion,85.45 trillion,9.893,MBA
+Scania,K,2.716,0.106,>100 trillion,>100 trillion,9.864,MBA
+Haug,C,2.92,0.222,>100 trillion,>100 trillion,9.563,MBA
+Notburga,Xc,2.573,0.243,>100 trillion,>100 trillion,11.655,MBA
+Gentelec,D,2.74,0.121,525.91 million,41.68 million,9.773,MBA
+Kimura,Ch,2.793,0.178,>100 trillion,59.67 trillion,9.764,MBA
+Lugano,Ch,2.677,0.136,>100 trillion,>100 trillion,10.05,MBA
+Svea,C,2.477,0.025,>100 trillion,>100 trillion,,MBA
+Luisa,K,2.774,0.292,>100 trillion,>100 trillion,10.145,MBA
+Tetsuya,Ch,2.785,0.173,>100 trillion,>100 trillion,9.782,MBA
+Lena,X,2.685,0.148,>100 trillion,>100 trillion,10.055,MBA
+Benfranklin,B,2.801,0.194,>100 trillion,>100 trillion,9.783,MBA
+Namaqua,X,2.782,0.16,>100 trillion,>100 trillion,9.775,MBA
+Lavrov,L,2.73,0.103,>100 trillion,85.51 trillion,9.852,MBA
+Charlois,C,2.672,0.148,>100 trillion,>100 trillion,10.14,MBA
+Kiladze,L,2.694,0.078,>100 trillion,24.30 trillion,9.954,MBA
+Hestia,Xc,2.526,0.172,7.03 billion,453.77 million,,MBA
+Delila,B,2.75,0.161,>100 trillion,>100 trillion,9.893,MBA
+Albitskij,Ch,2.662,0.133,>100 trillion,>100 trillion,10.167,MBA
+Subbotina,Cg,2.787,0.138,>100 trillion,>100 trillion,9.76,MBA
+Rimskij-Korsakov,Cb,2.797,0.178,>100 trillion,>100 trillion,9.797,MBA
+Lujiaxi,L,2.732,0.104,>100 trillion,>100 trillion,9.871,MBA
+Alvarez,B,2.776,0.405,>100 trillion,99.35 trillion,11.704,MCA
+Walbeck,Cg,2.785,0.29,>100 trillion,>100 trillion,10.171,MBA
+Kennoguchi,Ch,2.792,0.172,>100 trillion,>100 trillion,9.809,MBA
+Izu,Ch,2.675,0.16,>100 trillion,>100 trillion,10.197,MBA
+Pasteur,C,2.694,0.116,>100 trillion,>100 trillion,10.033,MBA
+Sonneberga,X,2.682,0.06,>100 trillion,>100 trillion,10.014,MBA
+MIT,Ch,2.682,0.14,>100 trillion,>100 trillion,10.122,MBA
+Melanie,C,2.698,0.14,>100 trillion,>100 trillion,10.066,MBA
+Karl Marx,C,2.797,0.181,>100 trillion,>100 trillion,9.826,MBA
+Demokritos,Ch,2.796,0.167,>100 trillion,>100 trillion,9.807,MBA
+Julia,K,2.55,0.185,45.43 billion,2.93 billion,,MBA
+Euryanthe,Cb,2.727,0.15,>100 trillion,>100 trillion,10.008,MBA
+Whitehouse,Cg,2.8,0.152,>100 trillion,82.76 trillion,9.792,MBA
+Gunma,Ch,2.785,0.167,>100 trillion,>100 trillion,9.856,MBA
+Megaira,C,2.8,0.206,>100 trillion,>100 trillion,9.892,MBA
+Vinifera,X,2.618,0.206,>100 trillion,>100 trillion,10.895,MBA
+Russia,C,2.552,0.175,>100 trillion,>100 trillion,,MBA
+Okadanoboru,Cgh,2.698,0.192,>100 trillion,>100 trillion,10.244,MBA
+Sumeria,Ch,2.781,0.158,>100 trillion,>100 trillion,9.86,MBA
+Dudu,Xc,2.746,0.278,>100 trillion,>100 trillion,10.373,MBA
+Campania,Ch,2.689,0.078,>100 trillion,>100 trillion,10.063,MBA
+Elba,Xc,2.736,0.142,>100 trillion,45.22 trillion,10,MBA
+Emita,Ch,2.741,0.157,>100 trillion,>100 trillion,10.012,MBA
+1988 FF,Ch,2.769,0.168,>100 trillion,>100 trillion,9.944,MBA
+Tesla,C,2.811,0.181,>100 trillion,>100 trillion,9.845,MBA
+Arenda,Xc,2.731,0.089,>100 trillion,>100 trillion,9.951,MBA
+Melete,Xk,2.596,0.238,4.63 billion,298.39 million,,MBA
+Thuringia,Ch,2.748,0.218,>100 trillion,>100 trillion,10.162,MBA
+Virginia,Ch,2.649,0.286,24.14 billion,1.56 billion,,MBA
+Polyakhova,L,2.689,0.03,>100 trillion,26.15 trillion,10.072,MBA
+Monicalazzarin,Ch,2.783,0.157,>100 trillion,>100 trillion,9.894,MBA
+Fabini,C,2.699,0.083,>100 trillion,>100 trillion,10.089,MBA
+Federer,L,2.734,0.075,>100 trillion,20.63 trillion,9.957,MBA
+Eurydike,Xk,2.675,0.304,>100 trillion,>100 trillion,,MBA
+Prokne,C,2.615,0.238,19.23 billion,1.24 billion,,MBA
+Hugo,C,2.705,0.096,>100 trillion,>100 trillion,10.101,MBA
+Titania,C,2.698,0.217,>100 trillion,>100 trillion,10.476,MBA
+Gyptis,C,2.769,0.176,>100 trillion,>100 trillion,10.007,MBA
+Rockholt,B,2.734,0.356,>100 trillion,18.23 trillion,12.442,MBA
+Weissman,Cgh,2.666,0.181,>100 trillion,>100 trillion,10.547,MBA
+Sinzot,C,2.772,0.139,>100 trillion,>100 trillion,9.939,MBA
+Stobbe,Xc,2.61,0.021,>100 trillion,55.82 trillion,10.587,MBA
+Sarahill,Ch,2.718,0.065,>100 trillion,>100 trillion,10.045,MBA
+Hedwig,X,2.651,0.072,>100 trillion,>100 trillion,10.387,MBA
+Richilde,Xk,2.711,0.118,>100 trillion,>100 trillion,10.162,MBA
+Mathilde,Cb,2.649,0.263,>100 trillion,57.19 trillion,,MBA
+Peter,C,2.735,0.09,>100 trillion,>100 trillion,10.029,MBA
+Sheba,X,2.653,0.179,>100 trillion,>100 trillion,10.728,MBA
+Aeria,M,2.649,0.096,>100 trillion,>100 trillion,10.469,MBA
+Lawrence,C,2.757,0.363,>100 trillion,14.56 trillion,12.52,MBA
+Anyuta,X,2.75,0.123,>100 trillion,16.36 trillion,10.03,MBA
+Jerome,Ch,2.784,0.161,>100 trillion,>100 trillion,9.982,MBA
+Sophrosyne,Ch,2.563,0.117,>100 trillion,>100 trillion,,MBA
+Hirundo,Cgh,2.729,0.194,>100 trillion,>100 trillion,10.307,MBA
+1991 RN10,L,2.767,0.114,>100 trillion,18.75 trillion,9.97,MBA
+Tarka,Ch,2.635,0.214,>100 trillion,>100 trillion,11.406,MBA
+1992 EU,B,2.8,0.38,>100 trillion,9.79 trillion,11.916,MBA
+Felicitas,Ch,2.696,0.299,>100 trillion,>100 trillion,,MBA
+Egorov,C,2.75,0.088,>100 trillion,84.28 trillion,10.021,MBA
+Bauschinger,X,2.731,0.065,>100 trillion,56.53 trillion,10.068,MBA
+Diana,Ch,2.619,0.207,10.95 billion,706.10 million,,MBA
+Slipher,C,2.748,0.088,>100 trillion,>100 trillion,10.033,MBA
+Radcliffe,X,2.749,0.076,>100 trillion,87.62 trillion,10.017,MBA
+1988 AG,X,2.808,0.169,>100 trillion,11.29 trillion,9.971,MBA
+Svoboda,Xk,2.788,0.155,>100 trillion,92.26 trillion,10.022,MBA
+Miriam,C,2.662,0.252,>100 trillion,>100 trillion,,MBA
+Somville,C,2.728,0.088,>100 trillion,>100 trillion,10.144,MBA
+Roerich,L,2.752,0.067,>100 trillion,42.61 trillion,10.026,MBA
+Dzus,Ch,2.726,0.201,>100 trillion,>100 trillion,10.452,MBA
+Rovereto,D,2.799,0.184,1.47 billion,113.55 million,10.004,MBA
+Crabeels,L,2.741,0.07,>100 trillion,16.66 trillion,10.087,MBA
+Suevia,Xk,2.798,0.136,>100 trillion,>100 trillion,9.971,MBA
+Panopaea,Ch,2.616,0.18,37.33 billion,2.41 billion,,MBA
+Egeria,Ch,2.576,0.085,102.58 billion,6.61 billion,,MBA
+Beograd,X,2.717,0.046,>100 trillion,>100 trillion,10.178,MBA
+Vibilia,Ch,2.655,0.235,49.31 billion,3.18 billion,,MBA
+Wilson,Ch,2.754,0.073,>100 trillion,>100 trillion,10.052,MBA
+Alku,C,2.673,0.189,>100 trillion,>100 trillion,10.924,MBA
+Shcherbakovia,C,2.775,0.099,>100 trillion,>100 trillion,10.019,MBA
+Gunnie,X,2.694,0.091,>100 trillion,>100 trillion,10.378,MBA
+Sweitzer,Cb,2.698,0.045,>100 trillion,>100 trillion,10.293,MBA
+Strenua,Xc,2.7,0.039,>100 trillion,>100 trillion,10.283,MBA
+Aquitania,L,2.741,0.235,>100 trillion,>100 trillion,10.625,MBA
+Kozlovskij,Cb,2.744,0.063,>100 trillion,81.95 trillion,10.109,MBA
+Anacostia,L,2.739,0.203,>100 trillion,>100 trillion,10.473,MBA
+Holda,X,2.732,0.079,>100 trillion,>100 trillion,10.182,MBA
+Hakone,Xe,2.688,0.119,>100 trillion,>100 trillion,10.503,MBA
+Vangelis,Cb,2.656,0.217,>100 trillion,22.83 trillion,11.758,MBA
+Aegina,Ch,2.592,0.106,>100 trillion,>100 trillion,,MBA
+Klotho,M,2.668,0.257,1.33 billion,85.95 million,,MBA
+Ate,Ch,2.593,0.103,13.10 billion,844.68 million,,MBA
+Declercq,Ch,2.785,0.085,>100 trillion,>100 trillion,9.997,MBA
+1988 TQ4,C,2.783,0.08,>100 trillion,>100 trillion,10.006,MBA
+Anastasia,L,2.792,0.138,>100 trillion,>100 trillion,10.054,MBA
+Fram,C,2.78,0.085,>100 trillion,>100 trillion,10.024,MBA
+Botolphia,X,2.719,0.07,>100 trillion,>100 trillion,10.279,MBA
+Freud,Xc,2.766,0.091,>100 trillion,77.99 trillion,10.098,MBA
+Nonie,B,2.761,0.329,>100 trillion,>100 trillion,12.62,MBA
+Bogorodskij,Cg,2.754,0.071,>100 trillion,>100 trillion,10.127,MBA
+Padua,X,2.748,0.071,>100 trillion,>100 trillion,10.153,MBA
+Massachusetts,X,2.613,0.07,>100 trillion,>100 trillion,11.315,MBA
+Praxedis,Xk,2.775,0.235,>100 trillion,>100 trillion,10.489,MBA
+Descartes,C,2.703,0.039,>100 trillion,>100 trillion,10.348,MBA
+Delia,Ch,2.784,0.085,>100 trillion,>100 trillion,10.032,MBA
+Koyo,Cb,2.78,0.087,>100 trillion,>100 trillion,10.051,MBA
+Coppelia,Xe,2.659,0.076,>100 trillion,45.39 trillion,10.734,MBA
+Kiso,T,2.759,0.059,33.01 billion,2.53 billion,10.109,MBA
+Atalante,C,2.747,0.305,37.24 billion,2.40 billion,,MBA
+Lumen,Ch,2.664,0.215,71.13 billion,4.59 billion,,MBA
+Io,B,2.652,0.195,19.54 billion,1.26 billion,,MBA
+Nanon,Xk,2.712,0.066,>100 trillion,>100 trillion,10.364,MBA
+Aoba,C,2.751,0.048,>100 trillion,>100 trillion,10.153,MBA
+Albanese,Xk,2.759,0.073,>100 trillion,>100 trillion,10.144,MBA
+Bogoslovskij,Cgh,2.739,0.159,>100 trillion,90.74 trillion,10.429,MBA
+Shimizu,X,2.769,0.142,>100 trillion,>100 trillion,10.224,MBA
+Vanadis,C,2.664,0.208,21.27 billion,1.37 billion,,MBA
+Feodosia,Ch,2.733,0.181,>100 trillion,>100 trillion,10.571,MBA
+Apollonia,Ch,2.877,0.153,>100 trillion,>100 trillion,9.87,MBA
+Postrema,B,2.738,0.204,>100 trillion,>100 trillion,10.672,MBA
+Brita,Xk,2.804,0.109,>100 trillion,>100 trillion,10.039,MBA
+Maja,Ch,2.646,0.173,>100 trillion,>100 trillion,,MBA
+Estonia,Xc,2.767,0.07,>100 trillion,>100 trillion,10.134,MBA
+Omsk,X,2.797,0.131,>100 trillion,41.56 trillion,10.111,MBA
+Manas,L,2.739,0.031,>100 trillion,37.39 trillion,10.234,MBA
+Neva,Ch,2.755,0.095,>100 trillion,>100 trillion,10.232,MBA
+Erna,P,2.92,0.179,>100 trillion,>100 trillion,9.832,MBA
+Dike,Xk,2.666,0.195,>100 trillion,>100 trillion,,MBA
+Wawel,X,2.777,0.066,>100 trillion,79.96 trillion,10.12,MBA
+Piironen,X,2.719,0.118,>100 trillion,>100 trillion,10.517,MBA
+1988 CJ,K,2.76,0.041,>100 trillion,>100 trillion,10.185,MBA
+Aschera,Xc,2.611,0.031,>100 trillion,>100 trillion,,MBA
+Tornio,T,2.716,0.118,25.67 billion,1.88 billion,10.579,MBA
+Rhodope,Xe,2.685,0.212,>100 trillion,>100 trillion,,MBA
+Daguerre,X,2.778,0.099,>100 trillion,86.37 trillion,10.197,MBA
+Herba,C,2.996,0.323,>100 trillion,>100 trillion,10.085,MBA
+Lorre,C,2.746,0.276,>100 trillion,>100 trillion,11.944,MBA
+DuBridge,C,2.729,0.275,>100 trillion,9.26 trillion,13.664,MBA
+Gondola,X,2.707,0.068,>100 trillion,14.94 trillion,10.565,MBA
+Varsavia,Xc,2.665,0.189,>100 trillion,>100 trillion,12.966,MBA
+Zibiturtle,C,2.783,0.045,>100 trillion,>100 trillion,10.158,MBA
+1990 SU10,Cb,2.79,0.062,>100 trillion,>100 trillion,10.147,MBA
+Siegma,Xc,2.749,0.035,>100 trillion,62.81 trillion,10.318,MBA
+Taiwan,C,2.788,0.049,>100 trillion,>100 trillion,10.158,MBA
+Penelope,X,2.68,0.18,>100 trillion,>100 trillion,,MBA
+Alex,X,2.785,0.069,>100 trillion,8.83 trillion,10.192,MBA
+Astrid,C,2.787,0.045,>100 trillion,>100 trillion,10.168,MBA
+Lamberta,Ch,2.727,0.242,28.06 billion,1.81 billion,,MBA
+Daphne,Ch,2.76,0.275,54.40 billion,3.51 billion,,MBA
+Ilsebill,C,2.772,0.083,>100 trillion,>100 trillion,10.288,MBA
+Tina,X,2.794,0.25,>100 trillion,>100 trillion,10.857,MBA
+Ianthe,Ch,2.688,0.187,9.89 billion,637.28 million,,MBA
+Emel'yanov,X,2.744,0.005,>100 trillion,22.12 trillion,10.384,MBA
+Heiskanen,C,3.163,0.277,>100 trillion,>100 trillion,9.606,MBA
+Chaumont,X,2.738,0.014,>100 trillion,41.53 trillion,10.421,MBA
+Divis,X,2.749,0.013,>100 trillion,18.17 trillion,10.359,MBA
+Lederle,C,2.728,0.132,>100 trillion,>100 trillion,10.727,MBA
+Northcott,X,2.742,0.016,>100 trillion,68.53 trillion,10.422,MBA
+Dermott,B,2.799,0.103,>100 trillion,>100 trillion,10.229,MBA
+Vladimir,B,2.711,0.058,>100 trillion,>100 trillion,10.706,MBA
+Eukrate,Xc,2.741,0.245,>100 trillion,>100 trillion,,MBA
+1990 RO1,C,2.79,0.059,>100 trillion,>100 trillion,10.214,MBA
+Xanthippe,Ch,2.727,0.227,55.95 billion,3.61 billion,,MBA
+Adeona,Ch,2.675,0.144,13.03 billion,839.44 million,,MBA
+Podobed,T,2.789,0.041,5.65 billion,428.56 million,10.19,MBA
+Oceana,M,2.645,0.044,>100 trillion,>100 trillion,,MBA
+Eugenisis,Ch,2.793,0.059,>100 trillion,>100 trillion,10.225,MBA
+Hoffmeister,Cb,2.788,0.042,>100 trillion,>100 trillion,10.236,MBA
+Asterope,K,2.66,0.099,>100 trillion,>100 trillion,,MBA
+Alexandra,C,2.71,0.197,52.69 billion,3.40 billion,,MBA
+Jeffbell,Ch,2.791,0.093,>100 trillion,>100 trillion,10.3,MBA
+Bowman,Xc,2.781,0.032,>100 trillion,91.88 trillion,10.279,MBA
+Kassandra,Xk,2.679,0.135,>100 trillion,>100 trillion,,MBA
+Corduba,C,2.802,0.157,>100 trillion,>100 trillion,10.417,MBA
+Jennabelle,X,2.788,0.138,>100 trillion,12.69 trillion,10.442,MBA
+Herriot,B,2.786,0.033,>100 trillion,>100 trillion,10.281,MBA
+Migaic,Xc,2.781,0.067,>100 trillion,37.23 trillion,10.343,MBA
+Yvonne,C,2.766,0.27,>100 trillion,>100 trillion,13.717,MBA
+Frigga,Xe,2.668,0.132,1.74 billion,112.37 million,,MBA
+Angelina,Xe,2.681,0.126,>100 trillion,>100 trillion,,MBA
+Siwa,Xc,2.734,0.214,>100 trillion,>100 trillion,,MBA
+Euripides,C,2.782,0.022,>100 trillion,37.29 trillion,10.339,MBA
+Occidental,L,2.803,0.078,>100 trillion,38.25 trillion,10.306,MBA
+Isakovskij,C,2.783,0.012,>100 trillion,>100 trillion,10.352,MBA
+Voronikhin,Ch,2.848,0.185,>100 trillion,>100 trillion,10.372,MBA
+Winchester,C,3.006,0.339,>100 trillion,>100 trillion,10.423,MBA
+Ada,X,2.966,0.178,>100 trillion,>100 trillion,9.913,MBA
+Circe,Ch,2.687,0.106,31.42 billion,2.02 billion,,MBA
+Bobone,Xe,2.781,0.082,>100 trillion,41.01 trillion,10.5,MBA
+Ino,Xk,2.743,0.209,6.03 billion,388.52 million,,MBA
+Bathilde,Xk,2.807,0.08,>100 trillion,>100 trillion,10.359,MBA
+Haremari,L,2.767,0.149,>100 trillion,>100 trillion,10.888,MBA
+Irma,Ch,2.774,0.234,>100 trillion,>100 trillion,,MBA
+Pallas,B,2.772,0.23,1.78 trillion,114.54 billion,,MBA
+Kalahari,L,2.855,0.144,>100 trillion,>100 trillion,10.278,MBA
+Ksana,B,2.871,0.33,>100 trillion,43.76 trillion,13.148,MBA
+Galatea,C,2.783,0.236,52.85 billion,3.40 billion,,MBA
+Lise,X,2.757,0.072,>100 trillion,>100 trillion,10.771,MBA
+Elpis,B,2.712,0.119,29.89 billion,1.93 billion,,MBA
+Phaeo,X,2.781,0.246,1.86 billion,120.08 million,,MBA
+Mandeville,X,2.737,0.144,>100 trillion,>100 trillion,11.551,MBA
+Stampfer,X,2.804,0.055,>100 trillion,11.54 trillion,10.425,MBA
+Kleopatra,Xe,2.794,0.251,4.65 billion,299.54 million,,MBA
+Deborah,B,2.816,0.05,>100 trillion,>100 trillion,10.367,MBA
+Hale,Ch,2.87,0.223,>100 trillion,>100 trillion,10.59,MBA
+Isabella,Cb,2.722,0.124,29.36 billion,1.89 billion,,MBA
+Concordia,Ch,2.7,0.043,>100 trillion,>100 trillion,,MBA
+Leda,Cgh,2.739,0.155,49.23 billion,3.17 billion,,MBA
+Transvaalia,X,2.768,0.083,>100 trillion,>100 trillion,10.869,MBA
+Arkhipova,Xk,2.757,0.079,>100 trillion,>100 trillion,10.992,MBA
+Niobe,Xe,2.757,0.173,>100 trillion,>100 trillion,,MBA
+Ursina,X,2.797,0.106,>100 trillion,>100 trillion,10.73,MBA
+Eunike,C,2.738,0.129,33.29 billion,2.14 billion,,MBA
+Eugenia,C,2.721,0.084,50.26 billion,3.24 billion,,MBA
+Dynamene,Ch,2.74,0.132,92.25 billion,5.94 billion,,MBA
+Lucina,Ch,2.718,0.067,>100 trillion,>100 trillion,,MBA
+Kurchenko,Xc,2.768,0.12,>100 trillion,66.18 trillion,11.196,MBA
+Fini,C,2.748,0.103,>100 trillion,>100 trillion,11.514,MBA
+Lilaea,B,2.753,0.145,>100 trillion,>100 trillion,,MBA
+Ingelehmann,Xc,2.744,0.083,>100 trillion,23.26 trillion,11.47,MBA
+Thoma,L,2.784,0.136,>100 trillion,76.36 trillion,11.151,MBA
+Bavaria,C,2.726,0.067,>100 trillion,>100 trillion,,MBA
+Lydia,X,2.731,0.081,>100 trillion,>100 trillion,,MBA
+Una,C,2.728,0.067,>100 trillion,>100 trillion,,MBA
+Frieden,C,2.787,0.081,>100 trillion,>100 trillion,10.863,MBA
+Elisabetha,C,2.763,0.043,>100 trillion,>100 trillion,11.053,MBA
+Marcelle,Cg,2.784,0.006,>100 trillion,>100 trillion,10.785,MBA
+Orlov,K,2.926,0.12,>100 trillion,>100 trillion,10.123,MBA
+Nemesis,C,2.75,0.127,61.31 billion,3.95 billion,,MBA
+Sapientia,C,2.77,0.164,>100 trillion,>100 trillion,,MBA
+Minerva,C,2.756,0.139,30.17 billion,1.94 billion,,MBA
+Thisbe,B,2.769,0.162,117.40 billion,7.56 billion,,MBA
+Watsonia,L,2.759,0.098,>100 trillion,>100 trillion,11.392,MBA
+Pandora,X,2.76,0.143,>100 trillion,>100 trillion,,MBA
+Hercynia,L,2.993,0.242,>100 trillion,>100 trillion,10.242,MBA
+Sechenov,B,2.76,0.164,>100 trillion,>100 trillion,14.839,MBA
+Honoria,L,2.797,0.191,>100 trillion,>100 trillion,,MBA
+Zerlina,B,2.786,0.197,>100 trillion,>100 trillion,14.177,MBA
+Juewa,X,2.782,0.175,6.76 billion,435.22 million,,MBA
+Liberatrix,X,2.744,0.078,>100 trillion,>100 trillion,,MBA
+Rhoda,Xk,2.803,0.161,>100 trillion,>100 trillion,11.36,MBA
+Olympiada,X,2.804,0.175,>100 trillion,>100 trillion,11.544,MBA
+Senrikyu,B,2.765,0.157,>100 trillion,>100 trillion,14.343,MBA
+Anneliese,Ch,2.926,0.154,>100 trillion,>100 trillion,10.271,MBA
+Hersilia,C,2.741,0.038,>100 trillion,>100 trillion,,MBA
+Mombasa,Xc,2.811,0.141,>100 trillion,>100 trillion,11.121,MBA
+Sholokhov,L,2.79,0.117,>100 trillion,>100 trillion,11.274,MBA
+Polyxo,T,2.75,0.041,2.30 trillion,148.33 billion,,MBA
+Johanna,Ch,2.755,0.067,26.55 billion,1.71 billion,,MBA
+Hispania,C,2.839,0.14,>100 trillion,>100 trillion,10.889,MBA
+Adria,Xc,2.76,0.074,>100 trillion,>100 trillion,,MBA
+Cornelia,C,2.887,0.06,>100 trillion,>100 trillion,10.343,MBA
+Toni,X,2.941,0.154,>100 trillion,>100 trillion,10.278,MBA
+Palomaa,Xk,2.788,0.079,>100 trillion,>100 trillion,11.296,MBA
+Ortrud,C,2.968,0.122,>100 trillion,>100 trillion,10.104,MBA
+Ioffe,B,2.775,0.143,>100 trillion,>100 trillion,14.647,MBA
+Seraphina,P,2.9,0.131,>100 trillion,>100 trillion,10.453,MBA
+Tirza,D,2.775,0.099,36.48 billion,2.35 billion,,MBA
+Ceres,C,2.769,0.076,8.12 trillion,522.92 billion,,MBA
+Siri,Xk,2.773,0.088,>100 trillion,>100 trillion,,MBA
+Aline,Ch,2.807,0.154,35.78 billion,2.30 billion,,MBA
+Paeonia,C,3.123,0.216,>100 trillion,>100 trillion,9.895,MBA
+Terpsichore,Cb,2.854,0.211,53.29 billion,3.43 billion,,MBA
+Martha,Ch,2.778,0.036,>100 trillion,>100 trillion,,MBA
+Erida,X,3.057,0.199,>100 trillion,>100 trillion,10.071,MBA
+Sayama,X,2.851,0.131,>100 trillion,46.95 trillion,11.044,MBA
+Antonia,X,2.78,0.027,>100 trillion,>100 trillion,,MBA
+Wilhelmina,Ch,2.882,0.141,>100 trillion,>100 trillion,10.807,MBA
+Don Quixote,D,4.259,0.709,1.42 billion,92.38 million,11.914,AMO
+Pannekoek,Cgh,2.889,0.143,>100 trillion,>100 trillion,10.8,MBA
+Charis,X,2.901,0.058,>100 trillion,>100 trillion,10.493,MBA
+Lucifer,Cgh,2.899,0.142,>100 trillion,>100 trillion,10.796,MBA
+Solvejg,B,3.098,0.191,>100 trillion,>100 trillion,10.003,MBA
+Antigone,X,2.869,0.212,2.73 billion,175.45 million,,MBA
+Burns,B,3.081,0.178,>100 trillion,>100 trillion,10.037,MBA
+Raybatson,X,2.85,0.097,>100 trillion,68.08 trillion,11.258,MBA
+Terentia,Ch,2.932,0.115,>100 trillion,>100 trillion,10.531,MBA
+Haidea,D,3.075,0.201,69.07 billion,5.26 billion,10.144,MBA
+Onnetoh,X,2.867,0.13,>100 trillion,18.12 trillion,11.328,MBA
+Scheila,T,2.929,0.163,4.42 trillion,315.73 billion,10.802,MBA
+Ginevra,P,2.922,0.058,>100 trillion,>100 trillion,10.607,MBA
+Budrosa,Xk,2.911,0.022,>100 trillion,>100 trillion,10.645,MBA
+Irmintraud,T,2.858,0.079,834.99 billion,56.48 billion,11.415,MBA
+Carmen,M,2.907,0.043,>100 trillion,>100 trillion,10.707,MBA
+Letaba,C,2.866,0.155,>100 trillion,>100 trillion,12.469,MBA
+Siegena,C,2.9,0.169,>100 trillion,>100 trillion,11.557,MBA
+Bardwell,B,3.118,0.182,>100 trillion,>100 trillion,10.044,MBA
+Kriemhild,Xc,2.861,0.122,>100 trillion,>100 trillion,,MBA
+Pickeringia,C,3.097,0.243,>100 trillion,>100 trillion,10.34,MBA
+Konkolya,C,3.119,0.182,>100 trillion,>100 trillion,10.055,MBA
+Beruti,C,3.088,0.161,>100 trillion,>100 trillion,10.105,MBA
+Pirola,C,3.12,0.181,>100 trillion,>100 trillion,10.054,MBA
+Carlova,C,3.008,0.176,>100 trillion,>100 trillion,10.508,MBA
+Bondia,B,3.122,0.182,>100 trillion,>100 trillion,10.064,MBA
+Borrelly,B,3.145,0.19,>100 trillion,>100 trillion,10.042,MBA
+Aglaja,B,2.881,0.13,34.60 billion,2.23 billion,,MBA
+Sorga,Xe,2.988,0.141,>100 trillion,>100 trillion,10.56,MBA
+Athalia,Cb,3.12,0.175,>100 trillion,>100 trillion,10.086,MBA
+Berbericia,Cgh,2.931,0.165,>100 trillion,>100 trillion,11.3,MBA
+Tekmessa,Xc,3.148,0.198,>100 trillion,>100 trillion,10.08,MBA
+Marianna,C,3.085,0.25,>100 trillion,>100 trillion,10.608,MBA
+Beethoven,C,3.151,0.191,>100 trillion,>100 trillion,10.066,MBA
+Hippo,C,2.89,0.105,>100 trillion,>100 trillion,11.768,MBA
+Huenna,C,3.143,0.18,>100 trillion,>100 trillion,10.087,MBA
+Eurykleia,Ch,2.878,0.044,>100 trillion,>100 trillion,,MBA
+Hilaritas,B,3.09,0.14,>100 trillion,>100 trillion,10.2,MBA
+Kolga,Cb,2.894,0.091,>100 trillion,>100 trillion,,MBA
+Charlotte,Xe,3.057,0.154,>100 trillion,>100 trillion,10.402,MBA
+Naema,C,2.938,0.07,>100 trillion,>100 trillion,11.036,MBA
+Nephele,B,3.14,0.17,>100 trillion,>100 trillion,10.136,MBA
+Ute,X,3.052,0.182,>100 trillion,>100 trillion,10.596,MBA
+Hammonia,C,2.993,0.055,>100 trillion,>100 trillion,10.568,MBA
+Psyche,X,2.924,0.134,27.67 billion,1.78 billion,,MBA
+Virtus,Ch,2.986,0.065,>100 trillion,>100 trillion,10.631,MBA
+May,X,2.968,0.07,>100 trillion,>100 trillion,10.786,MBA
+Rusthawelia,P,3.178,0.194,>100 trillion,>100 trillion,10.098,MBA
+Bathseba,K,3.022,0.133,>100 trillion,>100 trillion,10.597,MBA
+Leukothea,C,2.994,0.226,>100 trillion,>100 trillion,,MBA
+Hypatia,Ch,2.907,0.09,37.42 billion,2.41 billion,,MBA
+Edwin,Xe,2.983,0.065,>100 trillion,>100 trillion,10.682,MBA
+Valeria,L,2.977,0.123,>100 trillion,>100 trillion,10.929,MBA
+Janina,B,3.14,0.167,>100 trillion,>100 trillion,10.166,MBA
+Kalliope,X,2.915,0.098,7.88 billion,506.99 million,,MBA
+Charybdis,C,3.003,0.066,>100 trillion,>100 trillion,10.612,MBA
+Vilas,Ch,3.132,0.158,>100 trillion,>100 trillion,10.216,MBA
+Rauma,K,3.007,0.092,>100 trillion,>100 trillion,10.714,MBA
+Edisona,K,3.013,0.118,>100 trillion,>100 trillion,10.76,MBA
+Dodona,M,3.122,0.172,>100 trillion,>100 trillion,10.328,MBA
+Turandot,C,3.187,0.219,>100 trillion,>100 trillion,10.252,MBA
+Tatsuo,K,3.019,0.093,>100 trillion,>100 trillion,10.663,MBA
+Elyna,K,3.015,0.086,>100 trillion,>100 trillion,10.675,MBA
+Dorothea,K,3.013,0.098,>100 trillion,>100 trillion,10.738,MBA
+Tombaugh,Xc,3.024,0.102,>100 trillion,>100 trillion,10.683,MBA
+Whittemora,M,3.169,0.232,>100 trillion,>100 trillion,10.409,MBA
+Rarahu,K,3.017,0.108,>100 trillion,>100 trillion,10.772,MBA
+Schalen,D,3.094,0.116,15.81 billion,1.18 billion,10.35,MBA
+Tauris,C,3.153,0.307,>100 trillion,>100 trillion,11.367,MBA
+Hesperia,X,2.977,0.17,5.58 billion,358.91 million,,MBA
+Thekla,Ch,3.046,0.062,>100 trillion,>100 trillion,10.51,MBA
+Jena,B,3.122,0.134,>100 trillion,>100 trillion,10.293,MBA
+Centesima,K,3.014,0.084,>100 trillion,>100 trillion,10.784,MBA
+Koussevitzky,K,3.027,0.118,>100 trillion,>100 trillion,10.803,MBA
+Erminia,C,2.923,0.05,>100 trillion,>100 trillion,13.142,MBA
+Miune,X,3.007,0.067,>100 trillion,>100 trillion,10.833,MBA
+Theobalda,C,3.183,0.254,>100 trillion,>100 trillion,10.543,MBA
+Hannibal,Ch,3.125,0.22,>100 trillion,>100 trillion,10.681,MBA
+Marlu,P,3.11,0.237,>100 trillion,>100 trillion,11.027,MBA
+Pieters,K,3.022,0.097,>100 trillion,>100 trillion,10.887,MBA
+Washingtonia,C,3.17,0.27,>100 trillion,>100 trillion,10.834,MBA
+Sidonia,K,3.012,0.078,>100 trillion,>100 trillion,10.931,MBA
+Oriola,C,3.014,0.034,>100 trillion,>100 trillion,10.816,MBA
+Laurentia,Ch,3.017,0.181,>100 trillion,>100 trillion,,MBA
+Nuwa,Cb,2.983,0.123,15.32 billion,985.08 million,,MBA
+Adzhimushkaj,K,3.005,0.045,>100 trillion,>100 trillion,11.071,MBA
+Angelica,Xc,3.154,0.282,>100 trillion,>100 trillion,11.446,MBA
+Makarenko,Xc,3.012,0.061,>100 trillion,63.11 trillion,11.06,MBA
+Ruth,M,3.015,0.036,>100 trillion,>100 trillion,10.968,MBA
+Cloelia,K,3.018,0.035,>100 trillion,>100 trillion,10.976,MBA
+Tergeste,L,3.016,0.083,>100 trillion,>100 trillion,11.147,MBA
+Zhangguoxi,K,3.018,0.032,>100 trillion,>100 trillion,11.013,MBA
+Freda,C,3.129,0.271,>100 trillion,>100 trillion,12.155,MBA
+Berenike,K,3.014,0.04,>100 trillion,>100 trillion,11.142,MBA
+Natalie,C,3.132,0.188,>100 trillion,>100 trillion,10.722,MBA
+Millis,B,3.128,0.103,>100 trillion,>100 trillion,10.431,MBA
+Asta,C,3.071,0.144,>100 trillion,>100 trillion,11.004,MBA
+Interamnia,B,3.058,0.155,644.19 billion,43.66 billion,11.379,MBA
+Sniadeckia,C,3.002,0.005,>100 trillion,>100 trillion,11.494,MBA
+Norma,B,3.19,0.15,>100 trillion,>100 trillion,10.319,MBA
+Isolda,Ch,3.041,0.161,38.25 billion,2.46 billion,,MBA
+Bernardina,X,3.143,0.154,>100 trillion,>100 trillion,10.58,MBA
+Eos,K,3.011,0.104,50.54 billion,3.25 billion,,MBA
+Pafuri,X,3.128,0.143,>100 trillion,>100 trillion,10.634,MBA
+Chalonge,Ch,3.123,0.186,>100 trillion,>100 trillion,10.941,MBA
+Malabar,Ch,2.988,0.049,>100 trillion,>100 trillion,13.114,MBA
+Lomia,X,2.99,0.028,5.97 billion,383.53 million,,MBA
+Pales,Ch,3.105,0.222,48.99 billion,3.15 billion,,MBA
+Quintilla,M,3.182,0.138,>100 trillion,>100 trillion,10.382,MBA
+Tanete,C,2.999,0.092,>100 trillion,>100 trillion,13.798,MBA
+Klotilde,C,3.173,0.161,>100 trillion,>100 trillion,10.509,MBA
+Ani,C,3.124,0.193,>100 trillion,>100 trillion,11.126,MBA
+Palma,B,3.15,0.259,>100 trillion,>100 trillion,11.988,MBA
+Isergina,C,3.141,0.12,>100 trillion,>100 trillion,10.561,MBA
+Semele,C,3.107,0.215,>100 trillion,>100 trillion,,MBA
+Persephone,X,3.054,0.075,>100 trillion,>100 trillion,11.225,MBA
+Etheridgea,C,3.029,0.097,>100 trillion,>100 trillion,,MBA
+The NORC,C,3.191,0.229,>100 trillion,>100 trillion,10.908,MBA
+Carnegia,Xk,3.093,0.067,>100 trillion,>100 trillion,10.836,MBA
+Arethusa,Ch,3.065,0.153,>100 trillion,>100 trillion,,MBA
+Meliboea,C,3.123,0.212,65.95 billion,4.24 billion,,MBA
+Germania,B,3.05,0.103,>100 trillion,>100 trillion,,MBA
+Radek,D,3.182,0.21,7.29 billion,514.60 million,10.927,MBA
+Elektra,Ch,3.125,0.209,56.90 billion,3.66 billion,,MBA
+Diotima,C,3.066,0.036,>100 trillion,>100 trillion,11.224,MBA
+Eucharis,Xk,3.126,0.206,>100 trillion,>100 trillion,,MBA
+Kreusa,C,3.167,0.158,>100 trillion,>100 trillion,10.791,MBA
+Lorraine,Xc,3.096,0.071,>100 trillion,>100 trillion,11.047,MBA
+Finsen,C,3.13,0.151,>100 trillion,>100 trillion,11.123,MBA
+Zappala,T,3.134,0.153,35.65 billion,2.47 billion,11.137,MBA
+Ara,M,3.146,0.201,>100 trillion,>100 trillion,11.575,MBA
+Davida,C,3.165,0.188,>100 trillion,>100 trillion,11.145,MBA
+Euphrosyne,Cb,3.155,0.221,143.32 billion,9.21 billion,,MBA
+Melusina,C,3.121,0.138,>100 trillion,>100 trillion,11.276,MBA
+Lictoria,Xc,3.184,0.124,>100 trillion,>100 trillion,10.623,MBA
+Maritima,C,3.137,0.176,>100 trillion,>100 trillion,11.515,MBA
+Filipenko,C,3.181,0.204,>100 trillion,>100 trillion,11.216,MBA
+Messalina,Cb,3.203,0.17,>100 trillion,>100 trillion,10.748,OMB
+Andromache,Cg,3.183,0.233,>100 trillion,>100 trillion,,MBA
+Fatme,X,3.124,0.052,>100 trillion,>100 trillion,10.992,MBA
+Laodica,X,3.154,0.1,>100 trillion,>100 trillion,10.874,MBA
+Europa,C,3.093,0.11,220.94 billion,14.19 billion,,MBA
+Ornamenta,C,3.111,0.159,>100 trillion,>100 trillion,12.702,MBA
+Imatra,C,3.111,0.095,>100 trillion,>100 trillion,11.469,MBA
+Erato,Ch,3.135,0.168,>100 trillion,>100 trillion,,MBA
+Clara,L,3.197,0.123,>100 trillion,>100 trillion,10.719,MBA
+Bredichina,C,3.177,0.16,>100 trillion,>100 trillion,11.124,MBA
+Farinella,D,3.204,0.151,10.15 billion,723.18 million,10.812,OMB
+Aemilia,Ch,3.103,0.107,>100 trillion,>100 trillion,,MBA
+Kamenyar,Ch,3.164,0.096,>100 trillion,>100 trillion,10.892,MBA
+Vundtia,C,3.142,0.077,>100 trillion,>100 trillion,11.104,MBA
+Ursula,Xc,3.128,0.105,>100 trillion,>100 trillion,11.524,MBA
+Klymene,Ch,3.145,0.161,>100 trillion,>100 trillion,,MBA
+Antiope,C,3.15,0.166,>100 trillion,>100 trillion,,MBA
+Veritas,Ch,3.172,0.094,>100 trillion,>100 trillion,10.91,MBA
+Ophelia,C,3.129,0.132,>100 trillion,>100 trillion,,MBA
+Tanjiazhen,C,3.177,0.087,>100 trillion,>100 trillion,10.855,MBA
+Thomana,Cgh,3.172,0.1,>100 trillion,>100 trillion,10.949,MBA
+Pulcova,C,3.153,0.106,>100 trillion,>100 trillion,11.201,MBA
+Byblis,X,3.166,0.18,>100 trillion,>100 trillion,,MBA
+Nerthus,C,3.135,0.104,>100 trillion,>100 trillion,11.57,MBA
+Silesia,Ch,3.126,0.111,>100 trillion,>100 trillion,,MBA
+Doris,Ch,3.11,0.072,57.85 billion,3.71 billion,,MBA
+Vincentina,Ch,3.146,0.056,>100 trillion,>100 trillion,11.168,MBA
+Aletheia,X,3.133,0.129,7.81 billion,501.66 million,,MBA
+Themis,B,3.136,0.125,52.83 billion,3.39 billion,,MBA
+Bettina,Xk,3.143,0.135,>100 trillion,>100 trillion,,MBA
+Nata,Ch,3.163,0.054,>100 trillion,>100 trillion,11.011,MBA
+Edna,C,3.197,0.197,>100 trillion,>100 trillion,11.942,MBA
+Tjossem,Cg,3.173,0.074,>100 trillion,>100 trillion,11.03,MBA
+Harris,T,3.122,0.068,4.59 billion,305.67 million,11.565,MBA
+Loreley,Cb,3.126,0.086,168.40 billion,10.81 billion,,MBA
+Philippa,C,3.118,0.026,>100 trillion,>100 trillion,11.799,MBA
+Jean-Jacques,M,3.125,0.048,>100 trillion,>100 trillion,11.72,MBA
+Hygiea,C,3.142,0.112,750.20 billion,48.17 billion,,MBA
+Lachesis,C,3.12,0.052,>100 trillion,>100 trillion,,MBA
+Aristophanes,Ch,3.169,0.052,>100 trillion,>100 trillion,11.064,MBA
+Iduna,Ch,3.181,0.171,>100 trillion,>100 trillion,,MBA
+Gedania,C,3.195,0.097,>100 trillion,>100 trillion,10.986,MBA
+Brambilla,Cgh,3.161,0.081,>100 trillion,>100 trillion,11.365,MBA
+Kharadze,Ch,3.173,0.056,>100 trillion,>100 trillion,11.157,MBA
+Dione,Cgh,3.186,0.162,25.61 billion,1.64 billion,,MBA
+Comacina,C,3.153,0.047,>100 trillion,>100 trillion,11.47,MBA
+Christa,Xc,3.205,0.087,>100 trillion,>100 trillion,10.995,OMB
+Aurora,C,3.157,0.094,60.78 billion,3.90 billion,,MBA
+Sundmania,X,3.192,0.058,>100 trillion,>100 trillion,11.095,MBA
+Uzbekistania,Xk,3.195,0.067,>100 trillion,>100 trillion,11.094,MBA
+Leontina,X,3.203,0.069,>100 trillion,>100 trillion,11.025,OMB
+Protogeneia,C,3.141,0.026,106.04 billion,6.81 billion,,MBA
+Spiridonia,P,3.171,0.075,>100 trillion,>100 trillion,11.729,MBA
+Dido,Xc,3.147,0.056,5.06 billion,324.78 million,,MBA
+Princetonia,C,3.163,0.008,>100 trillion,>100 trillion,11.705,MBA
+Heidelberga,M,3.216,0.157,>100 trillion,>100 trillion,,OMB
+Arosa,X,3.196,0.118,>100 trillion,>100 trillion,11.985,MBA
+Caltech,Xc,3.172,0.105,>100 trillion,>100 trillion,14.284,MBA
+Aralia,Xk,3.212,0.112,>100 trillion,>100 trillion,11.575,OMB
+Helio,B,3.202,0.145,>100 trillion,>100 trillion,13.103,OMB
+Tugela,Xc,3.229,0.148,>100 trillion,>100 trillion,11.83,OMB
+Undina,Xc,3.186,0.105,4.88 billion,312.95 million,,MBA
+Carina,C,3.189,0.087,>100 trillion,>100 trillion,12.113,MBA
+Myrrha,Cb,3.225,0.09,>100 trillion,>100 trillion,11.304,OMB
+Elfriede,C,3.191,0.07,>100 trillion,>100 trillion,11.93,MBA
+Dejopeja,X,3.188,0.066,>100 trillion,>100 trillion,,MBA
+Bertha,C,3.196,0.077,71.69 billion,4.60 billion,,MBA
+Kartvelia,Xc,3.217,0.117,>100 trillion,>100 trillion,12.037,OMB
+Alikoski,C,3.212,0.083,>100 trillion,>100 trillion,11.921,OMB
+Iclea,Ch,3.196,0.028,>100 trillion,>100 trillion,,MBA
+Cincinnati,Xk,3.421,0.314,>100 trillion,48.90 trillion,15.198,OMB
+Harimaya-Bashi,Xc,3.204,0.066,>100 trillion,>100 trillion,12.128,OMB
+Alauda,B,3.192,0.017,>100 trillion,>100 trillion,12.758,MBA
+Henrietta,C,3.394,0.264,>100 trillion,>100 trillion,,OMB
+Gerda,L,3.225,0.032,>100 trillion,>100 trillion,,OMB
+Tauntonia,Xk,3.21,0.034,>100 trillion,>100 trillion,12.917,OMB
+Stereoskopia,C,3.376,0.119,>100 trillion,>100 trillion,10.768,OMB
+Tchaikovsky,D,3.401,0.181,21.49 billion,1.49 billion,11.124,OMB
+Luscinia,C,3.404,0.157,>100 trillion,>100 trillion,10.971,OMB
+Kythera,T,3.422,0.119,725.75 billion,52.03 billion,10.735,OMB
+Lydina,C,3.406,0.106,>100 trillion,>100 trillion,11.139,OMB
+Tisiphone,C,3.352,0.092,>100 trillion,>100 trillion,12.297,OMB
+Herrick,C,3.439,0.126,>100 trillion,>100 trillion,11.031,OMB
+Scheherezade,P,3.363,0.057,>100 trillion,>100 trillion,11.752,OMB
+Dubiago,D,3.412,0.069,52.24 billion,3.63 billion,11.081,OMB
+Freia,X,3.413,0.166,5.14 billion,329.52 million,,OMB
+Pretoria,P,3.408,0.152,>100 trillion,>100 trillion,12.263,OMB
+Sibylla,Ch,3.372,0.074,36.21 billion,2.32 billion,,OMB
+Tone,P,3.36,0.051,>100 trillion,>100 trillion,12.221,OMB
+Riga,Cb,3.358,0.056,>100 trillion,>100 trillion,13.06,OMB
+Bertholda,P,3.415,0.03,>100 trillion,>100 trillion,11.309,OMB
+Cybele,Xc,3.426,0.112,15.79 billion,1.01 billion,,OMB
+Hermione,Ch,3.452,0.132,43.45 billion,2.79 billion,,OMB
+Abastumani,P,3.438,0.035,>100 trillion,>100 trillion,12.789,OMB
+Sylvia,X,3.483,0.093,14.73 billion,943.99 million,,OMB
+Pushkin,D,3.497,0.031,14.16 billion,961.24 million,11.328,OMB
+Liriope,Cg,3.507,0.072,>100 trillion,>100 trillion,11.417,OMB
+Tabora,D,3.553,0.117,86.91 billion,5.99 billion,11.165,OMB
+Camilla,X,3.492,0.065,11.22 billion,719.15 million,,OMB
+El Leoncito,D,3.634,0.042,31.17 billion,2.09 billion,11.483,OMB
+Kirkwood,D,3.923,0.24,21.67 billion,1.57 billion,10.629,OMB
+Mauderli,D,3.958,0.22,18.81 billion,1.34 billion,10.797,OMB
+Oda,D,3.756,0.092,37.16 billion,2.46 billion,11.579,OMB
+Simeisa,P,3.945,0.188,>100 trillion,>100 trillion,10.924,OMB
+Brouwer,D,3.95,0.208,50.77 billion,3.52 billion,11.085,OMB
+Venusia,P,4.006,0.216,>100 trillion,>100 trillion,10.834,OMB
+Francette,X,3.951,0.191,>100 trillion,>100 trillion,11.123,OMB
+Aksnes,P,3.964,0.182,>100 trillion,>100 trillion,10.987,OMB
+Schubart,P,3.973,0.171,>100 trillion,>100 trillion,11.021,OMB
+Hidalgo,D,5.741,0.661,11.40 billion,576.08 million,15.188,CEN
+Bus,T,3.969,0.161,32.62 billion,2.25 billion,11.13,OMB
+Duboshin,D,3.961,0.157,26.16 billion,1.80 billion,11.171,OMB
+Rollandia,D,3.902,0.1,239.75 billion,16.26 billion,11.316,OMB
+Cunningham,P,3.943,0.17,>100 trillion,>100 trillion,11.572,OMB
+Normannia,D,3.897,0.079,66.05 billion,4.43 billion,11.447,OMB
+Oulu,P,3.959,0.144,>100 trillion,>100 trillion,11.295,OMB
+Larissa,P,3.932,0.107,>100 trillion,>100 trillion,11.291,OMB
+Rita,P,3.996,0.158,>100 trillion,>100 trillion,11.298,OMB
+Chicago,C,3.89,0.024,>100 trillion,>100 trillion,11.704,OMB
+Ismene,X,3.986,0.166,>100 trillion,>100 trillion,,OMB
+Bowell,D,3.955,0.093,23.59 billion,1.57 billion,11.529,OMB
+Libya,P,3.974,0.102,>100 trillion,>100 trillion,11.414,OMB
+Hilda,X,3.98,0.14,>100 trillion,>100 trillion,,OMB
+Thule,X,4.283,0.04,>100 trillion,>100 trillion,,OMB
+Priamus,D,5.182,0.123,214.62 billion,13.38 billion,12.263,TJN
+Peiroos,D,5.147,0.077,136.25 billion,8.04 billion,12.953,TJN
+Pandarus,D,5.182,0.069,85.09 billion,5.32 billion,12.228,TJN
+Deiphobus,D,5.127,0.044,343.23 billion,17.66 billion,14.853,TJN
+Antenor,D,5.15,0.016,193.48 billion,11.73 billion,12.61,TJN
+Antilochus,D,5.132,0.052,267.86 billion,13.55 billion,15.106,TJN
+Mentor,X,5.143,0.07,>100 trillion,>100 trillion,14.345,TJN
+Patroclus,P,5.216,0.138,>100 trillion,>100 trillion,13.628,TJN
+Alcathous,D,5.18,0.067,305.20 billion,17.63 billion,13.23,TJN
+Paris,T,5.221,0.127,1.82 trillion,94.84 billion,14.641,TJN
+Aneas,D,5.219,0.104,341.49 billion,19.96 billion,13.075,TJN
+Phereclos,D,5.212,0.046,176.01 billion,10.88 billion,12.359,TJN
+Anchises,P,5.292,0.138,>100 trillion,>100 trillion,12.121,TJN
+Odysseus,D,5.248,0.09,312.85 billion,19.62 billion,12.186,TJN
+Cebriones,D,5.213,0.037,183.66 billion,8.83 billion,15.899,TJN
+Hektor,D,5.26,0.023,2.37 trillion,132.44 billion,13.653,TJN
+Agamemnon,D,5.278,0.066,467.42 billion,25.59 billion,13.956,TJN
+Chiron,Cb,13.669,0.38,>100 trillion,>100 trillion,11.922,CEN
+Chariklo,D,15.842,0.171,5.72 trillion,305.43 billion,14.258,CEN
+2002 EC,X,2.149,0.519,48.34 million,8.21 million,5.977,AMO
+Golevka,Q,2.502,0.605,35.51 million,5.03 million,6.441,APO (PHA)
+1991 BN,Q,1.443,0.398,33.42 million,6.97 million,5.571,APO (PHA)
+1999 VQ5,Q,2.422,0.433,29.07 million,1.64 million,13.739,MCA
+2000 PG3,D,2.824,0.856,15.39 million,1.07 million,11.205,APO
+2002 AL31,X,1.177,0.248,10.58 million,2.41 million,5.412,APO
+1984 BC,D,3.494,0.533,8.16 million,610347.4187,10.34,OMB
+2000 AC6,Q,0.853,0.286,1.30 million,148811.8865,7.317,ATE (PHA)
+2001 SK162,T,1.926,0.474,726094.4661,148518.8733,5.598,APO (PHA)
+2001 AE2,T,1.35,0.082,132253.4537,28914.58507,5.485,AMO
+Aegle,T,3.051,0.141,61960,3981.251333,,MBA
+2001 UU92,T,3.171,0.668,38142.31268,4300.143476,7.287,AMO
+2001 YE1,T,1.912,0.501,14501.30283,2547.227037,5.905,APO
+2001 SG286,D,1.358,0.347,2420.770465,486.8816269,5.64,APO (PHA)
+2002 AT4,D,1.867,0.446,1599.387185,334.4927519,5.557,AMO (PHA)
+Herculina,S,2.773,0.175,0,0,10.733,MBA
+Eleonora,Sl,2.799,0.114,0,0,11.417,MBA
+Papagena,S,2.894,0.229,0,0,10.45,MBA
+Dembowska,R,2.923,0.092,0,0,10.493,MBA
+Harmonia,S,2.267,0.047,0,0,,MBA
+Fides,S,2.642,0.176,0,0,,MBA
+Rachele,S,2.923,0.195,0,0,10.484,MBA
+Alkeste,S,2.631,0.075,0,0,,MBA
+Hermentaria,S,2.796,0.102,0,0,10.286,MBA
+Hekate,S,3.087,0.169,0,0,,MBA
+Vaticana,Sl,2.792,0.218,0,0,10.088,MBA
+Hera,S,2.702,0.079,0,0,,MBA
+Pomona,S,2.589,0.081,0,0,,MBA
+Thyra,S,2.38,0.193,0,0,,MBA
+Ludmilla,S,2.769,0.204,0,0,9.817,MBA
+Vera,S,3.096,0.196,0,0,,MBA
+Hecuba,Sl,3.237,0.055,0,0,,OMB
+Industria,S,2.608,0.067,0,0,10.072,MBA
+Cyrene,S,3.064,0.135,0,0,,MBA
+Sirona,Sk,2.766,0.142,0,0,,MBA
+Sappho,S,2.296,0.2,0,0,,MBA
+Helena,S,2.584,0.14,0,0,,MBA
+Phaedra,S,2.862,0.141,0,0,,MBA
+Tyche,S,2.616,0.204,0,0,,MBA
+Genua,S,2.749,0.192,0,0,10.276,MBA
+Eurynome,S,2.447,0.19,0,0,,MBA
+Libussa,S,2.797,0.137,0,0,,MBA
+Alkmene,Sq,2.763,0.22,0,0,,MBA
+Alphonsina,S,2.702,0.079,0,0,11.939,MBA
+Althaea,Sl,2.581,0.08,0,0,,MBA
+Ampella,S,2.459,0.227,0,0,,MBA
+Semiramis,Sl,2.374,0.233,0,0,8.979,MBA
+Cyane,S,2.809,0.098,0,0,10.358,MBA
+Suleika,Sl,2.712,0.236,0,0,9.588,MBA
+Bohemia,S,2.728,0.065,0,0,10.242,MBA
+Iolanda,S,3.064,0.095,0,0,11.425,MBA
+Philippina,S,2.793,0.082,0,0,11.666,MBA
+Amalthea,S,2.376,0.087,0,0,,MBA
+Arequipa,S,2.59,0.245,0,0,9.533,MBA
+Pythia,S,2.369,0.146,0,0,9.604,MBA
+Pierretta,Sk,2.782,0.16,0,0,,MBA
+Justitia,Ld,2.616,0.213,0,0,,MBA
+Brunhild,S,2.695,0.12,0,0,,MBA
+Burgundia,S,2.78,0.08,0,0,10.386,MBA
+Marconia,Ld,3.063,0.132,0,0,10.224,MBA
+Coelestina,S,2.763,0.071,0,0,,MBA
+Peitho,S,2.437,0.165,0,0,,MBA
+Sylvania,S,2.791,0.183,0,0,10.076,MBA
+Lacrimosa,Sk,2.892,0.012,0,0,,MBA
+Urda,Sk,2.852,0.037,0,0,,MBA
+Elsa,S,2.416,0.186,0,0,,MBA
+Abundantia,Sl,2.592,0.033,0,0,,MBA
+Koronis,S,2.871,0.052,0,0,,MBA
+Abnoba,S,2.789,0.179,0,0,10.485,MBA
+Ganymed,S,2.664,0.533,0,0,10.369,AMO
+Edda,S,2.814,0.011,0,0,10.4,MBA
+Zelia,Sl,2.358,0.131,0,0,,MBA
+Pepita,S,3.069,0.111,0,0,11.411,MBA
+Phyllis,S,2.464,0.104,0,0,9.415,MBA
+Bandusia,S,2.67,0.145,0,0,10.266,MBA
+Ottegebe,S,2.801,0.194,0,0,9.743,MBA
+Belisana,S,2.461,0.043,0,0,,MBA
+Menippe,S,2.761,0.179,0,0,,MBA
+Planckia,S,3.127,0.11,0,0,11.2,MBA
+Geometria,Sl,2.289,0.172,0,0,8.679,MBA
+Burdigala,S,2.651,0.149,0,0,9.586,MBA
+Turnera,Sq,3.021,0.101,0,0,10.807,MBA
+Eriphyla,S,2.872,0.088,0,0,10.161,MBA
+Bohlinia,Sq,2.886,0.019,0,0,10.47,MBA
+Margarita,S,2.762,0.113,0,0,,MBA
+Zelima,S,3.019,0.084,0,0,10.902,MBA
+Maria,S,2.554,0.064,0,0,,MBA
+Istria,S,2.791,0.35,0,0,,MBA
+Paulina,S,2.756,0.132,0,0,,MBA
+Gretia,Sr,2.802,0.197,0,0,9.845,MBA
+Aaltje,Sl,2.954,0.051,0,0,10.751,MBA
+Nassovia,Sq,2.884,0.059,0,0,10.316,MBA
+Arete,S,2.738,0.164,0,0,,MBA
+Weringia,S,2.712,0.204,0,0,,MBA
+Merxia,Sq,2.744,0.129,0,0,9.811,MBA
+Sara,S,2.978,0.045,0,0,10.673,MBA
+Columbia,Sl,2.776,0.061,0,0,,MBA
+Pittsburghia,S,2.667,0.058,0,0,10.665,MBA
+Arduina,S,2.764,0.227,0,0,9.425,MBA
+Crimea,S,2.772,0.113,0,0,10.764,MBA
+Glauke,S,2.762,0.205,0,0,,MBA
+Jugurtha,S,2.722,0.017,0,0,10.596,MBA
+Theresia,S,2.795,0.171,0,0,,MBA
+Punkaharju,S,2.785,0.259,0,0,10.306,MBA
+Florentina,S,2.885,0.047,0,0,,MBA
+Holmia,S,2.776,0.13,0,0,9.985,MBA
+Kilia,S,2.405,0.094,0,0,9.463,MBA
+Franzia,S,2.803,0.082,0,0,10.935,MBA
+Gisela,Sl,2.194,0.15,0,0,8.455,MBA
+Arizona,S,2.795,0.125,0,0,10.956,MBA
+Ambrosia,Sk,2.603,0.297,0,0,,MBA
+Barcelona,Sq,2.636,0.163,0,0,13.967,MBA
+Photographica,Sl,2.215,0.041,0,0,9.08,MBA
+Musa,S,2.661,0.056,0,0,10.407,MBA
+Agnia,S,2.782,0.096,0,0,9.956,MBA
+Lysistrata,Sl,2.542,0.095,0,0,10.499,MBA
+Gabriella,S,2.537,0.106,0,0,9.508,MBA
+Tea,S,2.183,0.109,0,0,8.742,MBA
+Dresda,S,2.887,0.078,0,0,,MBA
+Garumna,Sq,2.722,0.167,0,0,,MBA
+Taurinensis,S,2.189,0.254,0,0,8.218,MCA
+Italia,S,2.416,0.188,0,0,8.888,MBA
+Xenia,Sa,2.644,0.228,0,0,9.695,MBA
+Komppa,Ld,2.699,0.096,0,0,10.518,MBA
+Esther,S,2.414,0.243,0,0,8.817,MBA
+Zeelandia,S,2.849,0.065,0,0,10.227,MBA
+Montana,S,2.535,0.061,0,0,9.725,MBA
+Otthild,S,2.529,0.116,0,0,10.518,MBA
+Berkeley,S,2.815,0.086,0,0,10.368,MBA
+Jose,S,2.86,0.08,0,0,10.17,MBA
+Gelria,S,2.741,0.107,0,0,10.031,MBA
+Eliane,S,2.617,0.173,0,0,10.238,MBA
+Kenya,S,2.405,0.263,0,0,8.895,MBA
+Celestia,S,2.694,0.208,0,0,13.983,MBA
+Laplace,S,2.646,0.116,0,0,10.258,MBA
+Schilt,S,2.548,0.172,0,0,10.08,MBA
+Dawn,S,2.869,0.027,0,0,10.428,MBA
+Shura,Sq,2.78,0.074,0,0,10.316,MBA
+Mineura,S,2.627,0.18,0,0,9.979,MBA
+Pawona,Sl,2.426,0.042,0,0,9.615,MBA
+Bohrmann,S,2.854,0.058,0,0,10.236,MBA
+Delvaux,S,2.87,0.046,0,0,10.308,MBA
+Ilmari,S,2.627,0.079,0,0,10.111,MBA
+Rosselia,Sa,2.857,0.089,0,0,10.121,MBA
+Hoffmann,Sr,2.743,0.172,0,0,9.571,MBA
+Michel,Sl,2.792,0.137,0,0,9.95,MBA
+Hill,S,2.752,0.066,0,0,10.575,MBA
+Proserpina,S,2.654,0.09,0,0,,MBA
+Cetacea,Sq,2.534,0.156,0,0,10.306,MBA
+Ingeborg,S,2.32,0.305,0,0,10.401,MCA
+Heidi,S,2.792,0.093,0,0,10.239,MBA
+Hela,Sq,2.611,0.41,0,0,8.969,MCA
+Sumoto,S,2.743,0.122,0,0,10.844,MBA
+Mitaka,S,2.202,0.196,0,0,8.487,MBA
+Phocaea,S,2.4,0.255,0,0,,MBA
+Liszt,S,2.794,0.133,0,0,10.124,MBA
+Guangdong,S,2.71,0.16,0,0,9.925,MBA
+Ries,Sk,2.772,0.225,0,0,10.511,MBA
+Scabiosa,S,2.768,0.042,0,0,10.198,MBA
+Unitas,S,2.358,0.151,0,0,,MBA
+Gryphia,S,2.199,0.079,0,0,8.833,MBA
+Renzia,S,2.263,0.294,0,0,7.807,MCA
+Montefiore,Sl,2.18,0.039,0,0,9.056,MBA
+Ruperto-Carola,S,2.736,0.328,0,0,8.787,MBA
+Per Brahe,S,2.725,0.183,0,0,9.49,MBA
+Bauersfelda,S,2.906,0.1,0,0,10.158,MBA
+Manto,S,2.321,0.265,0,0,8.298,MBA
+Korhonen,S,2.608,0.124,0,0,10.519,MBA
+Grieve,S,2.605,0.383,0,0,11.369,MCA
+Talbot,S,2.764,0.136,0,0,11.431,MBA
+Thomsen,S,2.179,0.33,0,0,7.513,MCA
+Barbara,Ld,2.386,0.245,0,0,,MBA
+Massevitch,R,2.744,0.072,0,0,10.758,MBA
+Tynka,S,2.199,0.208,0,0,8.247,MBA
+Stavropolis,S,2.271,0.232,0,0,8.239,MBA
+Tanina,S,2.226,0.075,0,0,8.909,MBA
+Ashbrook,S,2.783,0.112,0,0,10.203,MBA
+Szmytowna,S,2.939,0.116,0,0,10.139,MBA
+Mehltretter,S,2.741,0.112,0,0,9.878,MBA
+Amundsenia,S,2.36,0.297,0,0,8.363,MCA
+Tsvetaeva,S,2.745,0.201,0,0,9.696,MBA
+Sanenobufukui,S,2.801,0.092,0,0,10.261,MBA
+Plovdiv,S,2.807,0.153,0,0,10.002,MBA
+Kotka,S,2.746,0.196,0,0,9.736,MBA
+Geramtina,S,2.796,0.171,0,0,9.902,MBA
+King,S,2.786,0.031,0,0,10.499,MBA
+Gothlandia,S,2.19,0.181,0,0,8.347,MBA
+West,S,2.707,0.118,0,0,9.844,MBA
+Alva,S,2.805,0.113,0,0,9.993,MBA
+Vysheslavia,S,2.829,0.021,0,0,10.344,MBA
+Bruce Helin,Sl,2.362,0.215,0,0,11.09,MBA
+Simferopol,Sl,2.804,0.13,0,0,9.968,MBA
+Jaroslawa,S,2.218,0.241,0,0,8.15,MBA
+Ukyounodaibu,S,2.81,0.216,0,0,9.868,MBA
+Kahrstedt,Sa,2.547,0.153,0,0,9.506,MBA
+Miahelena,S,2.792,0.098,0,0,10.371,MBA
+Gaspra,S,2.21,0.174,0,0,8.402,MBA
+Cydonia,S,2.596,0.126,0,0,10.266,MBA
+Echo,S,2.392,0.185,0,0,,MBA
+Universitas,S,2.216,0.154,0,0,8.584,MBA
+Naudts,Sl,2.762,0.059,0,0,10.251,MBA
+Tokiwagozen,S,2.744,0.058,0,0,11.305,MBA
+Grubba,S,2.196,0.188,0,0,8.274,MBA
+Nikonov,S,2.814,0.159,0,0,10.06,MBA
+Azalea,S,2.23,0.178,0,0,8.501,MBA
+Gehrels,Sq,2.627,0.018,0,0,10.044,MBA
+Dollfus,S,2.723,0.153,0,0,9.898,MBA
+Marshak,Sa,2.387,0.233,0,0,9.516,MBA
+Dulcinea,S,2.409,0.244,0,0,8.568,MBA
+Hildegard,Sl,2.731,0.371,0,0,8.834,MBA
+Zu Chong-Zhi,S,2.548,0.167,0,0,9.309,MBA
+Kyoto,S,2.76,0.198,0,0,9.957,MBA
+Huygens,S,2.802,0.171,0,0,10.018,MBA
+Vojislava,Sl,2.529,0.186,0,0,9.746,MBA
+Algunde,S,2.239,0.113,0,0,8.778,MBA
+Flagstaff,S,2.546,0.221,0,0,9.051,MBA
+Christy Carol,S,2.542,0.158,0,0,9.374,MBA
+Tito,S,2.544,0.314,0,0,8.712,MBA
+Lee,V,2.344,0.1,0,0,9.296,MBA
+Wood,S,2.395,0.301,0,0,10.061,MBA
+Vulkaneifel,S,2.617,0.193,0,0,10.042,MBA
+Klytaemnestra,Sk,2.976,0.111,0,0,,MBA
+Kraft,S,2.735,0.255,0,0,13.209,MBA
+Lecar,S,2.759,0.107,0,0,10.221,MBA
+Robinson,Sr,2.772,0.139,0,0,10.282,MBA
+Malzovia,S,2.244,0.173,0,0,8.56,MBA
+Nuki,S,2.801,0.144,0,0,10.066,MBA
+Lucretia,S,2.187,0.133,0,0,,MBA
+Giacconi,Sq,2.738,0.013,0,0,10.688,MBA
+Tolkien,S,2.213,0.101,0,0,8.726,MBA
+Herget,S,2.789,0.175,0,0,9.863,MBA
+Ahrensa,Sa,2.372,0.158,0,0,11.459,MBA
+Jitka,Sr,2.792,0.057,0,0,10.198,MBA
+Amenemhet,S,2.715,0.204,0,0,10.262,MBA
+Atami,S,1.947,0.256,0,0,8.036,MCA
+Eric,S,2.001,0.449,0,0,7.709,AMO
+Zhejiang,S,2.797,0.162,0,0,10.06,MBA
+Ebilson,Sl,2.79,0.035,0,0,10.539,MBA
+Hakoila,Sq,2.719,0.176,0,0,9.519,MBA
+DiMaggio,Sa,2.604,0.137,0,0,10.307,MBA
+Gaviola,Sq,2.76,0.089,0,0,10,MBA
+Danjon,S,2.269,0.195,0,0,8.771,MBA
+Casarini,S,2.749,0.249,0,0,9.53,MBA
+Mount Locke,Sr,2.801,0.131,0,0,10.095,MBA
+Mikko,S,2.231,0.084,0,0,8.985,MBA
+Keithnoll,S,2.271,0.302,0,0,8.15,MCA
+Janesick,S,2.198,0.362,0,0,9.593,MCA
+Wurm,S,2.236,0.069,0,0,8.977,MBA
+Chekhov,S,2.782,0.047,0,0,10.181,MBA
+Plaskett,S,2.805,0.095,0,0,10.347,MBA
+1991 VZ1,S,2.764,0.064,0,0,10.57,MBA
+Suzhousanzhong,Sl,2.762,0.067,0,0,10.087,MBA
+Arcadia,S,2.789,0.044,0,0,10.252,MBA
+Rosina,S,2.3,0.277,0,0,8.063,MCA
+1998 WS,Sr,2.655,0.395,0,0,11.307,MCA
+Parker,Sl,2.35,0.343,0,0,10.001,MCA
+Byron,S,2.248,0.145,0,0,8.67,MBA
+Sitarski,Sq,2.753,0.151,0,0,9.744,MBA
+Principia,V,2.444,0.08,0,0,9.459,MBA
+Gaffey,Sa,2.872,0.057,0,0,10.293,MBA
+Roth,S,2.725,0.163,0,0,9.953,MBA
+Steyaert,S,2.79,0.105,0,0,10.339,MBA
+Belgica,S,2.236,0.144,0,0,8.655,MBA
+Kliment Ohridski,Sq,2.931,0.08,0,0,10.251,MBA
+Laodamia,Sr,2.392,0.351,0,0,7.923,MCA
+Livesey,S,2.699,0.182,0,0,10.083,MBA
+1990 TL4,Sq,2.804,0.169,0,0,9.913,MBA
+Peking,V,2.379,0.056,0,0,9.567,MBA
+Nancita,S,2.367,0.296,0,0,8.108,MBA
+Dzhanibekov,S,2.927,0.089,0,0,10.217,MBA
+Gondolatsch,S,2.226,0.078,0,0,8.966,MBA
+Sakitama,S,2.707,0.111,0,0,10.381,MBA
+Minamioda,S,2.796,0.151,0,0,10.157,MBA
+Sawyer Hogg,S,2.795,0.113,0,0,10.638,MBA
+Anitra,S,2.219,0.128,0,0,8.768,MBA
+Lagerkvist,S,2.796,0.104,0,0,10.3,MBA
+1982 VF,Sq,2.74,0.106,0,0,10.164,MBA
+Robertfrazer,S,2.408,0.34,0,0,9.944,MCA
+Perkin,S,2.928,0.065,0,0,10.352,MBA
+Espinette,Sl,2.284,0.278,0,0,8.013,MCA
+Kampala,S,2.534,0.169,0,0,9.269,MBA
+Bowen,Sq,2.777,0.102,0,0,9.942,MBA
+Yeomans,Sr,2.766,0.091,0,0,9.958,MBA
+Vellamo,S,2.309,0.03,0,0,9.678,MBA
+Agathe,S,2.202,0.242,0,0,,MBA
+Tokai,S,2.225,0.069,0,0,8.969,MBA
+Otila,Sa,2.197,0.171,0,0,8.477,MBA
+Primula,S,2.56,0.271,0,0,8.732,MBA
+Slovakia,S,2.226,0.179,0,0,8.394,MBA
+Ivar,S,1.863,0.397,0,0,6.32,AMO
+Schaumasse,S,2.237,0.024,0,0,9.164,MBA
+Erbisbuhl,Sk,2.359,0.376,0,0,9.618,MCA
+Chivilikhin,S,2.783,0.171,0,0,9.99,MBA
+Beryl,S,2.23,0.101,0,0,8.763,MBA
+Ndola,S,2.246,0.162,0,0,8.776,MBA
+Porzia,S,2.229,0.286,0,0,7.799,MCA
+Bastian,Sl,2.454,0.168,0,0,9.264,MBA
+Purkyne,S,2.802,0.091,0,0,10.098,MBA
+Sax,S,2.753,0.195,0,0,9.662,MBA
+Kundry,S,2.231,0.11,0,0,8.849,MBA
+Erin,S,2.543,0.184,0,0,9.219,MBA
+Barnardiana,S,2.198,0.142,0,0,8.575,MBA
+Harbin,V,2.479,0.123,0,0,9.581,MBA
+Raybrown,Ld,2.748,0.103,0,0,9.888,MBA
+Sita,Sa,2.174,0.137,0,0,,MBA
+Ragazza,S,2.8,0.168,0,0,10.085,MBA
+Bistro,Sa,2.435,0.091,0,0,10.395,MBA
+Chapman,S,2.266,0.191,0,0,8.429,MBA
+Immo,S,2.796,0.172,0,0,10.053,MBA
+Aehlita,S,2.769,0.059,0,0,10.162,MBA
+Kajov,Sl,2.402,0.037,0,0,9.514,MBA
+Quincy,S,2.93,0.123,0,0,10.05,MBA
+Hallstrom,V,2.397,0.089,0,0,9.429,MBA
+1990 TZ,S,2.427,0.268,0,0,10.573,MBA
+Sinuhe,Sa,2.769,0.206,0,0,9.85,MBA
+Pecker,S,2.238,0.155,0,0,8.986,MBA
+Gokumenon,S,2.765,0.205,0,0,9.902,MBA
+Patrick Gene,S,2.808,0.135,0,0,9.87,MBA
+1941 UN,S,2.758,0.337,0,0,8.88,MBA
+Bradfield,Sq,2.758,0.098,0,0,9.967,MBA
+Sisyphus,S,1.894,0.538,0,0,13.635,APO
+Berounka,S,2.794,0.091,0,0,10.384,MBA
+Huggins,S,2.232,0.079,0,0,8.94,MBA
+Felix,S,2.339,0.224,0,0,8.563,MBA
+Nikko,S,2.237,0.106,0,0,8.906,MBA
+Kochi,Sa,2.795,0.072,0,0,10.815,MBA
+Messner,Sq,2.791,0.111,0,0,9.956,MBA
+Mayall,S,1.887,0.111,0,0,13.814,IMB
+Amici,S,2.69,0.107,0,0,9.919,MBA
+Kasan,Sr,2.413,0.315,0,0,10.661,MCA
+Kaula,S,2.735,0.114,0,0,9.808,MBA
+Wallonia,S,2.18,0.239,0,0,9.527,MCA
+Kochera,S,2.206,0.058,0,0,8.888,MBA
+Lorenz,S,2.553,0.191,0,0,9.187,MBA
+Waland,Ld,2.746,0.053,0,0,10.115,MBA
+Kathy,S,2.382,0.256,0,0,8.821,MBA
+Kollontai,Sl,2.213,0.16,0,0,8.572,MBA
+Dence,S,2.394,0.231,0,0,11.401,MBA
+Nicholson,S,2.239,0.128,0,0,8.795,MBA
+Royer,S,2.605,0.046,0,0,11.089,MBA
+Haas,S,2.808,0.137,0,0,10.16,MBA
+Fridolin,Sq,2.792,0.097,0,0,10.013,MBA
+Kobzar,Sq,2.739,0.166,0,0,9.595,MBA
+Parchomenko,S,2.244,0.135,0,0,8.702,MBA
+Mongmanwai,S,2.553,0.188,0,0,9.375,MBA
+Ahnert,S,2.229,0.065,0,0,8.985,MBA
+Lemaitre,Sq,2.393,0.348,0,0,9.942,MCA
+WIYN,S,2.244,0.171,0,0,8.552,MBA
+Sutoku,S,2.691,0.11,0,0,10.544,MBA
+Atanasoff,Sa,2.694,0.027,0,0,10.331,MBA
+Mozartia,S,2.293,0.263,0,0,8.123,MBA
+Armandhammer,Sq,2.349,0.066,0,0,9.41,MBA
+Oosterhoff,S,2.183,0.203,0,0,8.213,MBA
+Clapton,S,2.913,0.071,0,0,10.269,MBA
+van Albada,S,2.241,0.165,0,0,8.525,MBA
+Somnium,S,2.206,0.196,0,0,8.489,MBA
+Andres Bello,S,2.203,0.08,0,0,8.903,MBA
+Patterson,V,2.298,0.104,0,0,9.241,MBA
+1984 CF,S,2.784,0.101,0,0,10.39,MBA
+Kirghizia,V,2.449,0.079,0,0,9.494,MBA
+Balster,S,2.802,0.045,0,0,10.247,MBA
+Sonja,Sq,2.228,0.275,0,0,7.952,MCA
+Nancy,S,2.218,0.139,0,0,8.595,MBA
+Kollaa,V,2.362,0.074,0,0,9.509,MBA
+Geowilliams,Sk,2.415,0.226,0,0,9.266,MBA
+Josefa,Sq,2.546,0.279,0,0,9.299,MBA
+Pogson,S,2.188,0.056,0,0,8.924,MBA
+Kallavesi,Sl,2.398,0.093,0,0,9.559,MBA
+Bronnina,S,2.221,0.041,0,0,9.26,MBA
+Entsuji,S,2.368,0.249,0,0,8.739,MBA
+Kushiro,Sl,2.811,0.152,0,0,10.091,MBA
+Hatanaka,Sq,2.791,0.11,0,0,9.912,MBA
+Vrchlicky,Sl,2.722,0.169,0,0,9.844,MBA
+Yurilvovia,Ld,2.742,0.109,0,0,9.861,MBA
+Kierkegaard,Sq,2.81,0.048,0,0,10.326,MBA
+Matsuyama,S,2.555,0.218,0,0,9.061,MBA
+Verbitskaya,S,2.807,0.172,0,0,10.092,MBA
+Patry,Sl,2.234,0.13,0,0,8.733,MBA
+Jeans,V,2.404,0.218,0,0,8.623,MBA
+Hyakkai,S,2.756,0.162,0,0,9.723,MBA
+Cossard,V,2.369,0.061,0,0,9.522,MBA
+Mach,Sq,2.208,0.032,0,0,9.081,MBA
+Yinhai,S,2.234,0.194,0,0,8.432,MBA
+Nemo,S,2.288,0.343,0,0,7.818,MCA
+Kenreimonin,Sq,2.801,0.067,0,0,10.128,MBA
+Dimitrov,R,2.44,0.014,0,0,9.648,MBA
+Ikenozenni,S,2.571,0.318,0,0,8.486,MBA
+Satpaev,Sl,2.222,0.131,0,0,8.71,MBA
+Elmer,S,2.79,0.169,0,0,9.941,MBA
+Boduognat,Sl,2.449,0.156,0,0,9.004,MBA
+Taihaku,Sa,2.712,0.058,0,0,10.087,MBA
+Sahlia,S,2.207,0.079,0,0,8.951,MBA
+Galina,Sl,2.395,0.132,0,0,9.503,MBA
+Studnicka,S,2.776,0.246,0,0,9.474,MBA
+House,Sq,2.747,0.183,0,0,10.184,MBA
+Miyazawakenji,S,2.215,0.061,0,0,9.04,MBA
+Oleshko,S,2.244,0.108,0,0,8.863,MBA
+Isora,Sq,2.252,0.278,0,0,7.997,MCA
+1997 CZ5,S,2.295,0.397,0,0,10.147,MCA
+Holt,S,2.318,0.335,0,0,9.955,MCA
+Jack London,S,2.196,0.141,0,0,8.55,MBA
+McCord,S,2.292,0.121,0,0,8.952,MBA
+1986 QS,S,2.783,0.165,0,0,9.946,MBA
+Gostin,S,2.225,0.087,0,0,8.889,MBA
+Delcano,S,2.277,0.177,0,0,8.745,MBA
+Pels,Sa,2.19,0.156,0,0,8.467,MBA
+Tanaka,S,2.438,0.014,0,0,9.725,MBA
+Galya,S,2.524,0.164,0,0,9.189,MBA
+Ikeya,Sq,2.771,0.16,0,0,9.929,MBA
+Vanphilos,S,2.367,0.36,0,0,9.876,MCA
+Kwasan,V,2.382,0.101,0,0,9.269,MBA
+Donna,Sl,2.387,0.101,0,0,9.19,MBA
+Beckman,S,2.406,0.397,0,0,9.42,MCA
+Gefion,Sl,2.784,0.151,0,0,9.999,MBA
+Doga,Sl,2.762,0.163,0,0,9.723,MBA
+Kaverznev,S,2.195,0.14,0,0,8.575,MBA
+Stravinsky,Sa,2.541,0.195,0,0,9.17,MBA
+Binomi,S,2.351,0.128,0,0,9.064,MBA
+Charlieparker,S,2.754,0.102,0,0,9.983,MBA
+Burt,S,2.805,0.173,0,0,9.914,MBA
+Mawson,Ld,2.375,0.277,0,0,9.262,MBA
+Griffin,S,2.342,0.312,0,0,9.897,MCA
+Peltier,V,2.235,0.162,0,0,8.589,MBA
+Rodari,S,2.193,0.057,0,0,9.055,MBA
+Hubei,V,2.386,0.128,0,0,9.179,MBA
+Aubignan,Sa,2.255,0.271,0,0,8.317,MCA
+Beals,S,2.218,0.045,0,0,9.282,MBA
+Suzamur,Sq,2.524,0.112,0,0,9.508,MBA
+Namba,S,2.459,0.048,0,0,9.607,MBA
+Gekko,Sq,2.796,0.111,0,0,9.913,MBA
+Huntress,S,2.341,0.203,0,0,8.733,MBA
+Hamina,Ld,2.346,0.138,0,0,9.405,MBA
+Paradise,Sa,2.396,0.172,0,0,13.176,MBA
+Souseki,S,2.416,0.062,0,0,9.498,MBA
+Watts,S,2.199,0.122,0,0,8.757,MBA
+Ruzena,S,2.237,0.08,0,0,8.976,MBA
+Kitezh,V,2.336,0.15,0,0,8.949,MBA
+Sagan,S,2.195,0.07,0,0,8.83,MBA
+Jim Young,S,2.244,0.134,0,0,8.736,MBA
+Kamo,V,2.417,0.062,0,0,9.541,MBA
+Lewis,V,2.355,0.179,0,0,8.675,MBA
+Lapalma,V,2.29,0.071,0,0,9.317,MBA
+Giblin,Sq,2.795,0.109,0,0,9.94,MBA
+Heilongjiang,S,2.192,0.06,0,0,8.847,MBA
+Agekian,S,2.543,0.248,0,0,9.091,MBA
+Knysna,Sq,2.185,0.163,0,0,8.409,MBA
+Javiergorosabel,S,2.293,0.266,0,0,8.565,MBA
+Jacliff,R,2.355,0.126,0,0,9.093,MBA
+Kunimoto,S,2.748,0.094,0,0,10.026,MBA
+Binzel,Sq,2.251,0.158,0,0,8.684,MBA
+1990 SV15,Sa,2.736,0.052,0,0,10.101,MBA
+Linsley,Sa,2.556,0.208,0,0,9.118,MBA
+Bulgaria,Sr,2.24,0.123,0,0,8.767,MBA
+Siebold,S,2.222,0.145,0,0,8.62,MBA
+Mozhaiskij,Ld,2.45,0.049,0,0,9.825,MBA
+Xerxes,S,2.801,0.162,0,0,10.026,MBA
+Burbine,S,2.787,0.113,0,0,10.257,MBA
+Aunus,S,2.202,0.109,0,0,8.751,MBA
+Morrison,Sl,2.215,0.063,0,0,8.906,MBA
+Wright,Sl,1.709,0.11,0,0,9.993,MCA
+Jarre,S,2.238,0.179,0,0,8.481,MBA
+Stepanov,S,2.204,0.088,0,0,8.926,MBA
+Banno,S,2.317,0.198,0,0,8.718,MBA
+Dientzenhofer,Sk,2.29,0.133,0,0,8.785,MBA
+Zaragoza,S,2.403,0.226,0,0,9.462,MBA
+Abehiroshi,V,2.396,0.055,0,0,9.429,MBA
+Dicicco,S,2.274,0.161,0,0,8.689,MBA
+Vesnina,Sq,2.774,0.133,0,0,10.107,MBA
+Oozora,S,2.188,0.104,0,0,8.815,MBA
+Overbeek,S,2.311,0.281,0,0,8.583,MCA
+Shizukagozen,S,2.725,0.225,0,0,9.467,MBA
+Vertinskij,S,2.214,0.071,0,0,8.968,MBA
+Marielukac,S,2.535,0.256,0,0,8.98,MBA
+Repin,V,2.326,0.156,0,0,8.871,MBA
+Kagiroino-Oka,Ld,2.769,0.024,0,0,10.28,MBA
+Savo,Sa,2.19,0.131,0,0,8.511,MBA
+Tokeidai,S,2.251,0.132,0,0,8.769,MBA
+Pugovkin,Sa,2.777,0.012,0,0,10.402,MBA
+Obi,S,2.202,0.214,0,0,8.283,MBA
+Okutama,Sq,2.539,0.276,0,0,8.73,MBA
+Dieckvoss,S,2.126,0.115,0,0,8.4,MBA
+Michela,S,2.358,0.16,0,0,8.756,MBA
+Fagnes,S,2.225,0.281,0,0,8.274,MCA
+Newburn,S,2.18,0.116,0,0,8.599,MBA
+Ida,S,2.861,0.043,0,0,,MBA
+Bragaria,S,2.224,0.168,0,0,8.499,MBA
+Kozai,S,1.841,0.2,0,0,17.123,MCA
+Dorrit,Sa,1.918,0.207,0,0,9.942,MCA
+Bustelli,S,2.698,0.141,0,0,10.388,MBA
+Araki,Sl,2.361,0.159,0,0,9.101,MBA
+Simonenko,S,2.377,0.01,0,0,9.625,MBA
+Netto,S,2.364,0.212,0,0,8.499,MBA
+Celle,V,2.416,0.094,0,0,9.357,MBA
+Fletcher,V,2.411,0.143,0,0,9.211,MBA
+Trisov,S,2.208,0.186,0,0,8.401,MBA
+Lepage,V,2.296,0.028,0,0,9.443,MBA
+Buchwald,S,2.192,0.054,0,0,9.016,MBA
+Tamines,S,2.228,0.086,0,0,9.026,MBA
+Incidentia,V,2.474,0.048,0,0,9.729,MBA
+Pettengill,S,2.167,0.196,0,0,8.192,MBA
+Tsubame,Sr,2.757,0.093,0,0,10.244,MBA
+Noel,Sa,2.191,0.086,0,0,8.905,MBA
+Cuyo,Sl,2.149,0.506,0,0,9.06,AMO
+2000 UV13,Sq,2.425,0.633,0,0,11.296,APO
+Tadamori,S,2.223,0.171,0,0,8.486,MBA
+Asahina,S,2.401,0.374,0,0,9.648,MCA
+Meiden,S,2.248,0.155,0,0,8.622,MBA
+Dennisreuter,S,2.268,0.175,0,0,8.818,MBA
+Goya,Sq,2.757,0.161,0,0,9.654,MBA
+1992 AX,Sk,1.838,0.278,0,0,7.319,MCA
+Stekarstrom,S,2.175,0.129,0,0,8.457,MBA
+Jansky,Sl,2.372,0.159,0,0,8.81,MBA
+Toutatis,Sk,2.531,0.629,0,0,6.59,APO (PHA)
+Zdenka,S,2.199,0.104,0,0,8.806,MBA
+Namiki,Ld,2.621,0.423,0,0,8.264,MCA
+Nedbal,S,2.345,0.192,0,0,9.039,MBA
+Couteau,S,2.273,0.246,0,0,8.117,MBA
+1992 AE1,Sq,2.734,0.194,0,0,9.889,MBA
+Hissao,Sr,2.248,0.085,0,0,8.942,MBA
+Fortov,S,2.191,0.176,0,0,8.344,MBA
+Adamkrafft,Sq,2.314,0.265,0,0,8.146,MBA
+Julian Loewe,V,2.386,0.096,0,0,9.243,MBA
+Iwamoto,S,2.256,0.167,0,0,8.77,MBA
+Efimov,Sa,2.229,0.232,0,0,8.22,MBA
+Brendalee,S,2.254,0.237,0,0,8.132,MBA
+Preston,S,2.292,0.22,0,0,10.983,MBA
+Bocacara,S,2.291,0.086,0,0,9.362,MBA
+Nikulin,V,2.441,0.132,0,0,9.253,MBA
+Musashino,S,2.347,0.246,0,0,8.33,MBA
+James,Sa,2.124,0.36,0,0,12.938,MCA
+Brorfelde,S,1.818,0.053,0,0,10.586,IMB
+Mori,S,2.237,0.148,0,0,8.635,MBA
+Roddy,S,1.892,0.134,0,0,10.698,MCA
+Feldman,S,2.186,0.065,0,0,8.881,MBA
+Hobetsu,S,2.237,0.086,0,0,8.894,MBA
+Ninian,S,2.265,0.214,0,0,8.313,MBA
+Milesdavis,S,2.385,0.302,0,0,8.151,MCA
+Kepler,S,2.677,0.469,0,0,8.729,MCA
+1991 FE,S,2.195,0.454,0,0,6.663,AMO
+Knezevic,V,2.371,0.139,0,0,9.128,MBA
+Dorchester,Sa,2.189,0.243,0,0,8.196,MCA
+Loviisa,S,2.212,0.075,0,0,8.96,MBA
+1996 PW,Ld,253.361,0.99,0,0,12.04,TNO
+Florence,S,1.769,0.423,0,0,8.171,AMO (PHA)
+Alupka,V,2.368,0.127,0,0,9.137,MBA
+Kunikov,Sa,2.179,0.141,0,0,8.469,MBA
+Yatsugatake,S,2.24,0.091,0,0,8.949,MBA
+Foshan,S,2.227,0.163,0,0,8.489,MBA
+Phthia,Sa,2.451,0.036,0,0,,MBA
+1998 QS52,Sq,2.203,0.858,0,0,11.251,APO (PHA)
+Kunz-Hallstein,Sk,2.322,0.289,0,0,10.794,MCA
+Zdislava,Sa,2.199,0.254,0,0,8.04,MCA
+ORO,Sq,2.185,0.073,0,0,8.874,MBA
+Yayoi,S,2.145,0.065,0,0,8.703,MBA
+Elachi,Sl,1.872,0.081,0,0,11.237,IMB
+Maymelou,V,2.38,0.129,0,0,9.146,MBA
+Ptolemaeus,S,2.287,0.172,0,0,8.678,MBA
+Nanking,Sq,2.368,0.375,0,0,9.485,MCA
+1992 HE,S,2.241,0.573,0,0,12.423,APO
+Lubeck,S,2.305,0.11,0,0,9.1,MBA
+Spartacus,V,2.21,0.075,0,0,8.995,MBA
+Ralph,Sr,2.294,0.143,0,0,8.869,MBA
+Tamblyn,S,2.423,0.227,0,0,8.87,MBA
+O'Keefe,Sk,2.371,0.359,0,0,10.002,MCA
+Korankei,Sa,2.522,0.19,0,0,9.059,MBA
+Kawasato,S,2.441,0.325,0,0,8.169,MCA
+Kaendler,Sl,2.162,0.131,0,0,8.485,MBA
+1988 RF7,S,2.191,0.244,0,0,8.048,MCA
+1991 PE10,S,2.79,0.174,0,0,9.91,MBA
+Tezcatlipoca,Sl,1.71,0.365,0,0,9.508,AMO
+AAS,Sq,2.262,0.202,0,0,8.323,MBA
+Ardenne,S,2.279,0.111,0,0,8.855,MBA
+1999 VM40,S,2.312,0.484,0,0,7.929,AMO
+1988 WC,S,2.222,0.403,0,0,9.452,MCA
+Richard,S,2.163,0.178,0,0,8.258,MBA
+Westerlund,Sq,2.203,0.199,0,0,8.262,MBA
+Stradonice,Sr,2.289,0.056,0,0,9.326,MBA
+Cavaille-Coll,S,2.156,0.033,0,0,8.951,MBA
+Otaru,Sa,2.173,0.029,0,0,8.998,MBA
+Pajdusakova,S,2.277,0.176,0,0,8.563,MBA
+Harrington,S,2.396,0.303,0,0,8.191,MBA
+Tholen,S,2.373,0.363,0,0,9.782,MCA
+Zguridi,V,2.442,0.148,0,0,9.162,MBA
+Oze,Sq,2.198,0.502,0,0,6.394,AMO
+1990 BG,S,1.486,0.569,0,0,13.223,APO
+Kreutz,S,1.795,0.084,0,0,9.858,MCA
+Bykov,S,2.27,0.196,0,0,8.427,MBA
+Juvenalis,S,2.376,0.151,0,0,8.888,MBA
+Rauthgundis,V,2.292,0.111,0,0,9.025,MBA
+Ottijeff,S,2.342,0.353,0,0,9.821,MCA
+Birgitta,S,2.301,0.333,0,0,7.888,MCA
+Gliba,Sl,2.347,0.21,0,0,8.493,MBA
+Drewpinsky,S,2.195,0.083,0,0,8.826,MBA
+1993 BW3,Sq,2.147,0.529,0,0,8.483,APO
+Daedalus,Sr,1.461,0.614,0,0,10.275,APO
+Athabasca,V,2.26,0.095,0,0,9.06,MBA
+2000 EZ148,S,2.584,0.613,0,0,7.334,APO
+2000 DM8,Sq,1.484,0.554,0,0,16.271,APO
+1994 TW1,Sr,2.589,0.58,0,0,12.285,AMO
+1993 MF,S,2.439,0.537,0,0,7.014,AMO
+1990 SB,Sq,2.397,0.545,0,0,8.236,AMO
+Boreas,S,2.273,0.449,0,0,7.693,AMO
+Brucemurray,S,1.565,0.219,0,0,12.794,AMO
+Midas,V,1.777,0.65,0,0,14.124,APO (PHA)
+Toro,S,1.367,0.436,0,0,6.67,APO
+Clarke,S,2.145,0.202,0,0,8.227,MBA
+Eros,S,1.458,0.223,0,0,6.112,AMO
+Belton,V,2.355,0.102,0,0,9.24,MBA
+1977 QQ5,S,2.225,0.466,0,0,9.66,AMO
+Schleicher,V,2.343,0.05,0,0,9.485,MBA
+Runcorn,Sa,2.199,0.108,0,0,8.753,MBA
+1999 CV3,Sq,1.46,0.394,0,0,8.528,APO
+Cuno,Sq,1.983,0.634,0,0,7.405,APO (PHA)
+Albert,S,2.639,0.546,0,0,7.725,AMO
+2000 NM,Sr,2.688,0.663,0,0,9.375,APO
+1995 BM2,Sq,2.316,0.307,0,0,9.892,MCA
+2001 RM,S,2.253,0.483,0,0,12.477,AMO
+1997 RD1,Sq,2.672,0.397,0,0,8.927,MCA
+Cleobulus,Sq,2.705,0.524,0,0,7.355,AMO
+Donnashirley,S,2.28,0.337,0,0,9.83,MCA
+Geographos,S,1.245,0.335,0,0,6.747,APO (PHA)
+Shoemaker,Sa,1.8,0.082,0,0,12.777,MCA
+Magellan,V,1.82,0.326,0,0,9.156,AMO
+Fredclifford,S,1.974,0.225,0,0,11.576,MCA
+1994 RH,S,2.246,0.441,0,0,8.606,AMO
+1998 NU,Sk,2.354,0.488,0,0,6.822,AMO
+Tukmit,Sr,1.186,0.272,0,0,14.146,APO
+1996 UK,Sq,2.691,0.459,0,0,8.291,MCA
+1999 YN4,S,1.685,0.232,0,0,13.424,AMO
+Peleus,Sq,2.117,0.536,0,0,9.304,APO
+Nefertiti,Sq,1.574,0.284,0,0,11.571,AMO
+1999 TX16,Ld,1.551,0.332,0,0,12.834,AMO
+Antinous,Sq,2.259,0.607,0,0,8.346,APO
+1998 BM10,Sq,2.42,0.368,0,0,10.389,MCA
+1999 KU4,S,2.193,0.406,0,0,7.281,MCA
+Zephyr,S,1.962,0.492,0,0,5.898,APO (PHA)
+2001 VS78,S,1.787,0.308,0,0,9.053,AMO
+1998 XM4,S,1.657,0.416,0,0,21.18,APO
+1998 FM5,S,2.27,0.552,0,0,7.014,AMO
+Eureka,Sr,1.524,0.065,0,0,9.658,MCA
+1997 WU22,S,1.468,0.442,0,0,7.418,APO
+2000 SE45,S,2.74,0.561,0,0,7.494,AMO
+Ondaatje,Sr,1.626,0.221,0,0,9.244,AMO
+Morpheus,Sq,2.296,0.772,0,0,9.256,APO
+Oljato,Sq,2.174,0.713,0,0,7.947,APO (PHA)
+Konnohmaru,Sq,2.829,0.598,0,0,7.139,AMO
+1994 LX,V,1.261,0.346,0,0,13.192,APO
+1998 OH,S,1.542,0.406,0,0,8.827,APO (PHA)
+1999 XO35,Sq,2.541,0.565,0,0,8.837,AMO
+1999 GJ4,Sq,1.339,0.808,0,0,15.808,APO
+Karayusuf,S,1.578,0.076,0,0,8.373,MCA
+1991 CS,S,1.123,0.165,0,0,14.407,APO (PHA)
+Krok,S,2.151,0.449,0,0,6.887,AMO
+1993 UB,Sr,2.276,0.461,0,0,9.746,AMO
+1991 VK,Sq,1.842,0.507,0,0,6.093,APO (PHA)
+2000 OJ8,Sr,2.357,0.568,0,0,6.557,AMO (PHA)
+2000 GO82,S,2.162,0.805,0,0,11.84,APO
+1999 CU3,Sl,1.577,0.524,0,0,7.287,APO
+2000 VN2,Sa,1.974,0.442,0,0,7.211,AMO
+2000 GR146,S,1.463,0.575,0,0,8.52,APO
+1999 JO8,S,2.651,0.575,0,0,9.683,AMO
+2001 VG5,Sq,2.306,0.611,0,0,7.623,APO
+Tjelvar,V,1.248,0.81,0,0,12.773,APO
+1993 VW,V,1.696,0.485,0,0,6.352,APO
+1989 VA,Sq,0.729,0.595,0,0,16.167,ATE
+2001 DU8,S,1.777,0.342,0,0,11.58,AMO
+1999 WK13,S,1.845,0.362,0,0,11.886,AMO
+1999 KW4,S,0.642,0.689,0,0,21.374,ATE (PHA)
+1998 YP11,Sr,1.721,0.389,0,0,6.789,AMO
+2001 WG2,Sk,1.794,0.696,0,0,14.117,APO
+2001 EB,Sl,1.629,0.256,0,0,12.663,AMO
+1998 PB1,Sq,2.03,0.43,0,0,6.448,AMO
+Norwan,S,1.568,0.317,0,0,5.776,AMO
+1998 WM,Sq,1.225,0.315,0,0,8.812,APO
+2001 MF1,Sk,2.651,0.577,0,0,9.596,AMO
+Cerberus,S,1.08,0.467,0,0,9.23,APO
+1998 WZ6,V,1.452,0.408,0,0,9.108,APO (PHA)
+1998 PG,Sq,2.015,0.391,0,0,6.692,AMO
+Yuliya,S,1.72,0.255,0,0,7.521,AMO
+Bacchus,Sq,1.078,0.349,0,0,7.075,APO
+1998 MQ,S,1.783,0.408,0,0,8.775,AMO
+Vesta,V,2.361,0.089,0,0,,MBA
+2001 XR1,Sq,1.245,0.55,0,0,9.52,APO
+Aten,Sr,0.967,0.183,0,0,8.642,ATE
+2001 UA5,Sq,1.787,0.446,0,0,6.072,APO (PHA)
+1994 PC1,S,1.346,0.328,0,0,11.666,APO (PHA)
+2001 XN254,S,2.325,0.558,0,0,6.229,AMO (PHA)
+2000 XL44,S,2.224,0.427,0,0,7.38,AMO
+Nyx,V,1.927,0.459,0,0,5.712,AMO
+2000 AX93,Sq,2.21,0.479,0,0,9.173,AMO
+1991 TB1,S,1.454,0.352,0,0,8.452,APO
+1992 SK,S,1.248,0.325,0,0,7.037,APO (PHA)
+1997 GH3,S,2.502,0.563,0,0,6.655,AMO
+1991 VH,Sk,1.137,0.144,0,0,6.39,APO (PHA)
+2001 OE84,S,2.279,0.473,0,0,7.161,AMO
+2000 JQ66,R,2.166,0.419,0,0,7.007,AMO
+2000 EX106,S,1.104,0.276,0,0,6.347,APO
+Verenia,V,2.093,0.487,0,0,6.62,AMO
+1998 XB,S,0.908,0.351,0,0,8.936,ATE
+1995 WL8,Sq,2.365,0.484,0,0,8.417,AMO
+Ninkasi,Sq,1.37,0.168,0,0,7.143,AMO
+2002 AL14,Ld,1.038,0.126,0,0,9.963,APO
+1998 QR15,Sq,2.765,0.559,0,0,7.652,AMO
+1997 BQ,S,1.746,0.478,0,0,6.494,APO (PHA)
+1994 AW1,Sa,1.105,0.076,0,0,10.267,AMO (PHA)
+2000 GK137,Sq,1.996,0.506,0,0,6.459,APO (PHA)
+2002 BK25,Sk,2.298,0.748,0,0,8.876,APO (PHA)
+2000 JG5,S,1.341,0.796,0,0,14.928,APO (PHA)
+1998 FX2,Sq,2.153,0.491,0,0,6.802,AMO
+Tomaiyowit,S,1.08,0.356,0,0,7.244,APO (PHA)
+1999 EE5,S,1.669,0.282,0,0,11.176,AMO
+1999 YF3,Sq,1.487,0.143,0,0,10.75,AMO
+2000 WF6,Sq,2.46,0.503,0,0,13.339,AMO
+2001 QQ142,Sq,1.423,0.311,0,0,5.35,APO (PHA)
+2001 EC,Sq,2.589,0.771,0,0,8.269,APO (PHA)
+2000 GU127,S,2.105,0.727,0,0,8.518,APO
+1999 YB,Sq,1.321,0.075,0,0,5.892,AMO
+2002 AQ2,S,2.66,0.608,0,0,7.493,AMO
+2001 WA25,S,1.756,0.517,0,0,7.484,APO
+1999 DJ4,Sq,1.853,0.484,0,0,6.224,APO (PHA)
+1997 UH9,Sq,0.83,0.475,0,0,13.159,ATE
+1998 VR,Sk,0.876,0.318,0,0,10.604,ATE
+1980 WF,V,2.235,0.516,0,0,6.526,AMO
+2001 WL15,Sk,1.988,0.474,0,0,6.139,AMO
+1999 JV3,S,1.451,0.415,0,0,7.087,APO
+Saunders,Sq,2.305,0.482,0,0,6.982,AMO
+1999 FK21,S,0.739,0.703,0,0,15.285,ATE
+1999 DB2,Sq,3.037,0.612,0,0,7.925,AMO
+1998 WP5,Sl,1.374,0.195,0,0,7.906,AMO
+1997 BR,S,1.335,0.306,0,0,7.012,APO (PHA)
+Eunomia,S,2.644,0.186,0,0,,MBA
+1992 FE,V,0.927,0.405,0,0,8.875,ATE (PHA)
+1998 MW5,Sq,1.023,0.363,0,0,7.199,APO
+1999 YG3,S,1.285,0.329,0,0,12.258,APO (PHA)
+Juno,Sk,2.669,0.257,0,0,,MBA
+2000 GJ147,S,1.162,0.237,0,0,9.645,APO (PHA)
+1997 GL3,V,2.276,0.782,0,0,8.932,APO (PHA)
+2001 JM1,S,1.461,0.311,0,0,6.722,APO (PHA)
+2000 GD2,Sq,0.758,0.477,0,0,15.677,ATE
+2001 TC45,Sq,2.22,0.642,0,0,8.215,APO (PHA)
+2000 GV127,S,2.844,0.615,0,0,8.602,AMO
+1994 TF2,Sr,0.993,0.284,0,0,10.566,ATE
+1999 ND43,Sl,1.523,0.314,0,0,5.171,AMO
+1998 SG2,Sq,2.248,0.458,0,0,6.737,AMO
+1997 TT25,Sq,2.123,0.418,0,0,6.933,AMO
+2001 XY10,Sk,0.872,0.387,0,0,13.663,ATE
+1998 SU27,Sq,2.124,0.596,0,0,6.854,APO
+1998 BG9,S,2.51,0.541,0,0,7.703,AMO
+2000 SY162,Sq,2.293,0.458,0,0,7.144,AMO
+2002 AA,Sq,1.148,0.302,0,0,6.561,APO
+Hebe,S,2.425,0.203,0,0,,MBA
+Iris,S,2.385,0.231,0,0,,MBA
+Mnemosyne,S,3.151,0.113,0,0,,MBA
+Amphitrite,S,2.554,0.073,0,0,,MBA
+2001 QA143,Sk,2.259,0.493,0,0,6.762,AMO
+2000 KL33,S,2.113,0.43,0,0,6.771,AMO
+1999 SK10,Sq,1.763,0.441,0,0,5.722,APO
+1999 CV8,V,1.297,0.352,0,0,7.041,APO
+1999 JE1,Sq,1.323,0.702,0,0,11.578,APO (PHA)
+2001 XU30,Sq,2.192,0.667,0,0,7.724,APO (PHA)
+2000 WL63,S,1.432,0.299,0,0,6.971,APO
+2000 MU1,S,1.373,0.382,0,0,6.656,APO (PHA)
+1999 RB32,V,2.43,0.57,0,0,6.491,AMO
+Polyhymnia,Sq,2.873,0.331,0,0,,MBA
+Apophis,Sq,0.922,0.191,0,0,5.688,ATE (PHA)
+2001 FY,S,1.886,0.327,0,0,6.546,AMO
+Parthenope,Sk,2.453,0.1,0,0,,MBA
+Atala,S,3.137,0.081,0,0,,MBA
+Massalia,S,2.41,0.142,0,0,,MBA
+Philomela,S,3.113,0.016,0,0,,MBA
+Gallia,S,2.772,0.187,0,0,,MBA
+Hathor,Sq,0.844,0.45,0,0,9.608,ATE (PHA)
+2000 YF29,S,1.492,0.371,0,0,5.38,APO (PHA)
+2000 DO1,V,1.43,0.682,0,0,9.063,APO (PHA)
+1998 BB10,Sq,1.272,0.425,0,0,7.16,APO (PHA)
+Laetitia,S,2.769,0.111,0,0,,MBA
+1998 VD35,Sq,1.565,0.476,0,0,6.35,APO (PHA)
+1993 TQ2,Sa,1.985,0.42,0,0,6.372,AMO
+Irene,S,2.586,0.167,0,0,,MBA
+1999 AQ10,S,0.934,0.236,0,0,6.356,ATE (PHA)
+Melpomene,S,2.297,0.218,0,0,,MBA
+2000 WM63,S,1.03,0.157,0,0,8.97,APO
+Euterpe,S,2.347,0.173,0,0,,MBA
+Danae,S,2.986,0.166,0,0,,MBA
+Astraea,S,2.574,0.191,0,0,,MBA
+1999 FA,S,1.078,0.133,0,0,6.225,APO (PHA)
+2002 DU3,Sq,1.145,0.238,0,0,5.653,APO (PHA)
+Bellona,S,2.776,0.152,0,0,,MBA
+1996 FQ3,Sq,2.032,0.469,0,0,5.972,AMO
+Urania,Sl,2.366,0.128,0,0,,MBA
+Nausikaa,Sl,2.403,0.245,0,0,,MBA
+Thalia,S,2.626,0.235,0,0,,MBA
+2000 WJ63,Sq,2.837,0.591,0,0,7.126,AMO
+Athamantis,Sl,2.382,0.062,0,0,,MBA
+1999 YD,Sk,2.462,0.594,0,0,6.322,APO (PHA)
+Thetis,Sl,2.47,0.133,0,0,,MBA
+Ariadne,Sk,2.203,0.168,0,0,,MBA
+2001 JV1,Sq,1.705,0.435,0,0,5.679,APO (PHA)
+Asia,S,2.421,0.185,0,0,,MBA
+2002 BA1,S,2.062,0.456,0,0,6.203,AMO
+2002 AK14,V,1.017,0.106,0,0,8.51,APO
+Ausonia,Sa,2.395,0.127,0,0,,MBA
+2002 CT46,Sr,2.364,0.529,0,0,7.855,AMO
+1999 DY2,Sr,2.039,0.464,0,0,6.402,AMO
+2000 AH205,Sk,1.144,0.406,0,0,6.734,APO
+1999 FN19,Sq,1.647,0.391,0,0,5.085,APO
+2000 AE205,S,1.165,0.138,0,0,4.251,APO
+2000 YA,Sk,2.386,0.645,0,0,6.925,APO
+2002 DQ3,Sq,1.387,0.255,0,0,4.811,AMO
+Itokawa,S(IV),1.324,0.28,0,0,4.637,APO (PHA)
+2000 DO8,S,2.473,0.616,0,0,6.489,APO
+2009 DD45,S,1.241,0.205,0,0,6.021,APO
+1998 BT13,Sq,2.456,0.598,0,0,6.346,APO
+5154 T-3,?,3.091,0.276,0,0,9.908,MBA
+4658 T-3,?,2.134,0.195,0,0,8.06,MBA
+4571 T-3,?,2.546,0.288,0,0,8.63,MBA
+3521 T-3,?,2.433,0.364,0,0,7.795,MCA
+3411 T-3,?,2.482,0.165,0,0,9.127,MBA
+2678 T-3,?,2.26,0.258,0,0,8.464,MBA
+2620 T-3,?,3.265,0.256,0,0,10.694,OMB
+2060 T-2,?,2.373,0.202,0,0,8.575,MBA
+1168 T-2,?,2.645,0.259,0,0,9.58,MBA
+1077 T-2,?,2.652,0.209,0,0,9.23,MBA
+6879 P-L,?,3.054,0.257,0,0,9.723,MBA
+6344 P-L,?,2.813,0.665,0,0,7.019,APO (PHA)
+6331 P-L,?,2.335,0.283,0,0,8.363,MBA
+6013 P-L,?,2.28,0.186,0,0,8.617,MBA
+4847 P-L,?,2.722,0.238,0,0,9.402,MBA
+4717 P-L,?,2.954,0.219,0,0,9.706,MBA
+4532 P-L,?,2.325,0.201,0,0,8.69,MBA
+4198 P-L,?,2.229,0.262,0,0,8.059,MCA
+2181 P-L,?,3.022,0.267,0,0,9.832,MBA
+2018 VB1,?,0.755,0.415,0,0,10.039,ATE
+2018 VA1,?,1.374,0.272,0,0,5.678,APO
+2018 VZ,?,1.33,0.322,0,0,8.763,APO
+2018 VY,?,1.713,0.413,0,0,14.309,APO
+2018 VX,?,1.544,0.477,0,0,8.139,APO
+2018 VW,?,1.444,0.489,0,0,6.577,APO
+2018 VV,?,1.556,0.307,0,0,9.316,AMO
+2018 VU,?,1.235,0.199,0,0,9.04,APO
+2018 VT,?,1.281,0.264,0,0,7.672,APO
+2018 VS,?,2.003,0.482,0,0,6.207,AMO
+2018 VR,?,1.757,0.429,0,0,5.568,APO
+2018 VQ,?,2.637,0.358,0,0,9.625,MBA
+2018 VP,?,2.082,0.33,0,0,7.196,MCA
+2018 VO,?,2.252,0.332,0,0,7.896,MCA
+2018 VN,?,1.749,0.025,0,0,12.721,IMB
+2018 VM,?,1.731,0.143,0,0,10.125,MCA
+2018 VL,?,1.036,0.235,0,0,5.717,APO
+2018 VK,?,1.832,0.55,0,0,6.454,APO
+2018 VJ,?,2.588,0.387,0,0,11.938,MCA
+2018 VH,?,1.767,0.133,0,0,8.465,MCA
+2018 VG,?,0.766,0.362,0,0,9.123,ATE
+2018 VF,?,1.85,0.48,0,0,5.603,APO
+2018 VE,?,1.247,0.183,0,0,4.642,AMO
+2018 VD,?,1.068,0.42,0,0,7.638,APO
+2018 VC,?,1.126,0.169,0,0,4.547,APO
+2018 VB,?,1.115,0.281,0,0,6.193,APO
+2018 VA,?,1.196,0.149,0,0,4.148,AMO
+2018 UH3,?,3.092,0.403,0,0,11.134,MBA
+2018 UG3,?,1.659,0.422,0,0,5.569,APO
+2018 UF3,?,2.278,0.229,0,0,12.021,MBA
+2018 UE3,?,1.504,0.332,0,0,7.064,APO
+2018 UD3,?,1.773,0.457,0,0,5.51,APO
+2018 UC3,?,1.068,0.016,0,0,8.308,AMO
+2018 UB3,?,1.623,0.448,0,0,5.631,APO
+2018 UA3,?,1.198,0.424,0,0,6.703,APO
+2018 UZ2,?,1.932,0.056,0,0,10.42,IMB
+2018 UY2,?,2.562,0.384,0,0,9.376,MCA
+2018 UX2,?,1.843,0.097,0,0,9.632,MCA
+2018 UW2,?,1.869,0.052,0,0,10.091,IMB
+2018 UV2,?,1.912,0.051,0,0,10.269,IMB
+2018 UU2,?,1.887,0.037,0,0,10.231,IMB
+2018 UT2,?,2.61,0.436,0,0,10.785,MCA
+2018 US2,?,2.978,0.658,0,0,7.256,AMO
+2018 UR2,?,1.811,0.407,0,0,12.616,AMO
+2018 UQ2,?,2.798,0.649,0,0,7.888,APO
+2018 UP2,?,2.491,0.461,0,0,10.651,MCA
+2018 UO2,?,1.953,0.068,0,0,10.035,IMB
+2018 UN2,?,2.388,0.261,0,0,9.411,MBA
+2018 UM2,?,2.612,0.379,0,0,9.908,MCA
+2018 UL2,?,2.681,0.362,0,0,9.534,MBA
+2018 UK2,?,1.482,0.29,0,0,17.101,AMO
+2018 UJ2,?,1.969,0.546,0,0,7.617,APO
+2018 UE2,?,1.986,0.096,0,0,9.644,IMB
+2018 UD2,?,2.608,0.456,0,0,7.615,MCA
+2018 UC2,?,1.577,0.411,0,0,10.618,APO (PHA)
+2018 UB2,?,1.889,0.036,0,0,10.635,IMB
+2018 UA2,?,2.309,0.346,0,0,7.823,MCA
+2018 UZ1,?,2.468,0.505,0,0,7.044,AMO
+2018 UY1,?,0.883,0.303,0,0,7.474,ATE
+2018 UX1,?,1.213,0.112,0,0,8.54,AMO
+2018 UW1,?,1.962,0.543,0,0,6.158,APO
+2018 UV1,?,0.935,0.247,0,0,10.164,ATE
+2018 UU1,?,2.414,0.374,0,0,11.089,MCA
+2018 UT1,?,2.679,0.485,0,0,9.425,MCA
+2018 US1,?,1.656,0.398,0,0,5.571,APO
+2018 UR1,?,2.631,0.598,0,0,19.048,AMO
+2018 UQ1,?,1.619,0.493,0,0,6.14,APO (PHA)
+2018 UP1,?,2.609,0.437,0,0,7.971,MCA
+2018 UO1,?,2.103,0.687,0,0,7.878,APO
+2018 UN1,?,2.253,0.791,0,0,9.018,APO
+2018 UM1,?,1.144,0.174,0,0,4.369,APO
+2018 UL1,?,1.263,0.199,0,0,9.408,APO
+2018 UK1,?,2.443,0.593,0,0,6.327,APO
+2018 UJ1,?,1.296,0.188,0,0,5.698,AMO
+2018 UH1,?,1.767,0.539,0,0,6.485,APO
+2018 UG1,?,1.529,0.329,0,0,5.049,AMO
+2018 UF1,?,1.148,0.418,0,0,7.558,APO
+2018 UE1,?,1.021,0.012,0,0,5.059,APO
+2018 UD1,?,2.364,0.604,0,0,6.583,APO
+2018 UC1,?,1.258,0.161,0,0,6.258,AMO
+2018 UB1,?,7.569,0.505,0,0,12.019,CEN
+2018 UA1,?,2.529,0.624,0,0,8.441,APO (PHA)
+2018 UZ,?,2.656,0.599,0,0,8.732,AMO
+2018 UY,?,1.25,0.533,0,0,7.723,APO (PHA)
+2018 UX,?,2.59,0.376,0,0,8.724,MCA
+2018 UW,?,2.632,0.474,0,0,7.73,MCA
+2018 UV,?,3.061,0.387,0,0,9.266,MBA
+2018 UU,?,2.272,0.389,0,0,7.561,MCA
+2018 UT,?,2.216,0.38,0,0,7.439,MCA
+2018 US,?,2.187,0.29,0,0,7.781,MCA
+2018 UR,?,2.188,0.346,0,0,7.496,MCA
+2018 UQ,?,1.734,0.096,0,0,10.302,MCA
+2018 UP,?,2.273,0.384,0,0,7.34,MCA
+2018 UO,?,2.245,0.415,0,0,7.196,MCA
+2018 UN,?,1.924,0.083,0,0,9.61,IMB
+2018 UM,?,1.954,0.054,0,0,10.186,IMB
+2018 UL,?,1.344,0.28,0,0,4.553,APO
+2018 UK,?,2.413,0.69,0,0,7.402,APO
+2018 UJ,?,2.463,0.556,0,0,6.958,AMO
+2018 UH,?,2.475,0.609,0,0,8.068,APO
+2018 UG,?,2.192,0.538,0,0,6.146,APO
+2018 UF,?,1.62,0.363,0,0,7.545,AMO
+2018 UE,?,1.266,0.477,0,0,7.792,APO
+2018 UD,?,2.743,0.536,0,0,8.032,AMO
+2018 UC,?,0.993,0.333,0,0,7.642,ATE
+2018 UB,?,1.944,0.591,0,0,7.117,APO
+2018 UA,?,1.39,0.447,0,0,6.231,APO
+2018 TS9,?,2.32,0.249,0,0,8.28,MBA
+2018 TR9,?,2.408,0.167,0,0,9.126,MBA
+2018 TP9,?,2.376,0.15,0,0,8.863,MBA
+2018 TO9,?,3.204,0.204,0,0,10.098,OMB
+2018 TN9,?,2.212,0.211,0,0,8.158,MBA
+2018 TK9,?,2.523,0.316,0,0,9.065,MBA
+2018 TJ9,?,2.594,0.275,0,0,9.409,MBA
+2018 TH9,?,2.636,0.029,0,0,12.171,MBA
+2018 TG9,?,2.68,0.277,0,0,10.295,MBA
+2018 TF9,?,2.794,0.165,0,0,12.079,MBA
+2018 TE9,?,2.632,0.312,0,0,9.169,MBA
+2018 TD9,?,2.731,0.073,0,0,10.116,MBA
+2018 TC9,?,2.682,0.066,0,0,10.027,MBA
+2018 TB9,?,2.754,0.072,0,0,10.112,MBA
+2018 TA9,?,3.269,0.168,0,0,10.995,OMB
+2018 TZ8,?,2.853,0.108,0,0,10.101,MBA
+2018 TW8,?,3.048,0.136,0,0,10.445,MBA
+2018 TV8,?,2.732,0.165,0,0,9.95,MBA
+2018 TU8,?,2.425,0.133,0,0,9.279,MBA
+2018 TT8,?,3.102,0.148,0,0,10.357,MBA
+2018 TS8,?,2.761,0.201,0,0,9.571,MBA
+2018 TR8,?,2.694,0.168,0,0,9.597,MBA
+2018 TO8,?,2.814,0.029,0,0,10.47,MBA
+2018 TN8,?,3.042,0.162,0,0,10.214,MBA
+2018 TL8,?,2.669,0.262,0,0,9.72,MBA
+2018 TK8,?,2.192,0.225,0,0,8.173,MBA
+2018 TJ8,?,2.76,0.088,0,0,10.013,MBA
+2018 TH8,?,3.059,0.147,0,0,10.735,MBA
+2018 TG8,?,2.208,0.269,0,0,7.845,MCA
+2018 TF8,?,2.592,0.326,0,0,8.53,MBA
+2018 TC8,?,2.567,0.104,0,0,10.578,MBA
+2018 TZ7,?,3.061,0.349,0,0,11.205,MBA
+2018 TY7,?,2.557,0.273,0,0,8.739,MBA
+2018 TW7,?,3.186,0.238,0,0,11.025,MBA
+2018 TV7,?,2.68,0.261,0,0,9.508,MBA
+2018 TU7,?,3.148,0.2,0,0,11.069,MBA
+2018 TS7,?,2.778,0.2,0,0,9.699,MBA
+2018 TR7,?,3.962,0.215,0,0,10.81,OMB
+2018 TN7,?,2.733,0.135,0,0,10.239,MBA
+2018 TM7,?,2.235,0.207,0,0,8.39,MBA
+2018 TL7,?,2.321,0.14,0,0,9.082,MBA
+2018 TK7,?,2.852,0.082,0,0,10.151,MBA
+2018 TE7,?,2.284,0.249,0,0,8.29,MBA
+2018 TC7,?,2.212,0.229,0,0,8.164,MBA
+2018 TB7,?,2.245,0.201,0,0,11.16,MBA
+2018 TZ6,?,3.157,0.267,0,0,10.613,MBA
+2018 TY6,?,2.774,0.178,0,0,10.152,MBA
+2018 TW6,?,3.093,0.153,0,0,10.141,MBA
+2018 TV6,?,1.873,0.087,0,0,10.261,IMB
+2018 TU6,?,1.834,0.108,0,0,10.057,MCA
+2018 TT6,?,1.215,0.207,0,0,4.744,APO
+2018 TS6,?,0.898,0.214,0,0,6.844,ATE
+2018 TR6,?,2.206,0.472,0,0,6.519,AMO
+2018 TQ6,?,2.438,0.392,0,0,8.788,MCA
+2018 TP6,?,1.854,0.073,0,0,10.069,IMB
+2018 TO6,?,2.736,0.567,0,0,7.854,AMO
+2018 TN6,?,1.648,0.298,0,0,6.53,AMO
+2018 TM6,?,1.951,0.576,0,0,7.052,APO
+2018 TL6,?,8.222,0.79,0,0,51.665,CEN
+2018 TK6,?,1.17,0.38,0,0,6.41,APO
+2018 TJ6,?,1.139,0.232,0,0,6.882,APO
+2018 TH6,?,1.357,0.287,0,0,5.494,APO
+2018 TG6,?,1.064,0.084,0,0,3.972,APO
+2018 TF6,?,2.09,0.497,0,0,6.045,AMO
+2018 TE6,?,1.127,0.026,0,0,9.192,AMO
+2018 TD6,?,1.179,0.241,0,0,5.075,APO
+2018 TC6,?,2.35,0.45,0,0,7.092,AMO
+2018 TB6,?,1.915,0.298,0,0,9.829,MCA
+2018 TA6,?,2.615,0.411,0,0,9.047,MCA
+2018 TZ5,?,1.985,0.55,0,0,6.2,APO
+2018 TY5,?,0.929,0.511,0,0,12.786,ATE
+2018 TX5,?,2.176,0.446,0,0,6.596,AMO
+2018 TW5,?,2.232,0.445,0,0,7.009,AMO
+2018 TV5,?,1.465,0.528,0,0,7.06,APO
+2018 TU5,?,2.264,0.417,0,0,10.707,MCA
+2018 TT5,?,1.629,0.474,0,0,6.064,APO
+2018 TS5,?,1.605,0.2,0,0,6.461,AMO
+2018 TR5,?,2.48,0.551,0,0,8.538,AMO
+2018 TQ5,?,2.173,0.571,0,0,17.467,APO
+2018 TP5,?,1.683,0.472,0,0,5.821,APO
+2018 TO5,?,2.338,0.511,0,0,7.002,AMO
+2018 TN5,?,2.202,0.454,0,0,7.188,AMO
+2018 TM5,?,2.366,0.35,0,0,8.062,MCA
+2018 TL5,?,2.251,0.4,0,0,7.319,MCA
+2018 TK5,?,2.385,0.337,0,0,10.088,MCA
+2018 TJ5,?,2.793,0.448,0,0,9.299,MCA
+2018 TH5,?,1.838,0.006,0,0,11.38,IMB
+2018 TG5,?,2.103,0.478,0,0,6.306,AMO
+2018 TF5,?,0.904,0.368,0,0,8.355,ATE
+2018 TE5,?,1.607,0.348,0,0,5.749,AMO
+2018 TD5,?,1.641,0.536,0,0,7.704,APO
+2018 TC5,?,1.041,0.039,0,0,7.503,APO
+2018 TB5,?,1.126,0.531,0,0,8.43,APO
+2018 TA5,?,2.607,0.803,0,0,8.754,APO
+2018 TZ4,?,2.381,0.656,0,0,7.649,APO
+2018 TY4,?,2.411,0.609,0,0,6.522,APO
+2018 TX4,?,1.889,0.709,0,0,8.881,APO
+2018 TW4,?,2.165,0.47,0,0,6.689,AMO
+2018 TV4,?,1.448,0.495,0,0,7.027,APO
+2018 TU4,?,0.971,0.213,0,0,8.833,ATE
+2018 TT4,?,1.265,0.317,0,0,8.358,APO
+2018 TS4,?,1.104,0.107,0,0,3.993,APO
+2018 TR4,?,1.081,0.16,0,0,8.454,APO
+2018 TQ4,?,2.516,0.406,0,0,8.016,MCA
+2018 TP4,?,1.776,0.246,0,0,9.583,MCA
+2018 TO4,?,1.901,0.095,0,0,10.892,IMB
+2018 TN4,?,2.426,0.416,0,0,7.599,MCA
+2018 TM4,?,1.931,0.086,0,0,10.053,IMB
+2018 TL4,?,1.88,0.079,0,0,9.417,IMB
+2018 TK4,?,2.896,0.549,0,0,10.883,MCA
+2018 TJ4,?,2.452,0.695,0,0,7.422,APO
+2018 TH4,?,2.529,0.46,0,0,11.083,MCA
+2018 TG4,?,1.639,0.031,0,0,11.712,MCA
+2018 TF4,?,2.593,0.341,0,0,12.432,MBA
+2018 TE4,?,2.345,0.623,0,0,7.024,APO
+2018 TD4,?,1.417,0.373,0,0,5.445,APO
+2018 TC4,?,1.449,0.363,0,0,8.221,APO
+2018 TB4,?,2.629,0.529,0,0,10.382,AMO
+2018 TA4,?,1.967,0.115,0,0,9.719,IMB
+2018 TZ3,?,1.88,0.119,0,0,9.897,MCA
+2018 TY3,?,3.171,0.321,0,0,11.718,MBA
+2018 TX3,?,2.591,0.368,0,0,9.098,MCA
+2018 TW3,?,1.871,0.038,0,0,11.903,IMB
+2018 TV3,?,2.603,0.333,0,0,13.538,MBA
+2018 TU3,?,2.097,0.352,0,0,7.171,MCA
+2018 TT3,?,1.818,0.041,0,0,10.015,IMB
+2018 TS3,?,2.147,0.344,0,0,7.319,MCA
+2018 TR3,?,1.131,0.11,0,0,4.55,APO
+2018 TQ3,?,1.814,0.451,0,0,5.641,APO
+2018 TP3,?,1.694,0.39,0,0,10.333,AMO
+2018 TO3,?,1.131,0.15,0,0,8.433,APO
+2018 TN3,?,1.859,0.47,0,0,5.555,APO
+2018 TM3,?,1.36,0.268,0,0,4.486,APO
+2018 TL3,?,1.207,0.163,0,0,13.288,APO
+2018 TK3,?,1.488,0.166,0,0,10.278,AMO
+2018 TJ3,?,0.951,0.348,0,0,8.453,ATE
+2018 TH3,?,1.221,0.214,0,0,4.465,APO
+2018 TG3,?,2.362,0.579,0,0,6.688,APO
+2018 TF3,?,2.136,0.714,0,0,8.199,APO (PHA)
+2018 TE3,?,2.036,0.462,0,0,6.721,AMO
+2018 TD3,?,1.245,0.457,0,0,6.861,APO
+2018 TC3,?,2.648,0.601,0,0,7.221,AMO
+2018 TB3,?,0.829,0.431,0,0,9.481,ATE
+2018 TA3,?,2.574,0.627,0,0,8.234,APO
+2018 TZ2,?,2.168,0.653,0,0,7.198,APO
+2018 TY2,?,2.292,0.841,0,0,9.707,APO (PHA)
+2018 TX2,?,1.747,0.592,0,0,11.215,APO
+2018 TW2,?,1.414,0.218,0,0,5.843,AMO
+2018 TV2,?,1.642,0.632,0,0,8.24,APO
+2018 TU2,?,2.155,0.433,0,0,6.801,AMO
+2018 TT2,?,1.271,0.327,0,0,5.851,APO
+2018 TS2,?,2.465,0.593,0,0,6.349,APO
+2018 TR2,?,1.799,0.302,0,0,6.277,AMO
+2018 TQ2,?,2.222,0.531,0,0,6.545,AMO
+2018 TP2,?,2.522,0.557,0,0,6.712,AMO
+2018 TO2,?,1.101,0.595,0,0,17.079,APO
+2018 TN2,?,2.565,0.539,0,0,14.071,AMO
+2018 TM2,?,2.494,0.559,0,0,6.903,AMO
+2018 TL2,?,2.691,0.596,0,0,6.81,AMO
+2018 TK2,?,2.612,0.59,0,0,6.81,AMO
+2018 TJ2,?,2.661,0.419,0,0,8.319,MCA
+2018 TH2,?,1.703,0.094,0,0,11.411,MCA
+2018 TG2,?,1.333,0.327,0,0,5.182,APO
+2018 TF2,?,1.703,0.42,0,0,6.888,APO
+2018 TE2,?,2.694,0.679,0,0,7.067,APO
+2018 TD2,?,0.843,0.415,0,0,9.522,ATE
+2018 TC2,?,1.131,0.144,0,0,6.668,APO
+2018 TB2,?,2.778,0.683,0,0,7.14,APO
+2018 TA2,?,0.978,0.173,0,0,5.344,ATE
+2018 TZ1,?,1.098,0.144,0,0,5.555,APO
+2018 TY1,?,2.47,0.607,0,0,6.915,APO
+2018 TX1,?,1.254,0.145,0,0,8.472,AMO
+2018 TW1,?,1.898,0.471,0,0,6.1,APO
+2018 TV1,?,2.489,0.575,0,0,6.981,AMO
+2018 TU1,?,2.498,0.545,0,0,6.765,AMO
+2018 TT1,?,2.752,0.604,0,0,12.34,AMO
+2018 TS1,?,1.379,0.423,0,0,5.984,APO
+2018 TR1,?,2.482,0.636,0,0,6.747,APO
+2018 TQ1,?,1.32,0.231,0,0,5.456,APO
+2018 TP1,?,2.162,0.671,0,0,7.479,APO
+2018 TO1,?,1.535,0.396,0,0,5.343,APO (PHA)
+2018 TN1,?,2.133,0.469,0,0,6.638,AMO
+2018 TM1,?,1.9,0.094,0,0,10.45,IMB
+2018 TL1,?,2.345,0.409,0,0,8.206,MCA
+2018 TK1,?,2.56,0.47,0,0,9.995,MCA
+2018 TJ1,?,2.479,0.357,0,0,8.156,MCA
+2018 TH1,?,1.997,0.129,0,0,9.325,IMB
+2018 TG1,?,2.726,0.372,0,0,12.497,MBA
+2018 TF1,?,2.751,0.415,0,0,8.71,MCA
+2018 TE1,?,3.245,0.416,0,0,14.622,OMB
+2018 TD1,?,1.894,0.08,0,0,10.754,IMB
+2018 TC1,?,2.75,0.43,0,0,12.422,MCA
+2018 TB1,?,1.898,0.303,0,0,7.209,MCA
+2018 TA1,?,2.605,0.294,0,0,14.26,MBA
+2018 TZ,?,1.268,0.256,0,0,8.094,APO
+2018 TY,?,1.463,0.145,0,0,8.478,AMO
+2018 TX,?,1.815,0.437,0,0,5.633,AMO
+2018 TW,?,2.674,0.533,0,0,8.953,AMO
+2018 TV,?,1.643,0.433,0,0,5.522,APO
+2018 TU,?,1.378,0.437,0,0,6.214,APO
+2018 TT,?,1.537,0.308,0,0,6.732,AMO
+2018 TS,?,2.455,0.564,0,0,6.478,AMO
+2018 TR,?,1.058,0.185,0,0,5.275,APO
+2018 TQ,?,1.955,0.353,0,0,7.111,AMO
+2018 TP,?,1.362,0.464,0,0,8.477,APO (PHA)
+2018 TO,?,2.567,0.404,0,0,11.826,MCA
+2018 TN,?,2.015,0.199,0,0,11.864,MCA
+2018 TM,?,2.492,0.412,0,0,7.769,MCA
+2018 TL,?,2.598,0.413,0,0,8.709,MCA
+2018 TK,?,1.841,0.029,0,0,9.601,IMB
+2018 TJ,?,2.496,0.47,0,0,8.376,MCA
+2018 TH,?,2.601,0.352,0,0,8.458,MBA
+2018 TG,?,1.931,0.056,0,0,10.786,IMB
+2018 TF,?,1.967,0.046,0,0,11.327,IMB
+2018 TD,?,2.756,0.351,0,0,9.945,MBA
+2018 TC,?,1.229,0.225,0,0,4.555,APO
+2018 TB,?,2.394,0.582,0,0,6.385,APO
+2018 TA,?,1.291,0.188,0,0,4.752,AMO
+2018 SC16,?,2.762,0.258,0,0,9.367,MBA
+2018 SB16,?,2.737,0.303,0,0,8.823,MBA
+2018 SA16,?,2.944,0.202,0,0,9.772,MBA
+2018 SZ15,?,2.689,0.209,0,0,9.518,MBA
+2018 SX15,?,3.14,0.174,0,0,10.726,MBA
+2018 SV15,?,2.323,0.228,0,0,10.718,MBA
+2018 SU15,?,3.12,0.183,0,0,11.444,MBA
+2018 SS15,?,2.882,0.162,0,0,9.835,MBA
+2018 SQ15,?,2.563,0.211,0,0,9.721,MBA
+2018 SP15,?,2.272,0.197,0,0,8.698,MBA
+2018 SN15,?,2.695,0.291,0,0,9.272,MBA
+2018 SM15,?,2.927,0.201,0,0,9.868,MBA
+2018 SL15,?,3.973,0.351,0,0,10.51,OMB
+2018 SK15,?,2.251,0.109,0,0,9.04,MBA
+2018 SJ15,?,1.743,0.133,0,0,9.803,MCA
+2018 SH15,?,2.18,0.163,0,0,8.554,MBA
+2018 SG15,?,2.761,0.211,0,0,10.077,MBA
+2018 SF15,?,2.432,0.252,0,0,8.599,MBA
+2018 SE15,?,2.758,0.107,0,0,9.893,MBA
+2018 SD15,?,2.289,0.211,0,0,8.381,MBA
+2018 SC15,?,2.358,0.272,0,0,10.664,MBA
+2018 SB15,?,2.044,0.113,0,0,11.665,MBA
+2018 SA15,?,1.917,0.128,0,0,10.005,IMB
+2018 SY14,?,2.602,0.215,0,0,9.051,MBA
+2018 SX14,?,2.605,0.264,0,0,9.477,MBA
+2018 SW14,?,2.972,0.099,0,0,10.672,MBA
+2018 SV14,?,2.709,0.04,0,0,10.341,MBA
+2018 SU14,?,3.177,0.328,0,0,11.89,MBA
+2018 ST14,?,3.022,0.023,0,0,11.219,MBA
+2018 SS14,?,2.363,0.189,0,0,8.779,MBA
+2018 SR14,?,1.92,0.101,0,0,10.556,IMB
+2018 SQ14,?,2.55,0.234,0,0,9.791,MBA
+2018 SP14,?,2.772,0.327,0,0,8.981,MBA
+2018 SO14,?,2.64,0.384,0,0,8.39,MCA
+2018 SN14,?,3.084,0.282,0,0,11.328,MBA
+2018 SM14,?,2.587,0.287,0,0,9.352,MBA
+2018 SL14,?,2.328,0.208,0,0,8.866,MBA
+2018 SK14,?,2.607,0.188,0,0,9.767,MBA
+2018 SJ14,?,3.155,0.253,0,0,10.932,MBA
+2018 SF14,?,3.173,0.224,0,0,10.366,MBA
+2018 SE14,?,2.332,0.257,0,0,8.25,MBA
+2018 SD14,?,2.369,0.202,0,0,11.292,MBA
+2018 SC14,?,2.774,0.021,0,0,10.408,MBA
+2018 SB14,?,2.759,0.041,0,0,10.276,MBA
+2018 SA14,?,2.592,0.243,0,0,8.902,MBA
+2018 SZ13,?,2.603,0.183,0,0,10.034,MBA
+2018 SY13,?,2.944,0.04,0,0,10.85,MBA
+2018 SX13,?,2.631,0.119,0,0,10.236,MBA
+2018 SW13,?,2.589,0.224,0,0,8.972,MBA
+2018 SV13,?,1.225,0.265,0,0,5.516,APO
+2018 SU13,?,2.671,0.187,0,0,10.124,MBA
+2018 SS13,?,2.697,0.202,0,0,9.822,MBA
+2018 SQ13,?,155.724,0.981,0,0,26.066,TNO
+2018 SG13,?,3.165,0.203,0,0,12.762,MBA
+2018 SF13,?,2.739,0.104,0,0,10.754,MBA
+2018 SE13,?,3.158,0.313,0,0,10.228,MBA
+2018 SD13,?,2.73,0.129,0,0,12.648,MBA
+2018 SB13,?,3.108,0.308,0,0,9.896,MBA
+2018 SA13,?,3.04,0.189,0,0,10.805,MBA
+2018 SZ12,?,2.168,0.182,0,0,8.275,MBA
+2018 SY12,?,2.786,0.214,0,0,9.419,MBA
+2018 SX12,?,2.373,0.263,0,0,8.465,MBA
+2018 SV12,?,2.563,0.143,0,0,9.891,MBA
+2018 SU12,?,1.961,0.109,0,0,9.908,IMB
+2018 SS12,?,2.346,0.206,0,0,8.507,MBA
+2018 SQ12,?,3.084,0.12,0,0,10.712,MBA
+2018 SO12,?,2.647,0.263,0,0,9.441,MBA
+2018 SN12,?,3.176,0.213,0,0,11.441,MBA
+2018 SM12,?,2.571,0.135,0,0,10.338,MBA
+2018 SL12,?,2.643,0.3,0,0,9.755,MBA
+2018 SJ12,?,2.71,0.206,0,0,10.162,MBA
+2018 SH12,?,2.724,0.342,0,0,8.928,MBA
+2018 SG12,?,2.201,0.186,0,0,8.422,MBA
+2018 SF12,?,2.796,0.296,0,0,9.346,MBA
+2018 SE12,?,2.294,0.256,0,0,10.672,MBA
+2018 SC12,?,2.329,0.129,0,0,9.059,MBA
+2018 SB12,?,2.19,0.153,0,0,8.52,MBA
+2018 SA12,?,2.697,0.231,0,0,9.935,MBA
+2018 SZ11,?,2.86,0.086,0,0,10.228,MBA
+2018 SY11,?,3.161,0.106,0,0,13.572,MBA
+2018 SX11,?,2.448,0.156,0,0,9.242,MBA
+2018 SW11,?,2.373,0.216,0,0,8.512,MBA
+2018 SV11,?,2.643,0.299,0,0,9.472,MBA
+2018 SU11,?,3.002,0.458,0,0,8.557,MCA
+2018 ST11,?,3.188,0.273,0,0,10.456,MBA
+2018 SR11,?,2.272,0.196,0,0,8.603,MBA
+2018 SQ11,?,2.587,0.259,0,0,10.088,MBA
+2018 SO11,?,3.01,0.325,0,0,9.247,MBA
+2018 SN11,?,2.755,0.258,0,0,13.954,MBA
+2018 SM11,?,3.159,0.276,0,0,10.672,MBA
+2018 SL11,?,2.724,0.258,0,0,9.853,MBA
+2018 SK11,?,2.718,0.124,0,0,9.747,MBA
+2018 SJ11,?,3.057,0.165,0,0,10.099,MBA
+2018 SH11,?,3.106,0.143,0,0,10.291,MBA
+2018 SG11,?,2.737,0.2,0,0,9.617,MBA
+2018 SF11,?,2.648,0.235,0,0,9.236,MBA
+2018 SE11,?,2.569,0.189,0,0,9.721,MBA
+2018 SB11,?,3.044,0.132,0,0,11.656,MBA
+2018 SA11,?,2.43,0.103,0,0,10.406,MBA
+2018 SZ10,?,2.572,0.148,0,0,9.58,MBA
+2018 SY10,?,2.276,0.235,0,0,8.337,MBA
+2018 SX10,?,3.166,0.064,0,0,11.232,MBA
+2018 SW10,?,2.87,0.145,0,0,11.146,MBA
+2018 SV10,?,2.3,0.167,0,0,8.821,MBA
+2018 SU10,?,2.328,0.219,0,0,8.39,MBA
+2018 SR10,?,2.43,0.192,0,0,8.985,MBA
+2018 SP10,?,3.177,0.338,0,0,12.376,MBA
+2018 SO10,?,2.68,0.279,0,0,9.7,MBA
+2018 SN10,?,2.661,0.211,0,0,9.292,MBA
+2018 SM10,?,2.724,0.212,0,0,9.972,MBA
+2018 SK10,?,3.151,0.076,0,0,10.977,MBA
+2018 SH10,?,3.19,0.283,0,0,10.397,MBA
+2018 SG10,?,2.97,0.157,0,0,10.544,MBA
+2018 SF10,?,3.068,0.229,0,0,10.587,MBA
+2018 SE10,?,2.581,0.195,0,0,9.443,MBA
+2018 SD10,?,2.437,0.259,0,0,9.673,MBA
+2018 SC10,?,2.168,0.235,0,0,8.056,MCA
+2018 SA10,?,2.325,0.178,0,0,8.599,MBA
+2018 SZ9,?,2.606,0.27,0,0,10.233,MBA
+2018 SY9,?,3.084,0.24,0,0,9.749,MBA
+2018 SW9,?,2.162,0.285,0,0,7.886,MCA
+2018 SU9,?,3.165,0.302,0,0,11.768,MBA
+2018 ST9,?,2.663,0.116,0,0,12.536,MBA
+2018 SS9,?,2.56,0.054,0,0,12.007,MBA
+2018 SR9,?,3.152,0.039,0,0,11.057,MBA
+2018 SQ9,?,3.298,0.14,0,0,10.539,OMB
+2018 SP9,?,2.848,0.191,0,0,9.907,MBA
+2018 SO9,?,2.741,0.223,0,0,9.562,MBA
+2018 SN9,?,2.18,0.203,0,0,8.192,MBA
+2018 SM9,?,2.288,0.233,0,0,8.242,MBA
+2018 SL9,?,3.908,0.308,0,0,10.611,OMB
+2018 SK9,?,2.659,0.054,0,0,12.253,MBA
+2018 SJ9,?,2.57,0.266,0,0,12.958,MBA
+2018 SH9,?,2.686,0.307,0,0,9.923,MBA
+2018 SE9,?,3.171,0.306,0,0,10.097,MBA
+2018 SD9,?,2.673,0.283,0,0,8.956,MBA
+2018 SC9,?,2.596,0.294,0,0,8.711,MBA
+2018 SB9,?,1.911,0.021,0,0,11.766,IMB
+2018 SA9,?,3.07,0.291,0,0,10.342,MBA
+2018 SW8,?,3.062,0.147,0,0,10.517,MBA
+2018 SV8,?,2.416,0.31,0,0,8.93,MBA
+2018 SU8,?,2.73,0.227,0,0,9.459,MBA
+2018 ST8,?,2.676,0.152,0,0,9.576,MBA
+2018 SS8,?,2.991,0.204,0,0,10.536,MBA
+2018 SR8,?,2.617,0.216,0,0,9.969,MBA
+2018 SQ8,?,2.56,0.347,0,0,8.461,MBA
+2018 SP8,?,2.655,0.364,0,0,8.635,MBA
+2018 SO8,?,2.787,0.198,0,0,10.309,MBA
+2018 SN8,?,2.422,0.104,0,0,9.48,MBA
+2018 SM8,?,2.66,0.26,0,0,9.876,MBA
+2018 SL8,?,2.629,0.153,0,0,10.408,MBA
+2018 SK8,?,3.112,0.185,0,0,12.712,MBA
+2018 SJ8,?,2.654,0.136,0,0,10.454,MBA
+2018 SH8,?,3.089,0.152,0,0,11.094,MBA
+2018 SG8,?,2.643,0.184,0,0,9.36,MBA
+2018 SF8,?,2.577,0.206,0,0,9.664,MBA
+2018 SE8,?,2.675,0.225,0,0,10.391,MBA
+2018 SD8,?,3.15,0.232,0,0,10.16,MBA
+2018 SB8,?,2.247,0.272,0,0,8.084,MCA
+2018 SA8,?,2.673,0.161,0,0,9.508,MBA
+2018 SZ7,?,2.404,0.197,0,0,8.677,MBA
+2018 SY7,?,2.628,0.284,0,0,9.493,MBA
+2018 SV7,?,3.178,0.144,0,0,13.131,MBA
+2018 SR7,?,2.367,0.263,0,0,8.475,MBA
+2018 SQ7,?,2.588,0.288,0,0,9.514,MBA
+2018 SO7,?,2.698,0.266,0,0,9.889,MBA
+2018 SM7,?,2.804,0.25,0,0,10.216,MBA
+2018 SL7,?,2.301,0.123,0,0,9.085,MBA
+2018 SK7,?,3.035,0.185,0,0,10.655,MBA
+2018 SJ7,?,2.639,0.304,0,0,9.429,MBA
+2018 SH7,?,2.149,0.194,0,0,8.139,MBA
+2018 SG7,?,2.285,0.208,0,0,8.614,MBA
+2018 SF7,?,3.192,0.149,0,0,13.18,MBA
+2018 SE7,?,3.076,0.275,0,0,10.415,MBA
+2018 SD7,?,1.858,0.085,0,0,10.189,IMB
+2018 SC7,?,3.026,0.357,0,0,9.369,MBA
+2018 SB7,?,2.72,0.11,0,0,10.428,MBA
+2018 SZ6,?,3.016,0.131,0,0,10.512,MBA
+2018 SY6,?,2.209,0.142,0,0,8.669,MBA
+2018 SX6,?,1.908,0.067,0,0,10.378,IMB
+2018 SW6,?,2.426,0.186,0,0,9.898,MBA
+2018 SV6,?,3.047,0.257,0,0,9.711,MBA
+2018 SU6,?,2.583,0.384,0,0,8.164,MCA
+2018 ST6,?,2.465,0.19,0,0,9.269,MBA
+2018 SR6,?,2.743,0.24,0,0,9.456,MBA
+2018 SP6,?,2.263,0.118,0,0,8.975,MBA
+2018 SO6,?,3.135,0.156,0,0,12.957,MBA
+2018 SN6,?,2.315,0.112,0,0,9.079,MBA
+2018 SM6,?,2.33,0.228,0,0,8.43,MBA
+2018 SK6,?,2.325,0.304,0,0,8.086,MCA
+2018 SH6,?,2.647,0.1,0,0,10.017,MBA
+2018 SG6,?,1.922,0.09,0,0,10.126,IMB
+2018 SF6,?,2.691,0.147,0,0,10.438,MBA
+2018 SD6,?,3.084,0.145,0,0,11.165,MBA
+2018 SB6,?,3.195,0.186,0,0,11.013,MBA
+2018 SA6,?,3.252,0.294,0,0,12.315,OMB
+2018 SX5,?,2.71,0.214,0,0,10.075,MBA
+2018 SW5,?,2.57,0.253,0,0,9.561,MBA
+2018 SV5,?,2.806,0.221,0,0,11.905,MBA
+2018 SU5,?,2.604,0.2,0,0,9.778,MBA
+2018 ST5,?,2.57,0.163,0,0,10.33,MBA
+2018 SS5,?,3.209,0.188,0,0,12.767,OMB
+2018 SQ5,?,2.609,0.169,0,0,9.361,MBA
+2018 SP5,?,2.185,0.219,0,0,8.064,MBA
+2018 SO5,?,2.355,0.172,0,0,8.821,MBA
+2018 SN5,?,3.186,0.143,0,0,10.598,MBA
+2018 SM5,?,2.612,0.318,0,0,9.204,MBA
+2018 SL5,?,2.727,0.181,0,0,10.09,MBA
+2018 SK5,?,2.386,0.261,0,0,8.907,MBA
+2018 SH5,?,3.006,0.396,0,0,9.485,MBA
+2018 SG5,?,2.722,0.293,0,0,9.337,MBA
+2018 SD5,?,2.788,0.099,0,0,10.426,MBA
+2018 SC5,?,2.386,0.136,0,0,9.264,MBA
+2018 SB5,?,2.896,0.162,0,0,10.045,MBA
+2018 SZ4,?,2.293,0.26,0,0,8.152,MBA
+2018 SY4,?,2.189,0.164,0,0,8.357,MBA
+2018 SX4,?,2.801,0.18,0,0,9.932,MBA
+2018 SW4,?,2.586,0.122,0,0,9.952,MBA
+2018 SV4,?,2.719,0.203,0,0,9.623,MBA
+2018 SU4,?,2.765,0.178,0,0,9.938,MBA
+2018 ST4,?,3.14,0.305,0,0,11.88,MBA
+2018 SS4,?,2.693,0.131,0,0,10.208,MBA
+2018 SR4,?,3.104,0.105,0,0,12.517,MBA
+2018 SQ4,?,2.651,0.278,0,0,9.382,MBA
+2018 SP4,?,2.707,0.181,0,0,9.686,MBA
+2018 SO4,?,3.022,0.242,0,0,9.652,MBA
+2018 SN4,?,3.139,0.183,0,0,10.504,MBA
+2018 SM4,?,3.11,0.125,0,0,10.92,MBA
+2018 SL4,?,2.292,0.148,0,0,8.685,MBA
+2018 SK4,?,2.603,0.346,0,0,11.562,MBA
+2018 SJ4,?,2.623,0.259,0,0,9.493,MBA
+2018 SH4,?,2.787,0.196,0,0,9.896,MBA
+2018 SG4,?,3.123,0.114,0,0,11.532,MBA
+2018 SF4,?,2.756,0.319,0,0,8.897,MBA
+2018 SE4,?,3.006,0.137,0,0,10.371,MBA
+2018 SD4,?,3.083,0.231,0,0,10.723,MBA
+2018 SC4,?,3.2,0.07,0,0,11.13,MBA
+2018 SB4,?,2.759,0.173,0,0,9.85,MBA
+2018 SA4,?,2.625,0.303,0,0,8.731,MBA
+2018 SY3,?,3.128,0.151,0,0,13.007,MBA
+2018 SX3,?,2.594,0.304,0,0,11.97,MBA
+2018 SW3,?,1.936,0.123,0,0,9.781,IMB
+2018 SV3,?,1.882,0.33,0,0,10.18,AMO
+2018 SU3,?,1.655,0.731,0,0,9.218,APO
+2018 ST3,?,3.131,0.534,0,0,9.147,MCA
+2018 SS3,?,2.521,0.421,0,0,10.858,MCA
+2018 SR3,?,1.328,0.231,0,0,4.809,AMO
+2018 SQ3,?,1.567,0.257,0,0,9.769,AMO
+2018 SP3,?,2.592,0.684,0,0,7.223,APO
+2018 SO3,?,2.687,0.695,0,0,7.617,APO
+2018 SN3,?,1.553,0.407,0,0,5.324,APO
+2018 SM3,?,2.272,0.542,0,0,6.702,AMO
+2018 SL3,?,1.58,0.524,0,0,6.658,APO
+2018 SK3,?,2.597,0.704,0,0,12.214,APO (PHA)
+2018 SJ3,?,1.441,0.278,0,0,4.736,AMO
+2018 SH3,?,1.609,0.399,0,0,8.138,APO
+2018 SG3,?,1.195,0.223,0,0,4.948,APO
+2018 SF3,?,1.012,0.152,0,0,5.452,APO
+2018 SE3,?,1.177,0.019,0,0,15.889,AMO
+2018 SD3,?,1.379,0.276,0,0,5.612,APO
+2018 SC3,?,1.69,0.405,0,0,5.932,APO
+2018 SB3,?,1.144,0.186,0,0,4.517,APO
+2018 SA3,?,2.706,0.706,0,0,9.573,APO
+2018 SZ2,?,2.227,0.498,0,0,6.396,AMO
+2018 SY2,?,0.774,0.384,0,0,13.557,ATE
+2018 SX2,?,1.353,0.297,0,0,5.623,APO (PHA)
+2018 SW2,?,1.989,0.192,0,0,11.389,MCA
+2018 SV2,?,2.58,0.415,0,0,11.165,MCA
+2018 SU2,?,2.868,0.439,0,0,9.067,MCA
+2018 ST2,?,2.575,0.236,0,0,13.958,MBA
+2018 SS2,?,2.776,0.231,0,0,14.546,MBA
+2018 SR2,?,2.442,0.571,0,0,6.423,AMO
+2018 SQ2,?,1.817,0.427,0,0,6.231,AMO
+2018 SP2,?,0.925,0.206,0,0,11.566,ATE
+2018 SO2,?,0.836,0.321,0,0,7.899,ATE
+2018 SN2,?,0.838,0.217,0,0,8.65,ATE
+2018 SM2,?,2.279,0.598,0,0,6.47,APO
+2018 SL2,?,2.203,0.397,0,0,7.38,MCA
+2018 SK2,?,2.561,0.412,0,0,11.882,MCA
+2018 SJ2,?,1.839,0.085,0,0,10.148,IMB
+2018 SH2,?,2.607,0.26,0,0,13.055,MBA
+2018 SG2,?,2.589,0.413,0,0,8.362,MCA
+2018 SF2,?,1.828,0.625,0,0,7.326,APO
+2018 SE2,?,1.107,0.199,0,0,8.359,APO
+2018 SD2,?,0.93,0.111,0,0,5.233,ATE
+2018 SC2,?,2.65,0.336,0,0,9.379,MBA
+2018 SB2,?,1.319,0.722,0,0,10.039,APO
+2018 SA2,?,2.23,0.522,0,0,6.713,AMO
+2018 SZ1,?,2.308,0.208,0,0,11.258,MBA
+2018 SY1,?,1.874,0.063,0,0,10.268,IMB
+2018 SX1,?,2.583,0.385,0,0,11.205,MCA
+2018 SW1,?,3.106,0.408,0,0,9.954,MBA
+2018 SV1,?,1.854,0.082,0,0,10.175,IMB
+2018 SU1,?,1.899,0.06,0,0,10.285,IMB
+2018 ST1,?,2.436,0.629,0,0,6.75,APO
+2018 SS1,?,1.515,0.332,0,0,8.534,APO
+2018 SR1,?,2.493,0.58,0,0,8.884,AMO
+2018 SQ1,?,2.088,0.667,0,0,7.605,APO
+2018 SP1,?,1.762,0.598,0,0,7.146,APO
+2018 SO1,?,1.716,0.176,0,0,12.193,MCA
+2018 SN1,?,2.659,0.392,0,0,8.322,MCA
+2018 SM1,?,1.621,0.381,0,0,5.067,APO
+2018 SL1,?,1.216,0.161,0,0,6.737,AMO
+2018 SK1,?,1.599,0.292,0,0,7.893,AMO
+2018 SJ1,?,1.236,0.256,0,0,9.799,APO
+2018 SH1,?,2.409,0.328,0,0,8.632,MCA
+2018 SG1,?,2.348,0.334,0,0,8.356,MCA
+2018 SF1,?,2.403,0.396,0,0,8.342,MCA
+2018 SE1,?,2.659,0.403,0,0,8.491,MCA
+2018 SD1,?,1.097,0.433,0,0,9.193,APO
+2018 SC1,?,2.295,0.558,0,0,6.395,APO
+2018 SB1,?,1.536,0.321,0,0,5.145,AMO
+2018 SA1,?,2.965,0.595,0,0,11.209,AMO
+2018 SZ,?,1.424,0.222,0,0,7.468,AMO
+2018 SY,?,3.089,0.379,0,0,10.164,MBA
+2018 SX,?,3.056,0.515,0,0,9.2,MCA
+2018 SW,?,2.541,0.309,0,0,9.21,MBA
+2018 SV,?,2.399,0.322,0,0,10.12,MCA
+2018 SN,?,1.684,0.31,0,0,6.972,AMO
+2018 SM,?,1.786,0.468,0,0,6.119,APO
+2018 SL,?,1.531,0.281,0,0,14.333,AMO
+2018 SK,?,1.397,0.321,0,0,5.55,APO
+2018 SJ,?,3.318,0.336,0,0,13.966,OMB
+2018 SH,?,2.735,0.507,0,0,8.879,MCA
+2018 SG,?,2.495,0.408,0,0,8.362,MCA
+2018 SF,?,3.118,0.366,0,0,10.513,MBA
+2018 SE,?,2.582,0.377,0,0,11.722,MCA
+2018 SD,?,1.93,0.303,0,0,6.757,MCA
+2018 SC,?,1.256,0.454,0,0,7.256,APO
+2018 SB,?,1.486,0.316,0,0,14.636,AMO
+2018 SA,?,1.794,0.076,0,0,11.125,MCA
+2018 RG38,?,2.421,0.246,0,0,8.788,MBA
+2018 RF38,?,3.205,0.302,0,0,11.879,OMB
+2018 RE38,?,2.668,0.156,0,0,10.259,MBA
+2018 RD38,?,2.591,0.28,0,0,10.018,MBA
+2018 RB38,?,2.981,0.196,0,0,10.097,MBA
+2018 RZ37,?,2.26,0.23,0,0,8.4,MBA
+2018 RY37,?,2.774,0.235,0,0,9.799,MBA
+2018 RX37,?,2.322,0.269,0,0,8.493,MBA
+2018 RU37,?,3.16,0.202,0,0,11.654,MBA
+2018 RT37,?,3.122,0.139,0,0,11.342,MBA
+2018 RS37,?,2.316,0.131,0,0,9.112,MBA
+2018 RR37,?,2.193,0.214,0,0,8.209,MBA
+2018 RQ37,?,2.147,0.171,0,0,8.54,MBA
+2018 RP37,?,2.701,0.183,0,0,9.586,MBA
+2018 RN37,?,3.13,0.084,0,0,11.561,MBA
+2018 RM37,?,2.718,0.341,0,0,8.809,MBA
+2018 RL37,?,2.727,0.145,0,0,10.457,MBA
+2018 RK37,?,2.273,0.215,0,0,8.661,MBA
+2018 RJ37,?,1.871,0.085,0,0,9.992,IMB
+2018 RH37,?,2.321,0.201,0,0,11.434,MBA
+2018 RF37,?,2.546,0.135,0,0,10.517,MBA
+2018 RE37,?,2.13,0.311,0,0,10.066,MCA
+2018 RD37,?,2.163,0.264,0,0,7.97,MCA
+2018 RC37,?,3.129,0.268,0,0,10.129,MBA
+2018 RB37,?,2.349,0.256,0,0,8.325,MBA
+2018 RA37,?,3.101,0.165,0,0,11.31,MBA
+2018 RZ36,?,2.324,0.235,0,0,8.749,MBA
+2018 RY36,?,2.754,0.199,0,0,10.206,MBA
+2018 RX36,?,3.08,0.205,0,0,10.18,MBA
+2018 RW36,?,2.674,0.263,0,0,9.41,MBA
+2018 RV36,?,2.398,0.325,0,0,8.057,MCA
+2018 RU36,?,2.731,0.218,0,0,9.508,MBA
+2018 RT36,?,2.313,0.148,0,0,8.995,MBA
+2018 RS36,?,2.286,0.232,0,0,8.595,MBA
+2018 RR36,?,3.057,0.188,0,0,11.302,MBA
+2018 RQ36,?,2.262,0.23,0,0,11.504,MBA
+2018 RP36,?,2.207,0.16,0,0,8.696,MBA
+2018 RO36,?,2.722,0.163,0,0,10.211,MBA
+2018 RM36,?,2.77,0.225,0,0,9.562,MBA
+2018 RL36,?,2.288,0.231,0,0,8.245,MBA
+2018 RK36,?,2.296,0.249,0,0,8.234,MBA
+2018 RJ36,?,3.18,0.145,0,0,13.315,MBA
+2018 RH36,?,2.568,0.181,0,0,10.19,MBA
+2018 RF36,?,2.639,0.275,0,0,9.621,MBA
+2018 RE36,?,1.778,0.076,0,0,10.161,MCA
+2018 RD36,?,2.604,0.33,0,0,8.435,MBA
+2018 RB36,?,2.98,0.246,0,0,10.524,MBA
+2018 RA36,?,2.682,0.27,0,0,9.634,MBA
+2018 RY35,?,1.896,0.134,0,0,9.526,MCA
+2018 RX35,?,2.423,0.144,0,0,9.261,MBA
+2018 RV35,?,2.839,0.145,0,0,10.876,MBA
+2018 RU35,?,3.136,0.256,0,0,10.034,MBA
+2018 RT35,?,3.152,0.228,0,0,10.205,MBA
+2018 RS35,?,2.285,0.241,0,0,8.279,MBA
+2018 RR35,?,2.714,0.117,0,0,9.773,MBA
+2018 RQ35,?,2.604,0.282,0,0,8.771,MBA
+2018 RP35,?,3.103,0.278,0,0,10.217,MBA
+2018 RO35,?,2.949,0.048,0,0,10.993,MBA
+2018 RN35,?,2.785,0.295,0,0,9.326,MBA
+2018 RM35,?,3.179,0.228,0,0,12.944,MBA
+2018 RL35,?,3.14,0.193,0,0,11.107,MBA
+2018 RK35,?,2.651,0.129,0,0,13.344,MBA
+2018 RJ35,?,2.244,0.198,0,0,10.948,MBA
+2018 RH35,?,2.458,0.208,0,0,9.663,MBA
+2018 RG35,?,2.281,0.23,0,0,8.657,MBA
+2018 RF35,?,1.866,0.015,0,0,10.466,IMB
+2018 RE35,?,2.604,0.235,0,0,13.616,MBA
+2018 RD35,?,1.961,0.085,0,0,10.172,IMB
+2018 RC35,?,3.124,0.242,0,0,12.237,MBA
+2018 RB35,?,3.126,0.229,0,0,12.241,MBA
+2018 RZ34,?,3.165,0.286,0,0,10.481,MBA
+2018 RY34,?,2.353,0.263,0,0,8.381,MBA
+2018 RW34,?,2.205,0.231,0,0,8.147,MBA
+2018 RV34,?,3.178,0.275,0,0,10.539,MBA
+2018 RU34,?,3.111,0.054,0,0,11.529,MBA
+2018 RS34,?,2.265,0.129,0,0,8.913,MBA
+2018 RR34,?,2.674,0.254,0,0,9.65,MBA
+2018 RP34,?,3.478,0.142,0,0,11.126,OMB
+2018 RN34,?,2.773,0.289,0,0,9.508,MBA
+2018 RL34,?,2.283,0.289,0,0,8.3,MCA
+2018 RK34,?,2.609,0.277,0,0,9.567,MBA
+2018 RJ34,?,2.716,0.259,0,0,9.367,MBA
+2018 RH34,?,2.334,0.243,0,0,8.881,MBA
+2018 RG34,?,2.296,0.233,0,0,8.286,MBA
+2018 RF34,?,2.763,0.197,0,0,10.816,MBA
+2018 RE34,?,2.367,0.21,0,0,8.517,MBA
+2018 RD34,?,2.601,0.179,0,0,10.049,MBA
+2018 RC34,?,2.701,0.14,0,0,9.68,MBA
+2018 RB34,?,1.853,0.058,0,0,10.394,IMB
+2018 RA34,?,2.746,0.163,0,0,9.572,MBA
+2018 RZ33,?,2.364,0.143,0,0,9.339,MBA
+2018 RY33,?,2.451,0.218,0,0,8.674,MBA
+2018 RX33,?,3.144,0.1,0,0,10.814,MBA
+2018 RW33,?,2.726,0.036,0,0,10.238,MBA
+2018 RU33,?,3.087,0.222,0,0,10.665,MBA
+2018 RS33,?,2.309,0.213,0,0,8.414,MBA
+2018 RR33,?,2.335,0.282,0,0,8.108,MBA
+2018 RQ33,?,2.976,0.236,0,0,9.548,MBA
+2018 RP33,?,2.387,0.34,0,0,8.425,MCA
+2018 RO33,?,3.077,0.086,0,0,10.726,MBA
+2018 RN33,?,2.317,0.175,0,0,8.668,MBA
+2018 RM33,?,2.699,0.137,0,0,9.708,MBA
+2018 RJ33,?,2.176,0.261,0,0,7.961,MCA
+2018 RH33,?,3.119,0.263,0,0,10.145,MBA
+2018 RG33,?,2.747,0.218,0,0,10.08,MBA
+2018 RF33,?,2.774,0.203,0,0,9.747,MBA
+2018 RE33,?,2.65,0.398,0,0,8.487,MCA
+2018 RD33,?,3.067,0.229,0,0,10.036,MBA
+2018 RC33,?,2.574,0.172,0,0,10.05,MBA
+2018 RB33,?,3.946,0.352,0,0,10.371,OMB
+2018 RA33,?,2.291,0.224,0,0,8.271,MBA
+2018 RZ32,?,2.202,0.221,0,0,8.145,MBA
+2018 RX32,?,2.339,0.138,0,0,9.06,MBA
+2018 RW32,?,2.37,0.148,0,0,9.022,MBA
+2018 RV32,?,3.958,0.355,0,0,10.424,OMB
+2018 RU32,?,2.386,0.116,0,0,9.215,MBA
+2018 RT32,?,3.096,0.144,0,0,10.781,MBA
+2018 RS32,?,2.903,0.281,0,0,9.453,MBA
+2018 RR32,?,2.283,0.169,0,0,8.606,MBA
+2018 RQ32,?,2.68,0.267,0,0,9.461,MBA
+2018 RP32,?,2.569,0.155,0,0,9.528,MBA
+2018 RO32,?,2.6,0.117,0,0,10.532,MBA
+2018 RN32,?,1.99,0.088,0,0,10.909,IMB
+2018 RM32,?,3.166,0.158,0,0,11.099,MBA
+2018 RL32,?,3.139,0.46,0,0,10.64,MBA
+2018 RK32,?,3.14,0.153,0,0,10.564,MBA
+2018 RJ32,?,2.268,0.296,0,0,8.096,MCA
+2018 RH32,?,2.618,0.307,0,0,12.148,MBA
+2018 RF32,?,2.338,0.247,0,0,8.659,MBA
+2018 RE32,?,2.225,0.172,0,0,8.555,MBA
+2018 RC32,?,3.096,0.307,0,0,9.597,MBA
+2018 RB32,?,2.537,0.195,0,0,9.904,MBA
+2018 RA32,?,2.375,0.254,0,0,8.435,MBA
+2018 RY31,?,2.567,0.19,0,0,10.143,MBA
+2018 RW31,?,2.701,0.099,0,0,10.005,MBA
+2018 RU31,?,2.699,0.275,0,0,9.437,MBA
+2018 RT31,?,2.597,0.203,0,0,9.517,MBA
+2018 RR31,?,2.382,0.113,0,0,9.389,MBA
+2018 RQ31,?,3.105,0.254,0,0,10.573,MBA
+2018 RP31,?,2.582,0.183,0,0,9.914,MBA
+2018 RO31,?,2.364,0.243,0,0,9.229,MBA
+2018 RN31,?,2.685,0.26,0,0,9.899,MBA
+2018 RM31,?,2.643,0.292,0,0,9.497,MBA
+2018 RL31,?,2.643,0.305,0,0,9.342,MBA
+2018 RK31,?,2.593,0.222,0,0,9.842,MBA
+2018 RJ31,?,2.54,0.104,0,0,9.917,MBA
+2018 RG31,?,2.602,0.238,0,0,12.041,MBA
+2018 RF31,?,2.309,0.167,0,0,8.636,MBA
+2018 RE31,?,2.586,0.189,0,0,9.913,MBA
+2018 RD31,?,2.641,0.186,0,0,9.917,MBA
+2018 RC31,?,2.695,0.241,0,0,9.856,MBA
+2018 RB31,?,2.596,0.294,0,0,9.156,MBA
+2018 RA31,?,1.941,0.155,0,0,10.644,MCA
+2018 RW30,?,2.216,0.236,0,0,8.084,MBA
+2018 RV30,?,2.353,0.266,0,0,8.354,MBA
+2018 RU30,?,2.337,0.166,0,0,8.816,MBA
+2018 RT30,?,2.211,0.252,0,0,8.078,MCA
+2018 RS30,?,2.603,0.269,0,0,9.592,MBA
+2018 RQ30,?,3.093,0.069,0,0,11.549,MBA
+2018 RP30,?,2.286,0.242,0,0,8.161,MBA
+2018 RO30,?,2.403,0.238,0,0,8.588,MBA
+2018 RN30,?,3.033,0.235,0,0,10.538,MBA
+2018 RL30,?,2.375,0.207,0,0,8.81,MBA
+2018 RK30,?,2.364,0.25,0,0,8.763,MBA
+2018 RJ30,?,2.34,0.135,0,0,9.14,MBA
+2018 RH30,?,2.888,0.157,0,0,10.455,MBA
+2018 RG30,?,3.045,0.097,0,0,11.589,MBA
+2018 RF30,?,3.949,0.313,0,0,10.622,OMB
+2018 RE30,?,2.679,0.377,0,0,9.187,MBA
+2018 RD30,?,2.62,0.243,0,0,13.575,MBA
+2018 RC30,?,2.527,0.14,0,0,10.49,MBA
+2018 RA30,?,3.177,0.212,0,0,10.936,MBA
+2018 RY29,?,3.168,0.077,0,0,11.069,MBA
+2018 RW29,?,2.195,0.248,0,0,7.952,MCA
+2018 RV29,?,3.091,0.19,0,0,11.281,MBA
+2018 RU29,?,3.108,0.339,0,0,10.049,MBA
+2018 RT29,?,1.903,0.081,0,0,10.233,IMB
+2018 RS29,?,3.134,0.147,0,0,10.441,MBA
+2018 RR29,?,2.798,0.239,0,0,9.584,MBA
+2018 RQ29,?,2.222,0.208,0,0,8.295,MBA
+2018 RP29,?,2.619,0.278,0,0,12.378,MBA
+2018 RO29,?,2.302,0.247,0,0,8.265,MBA
+2018 RN29,?,2.558,0.276,0,0,8.656,MBA
+2018 RM29,?,2.756,0.285,0,0,9.305,MBA
+2018 RL29,?,2.301,0.164,0,0,8.752,MBA
+2018 RK29,?,3.083,0.233,0,0,11.104,MBA
+2018 RJ29,?,3.106,0.157,0,0,11.235,MBA
+2018 RG29,?,3.971,0.321,0,0,10.498,OMB
+2018 RF29,?,3.225,0.19,0,0,12.927,OMB
+2018 RE29,?,2.692,0.347,0,0,8.609,MBA
+2018 RD29,?,2.381,0.272,0,0,8.994,MBA
+2018 RC29,?,2.655,0.104,0,0,10.642,MBA
+2018 RB29,?,3.115,0.167,0,0,10.178,MBA
+2018 RA29,?,2.418,0.256,0,0,8.414,MBA
+2018 RZ28,?,2.999,0.185,0,0,10.206,MBA
+2018 RY28,?,2.66,0.211,0,0,10.493,MBA
+2018 RX28,?,2.86,0.152,0,0,10.83,MBA
+2018 RT28,?,3.086,0.103,0,0,10.42,MBA
+2018 RS28,?,2.695,0.209,0,0,10.024,MBA
+2018 RQ28,?,2.846,0.297,0,0,9.434,MBA
+2018 RO28,?,2.637,0.158,0,0,10.234,MBA
+2018 RN28,?,2.628,0.29,0,0,9.215,MBA
+2018 RM28,?,2.325,0.124,0,0,9.627,MBA
+2018 RL28,?,3.09,0.343,0,0,9.767,MBA
+2018 RK28,?,2.325,0.136,0,0,9.017,MBA
+2018 RJ28,?,3.178,0.402,0,0,11.184,MBA
+2018 RH28,?,2.778,0.247,0,0,10.316,MBA
+2018 RG28,?,3.23,0.013,0,0,12.805,OMB
+2018 RC28,?,2.675,0.337,0,0,10.957,MBA
+2018 RB28,?,2.296,0.222,0,0,8.615,MBA
+2018 RZ27,?,2.705,0.348,0,0,8.707,MBA
+2018 RX27,?,1.176,0.265,0,0,12.215,APO
+2018 RW27,?,2.782,0.538,0,0,7.786,AMO
+2018 RV27,?,1.728,0.492,0,0,5.989,APO
+2018 RU27,?,2.743,0.279,0,0,9.442,MBA
+2018 RQ27,?,2.624,0.352,0,0,9.1,MBA
+2018 RP27,?,2.944,0.229,0,0,9.914,MBA
+2018 RN27,?,3.092,0.178,0,0,10.862,MBA
+2018 RK27,?,2.724,0.233,0,0,9.409,MBA
+2018 RJ27,?,2.373,0.262,0,0,10.488,MBA
+2018 RH27,?,2.725,0.231,0,0,9.527,MBA
+2018 RF27,?,2.22,0.195,0,0,8.334,MBA
+2018 RE27,?,2.803,0.093,0,0,10.035,MBA
+2018 RD27,?,2.222,0.241,0,0,8.121,MBA
+2018 RC27,?,2.652,0.273,0,0,9.769,MBA
+2018 RB27,?,2.934,0.065,0,0,11.033,MBA
+2018 RA27,?,2.27,0.211,0,0,8.398,MBA
+2018 RZ26,?,2.754,0.055,0,0,10.213,MBA
+2018 RV26,?,2.238,0.224,0,0,8.252,MBA
+2018 RS26,?,2.748,0.063,0,0,10.166,MBA
+2018 RP26,?,2.821,0.2,0,0,9.528,MBA
+2018 RO26,?,2.867,0.059,0,0,10.373,MBA
+2018 RN26,?,2.41,0.176,0,0,8.871,MBA
+2018 RM26,?,2.684,0.388,0,0,8.421,MCA
+2018 RL26,?,3.081,0.081,0,0,11.014,MBA
+2018 RK26,?,2.321,0.249,0,0,8.317,MBA
+2018 RF26,?,2.753,0.254,0,0,10.042,MBA
+2018 RE26,?,2.262,0.213,0,0,8.313,MBA
+2018 RD26,?,3.989,0.266,0,0,10.608,OMB
+2018 RB26,?,2.605,0.331,0,0,8.571,MBA
+2018 RA26,?,2.213,0.264,0,0,8.01,MCA
+2018 RY25,?,2.763,0.202,0,0,9.736,MBA
+2018 RX25,?,2.23,0.182,0,0,8.457,MBA
+2018 RW25,?,3.151,0.31,0,0,10.908,MBA
+2018 RV25,?,3.423,0.361,0,0,9.582,OMB
+2018 RU25,?,2.78,0.272,0,0,9.255,MBA
+2018 RS25,?,3.09,0.237,0,0,11.374,MBA
+2018 RR25,?,2.622,0.2,0,0,9.179,MBA
+2018 RQ25,?,2.735,0.17,0,0,9.632,MBA
+2018 RP25,?,3.17,0.297,0,0,10.343,MBA
+2018 RM25,?,2.188,0.142,0,0,8.486,MBA
+2018 RK25,?,2.629,0.284,0,0,8.826,MBA
+2018 RE25,?,2.726,0.233,0,0,9.473,MBA
+2018 RC25,?,2.267,0.155,0,0,8.926,MBA
+2018 RB25,?,2.464,0.107,0,0,9.505,MBA
+2018 RA25,?,3.134,0.226,0,0,10.792,MBA
+2018 RX24,?,2.775,0.155,0,0,10.03,MBA
+2018 RW24,?,2.195,0.248,0,0,7.952,MCA
+2018 RV24,?,2.746,0.173,0,0,9.647,MBA
+2018 RU24,?,2.71,0.253,0,0,9.409,MBA
+2018 RS24,?,2.485,0.197,0,0,8.989,MBA
+2018 RQ24,?,2.241,0.17,0,0,8.654,MBA
+2018 RP24,?,2.454,0.177,0,0,9.506,MBA
+2018 RN24,?,2.6,0.19,0,0,10.057,MBA
+2018 RM24,?,3.174,0.098,0,0,10.956,MBA
+2018 RL24,?,2.366,0.237,0,0,8.556,MBA
+2018 RJ24,?,2.734,0.181,0,0,9.911,MBA
+2018 RH24,?,2.249,0.221,0,0,8.441,MBA
+2018 RG24,?,2.3,0.15,0,0,8.881,MBA
+2018 RF24,?,2.733,0.193,0,0,9.728,MBA
+2018 RE24,?,3.205,0.248,0,0,12.888,OMB
+2018 RD24,?,2.429,0.175,0,0,9.56,MBA
+2018 RB24,?,3.082,0.22,0,0,10.666,MBA
+2018 RA24,?,2.923,0.076,0,0,10.693,MBA
+2018 RZ23,?,2.292,0.154,0,0,8.832,MBA
+2018 RX23,?,2.68,0.162,0,0,10.766,MBA
+2018 RV23,?,3.113,0.214,0,0,10.449,MBA
+2018 RU23,?,3.155,0.102,0,0,11.053,MBA
+2018 RT23,?,2.927,0.255,0,0,9.609,MBA
+2018 RS23,?,2.856,0.078,0,0,10.374,MBA
+2018 RR23,?,3.027,0.109,0,0,10.6,MBA
+2018 RQ23,?,2.509,0.218,0,0,8.942,MBA
+2018 RP23,?,2.586,0.289,0,0,8.689,MBA
+2018 RO23,?,2.799,0.185,0,0,9.862,MBA
+2018 RN23,?,2.586,0.217,0,0,9.489,MBA
+2018 RM23,?,2.605,0.222,0,0,9.087,MBA
+2018 RL23,?,2.505,0.155,0,0,9.334,MBA
+2018 RK23,?,2.899,0.271,0,0,10.192,MBA
+2018 RJ23,?,2.742,0.183,0,0,10.274,MBA
+2018 RH23,?,3.093,0.081,0,0,11.036,MBA
+2018 RG23,?,2.881,0.118,0,0,10.245,MBA
+2018 RF23,?,3.045,0.283,0,0,10.122,MBA
+2018 RB23,?,2.367,0.255,0,0,8.282,MBA
+2018 RA23,?,2.648,0.202,0,0,10.009,MBA
+2018 RY22,?,2.455,0.257,0,0,8.732,MBA
+2018 RV22,?,2.308,0.211,0,0,8.406,MBA
+2018 RU22,?,3.189,0.249,0,0,12.903,MBA
+2018 RS22,?,2.23,0.188,0,0,8.483,MBA
+2018 RQ22,?,2.315,0.26,0,0,8.186,MBA
+2018 RP22,?,2.249,0.149,0,0,8.704,MBA
+2018 RO22,?,2.254,0.224,0,0,8.25,MBA
+2018 RN22,?,2.769,0.13,0,0,9.823,MBA
+2018 RL22,?,3.065,0.084,0,0,11.578,MBA
+2018 RK22,?,3.131,0.176,0,0,10.239,MBA
+2018 RJ22,?,2.202,0.208,0,0,8.212,MBA
+2018 RH22,?,3.099,0.321,0,0,9.508,MBA
+2018 RF22,?,3.179,0.055,0,0,10.926,MBA
+2018 RD22,?,1.875,0.126,0,0,9.325,MCA
+2018 RC22,?,2.94,0.106,0,0,10.528,MBA
+2018 RB22,?,2.367,0.304,0,0,8.044,MCA
+2018 RZ21,?,2.326,0.187,0,0,8.673,MBA
+2018 RY21,?,2.388,0.233,0,0,8.475,MBA
+2018 RX21,?,2.586,0.246,0,0,9.644,MBA
+2018 RW21,?,3.02,0.115,0,0,11.175,MBA
+2018 RV21,?,2.689,0.325,0,0,8.66,MBA
+2018 RU21,?,2.352,0.225,0,0,8.399,MBA
+2018 RR21,?,3.859,0.307,0,0,10.465,OMB
+2018 RQ21,?,2.944,0.282,0,0,9.339,MBA
+2018 RN21,?,3.14,0.194,0,0,10.088,MBA
+2018 RM21,?,2.606,0.194,0,0,9.413,MBA
+2018 RL21,?,2.464,0.156,0,0,9.648,MBA
+2018 RK21,?,2.207,0.159,0,0,8.609,MBA
+2018 RJ21,?,3.804,0.142,0,0,11.014,OMB
+2018 RH21,?,3.148,0.228,0,0,10.966,MBA
+2018 RG21,?,2.565,0.2,0,0,9.682,MBA
+2018 RD21,?,2.714,0.151,0,0,11.123,MBA
+2018 RC21,?,2.425,0.204,0,0,8.786,MBA
+2018 RB21,?,3.21,0.257,0,0,17.395,OMB
+2018 RA21,?,3.425,0.099,0,0,11.646,OMB
+2018 RX20,?,2.499,0.237,0,0,8.743,MBA
+2018 RW20,?,2.784,0.175,0,0,9.964,MBA
+2018 RV20,?,3.146,0.098,0,0,13.568,MBA
+2018 RU20,?,2.699,0.301,0,0,9.044,MBA
+2018 RT20,?,3.212,0.276,0,0,9.773,OMB
+2018 RR20,?,2.274,0.26,0,0,8.114,MBA
+2018 RP20,?,2.4,0.218,0,0,8.668,MBA
+2018 RN20,?,2.577,0.36,0,0,8.472,MCA
+2018 RM20,?,2.43,0.355,0,0,7.938,MCA
+2018 RH20,?,3.172,0.156,0,0,10.637,MBA
+2018 RG20,?,2.364,0.196,0,0,8.605,MBA
+2018 RE20,?,2.411,0.22,0,0,8.936,MBA
+2018 RD20,?,2.334,0.196,0,0,8.819,MBA
+2018 RB20,?,2.591,0.189,0,0,9.763,MBA
+2018 RZ19,?,2.227,0.247,0,0,8.136,MBA
+2018 RX19,?,2.258,0.203,0,0,8.577,MBA
+2018 RW19,?,3.95,0.296,0,0,10.378,OMB
+2018 RS19,?,2.29,0.259,0,0,8.301,MBA
+2018 RP19,?,3.221,0.27,0,0,10.191,OMB
+2018 RO19,?,2.55,0.256,0,0,8.827,MBA
+2018 RN19,?,2.4,0.211,0,0,8.752,MBA
+2018 RL19,?,3.073,0.212,0,0,10.262,MBA
+2018 RK19,?,2.22,0.202,0,0,8.329,MBA
+2018 RJ19,?,2.354,0.193,0,0,8.594,MBA
+2018 RH19,?,2.555,0.27,0,0,8.667,MBA
+2018 RG19,?,2.356,0.2,0,0,8.559,MBA
+2018 RF19,?,2.225,0.204,0,0,8.28,MBA
+2018 RV18,?,2.365,0.266,0,0,8.362,MBA
+2018 RU18,?,2.581,0.191,0,0,9.289,MBA
+2018 RT18,?,2.693,0.152,0,0,9.665,MBA
+2018 RQ18,?,2.605,0.256,0,0,9.815,MBA
+2018 RP18,?,2.64,0.292,0,0,9.383,MBA
+2018 RM18,?,3.13,0.208,0,0,10.298,MBA
+2018 RL18,?,2.378,0.109,0,0,9.262,MBA
+2018 RK18,?,2.701,0.178,0,0,10.082,MBA
+2018 RJ18,?,2.243,0.217,0,0,8.458,MBA
+2018 RH18,?,2.296,0.241,0,0,8.383,MBA
+2018 RE18,?,3.075,0.357,0,0,10.336,MBA
+2018 RD18,?,2.776,0.238,0,0,9.419,MBA
+2018 RC18,?,2.717,0.197,0,0,9.543,MBA
+2018 RB18,?,2.397,0.226,0,0,9.351,MBA
+2018 RA18,?,3.088,0.1,0,0,10.717,MBA
+2018 RY17,?,2.532,0.257,0,0,8.707,MBA
+2018 RX17,?,3.103,0.038,0,0,10.894,MBA
+2018 RW17,?,2.671,0.233,0,0,9.654,MBA
+2018 RV17,?,3.151,0.129,0,0,10.399,MBA
+2018 RU17,?,2.477,0.208,0,0,9.878,MBA
+2018 RT17,?,2.436,0.201,0,0,8.75,MBA
+2018 RS17,?,2.591,0.2,0,0,9.726,MBA
+2018 RQ17,?,2.585,0.13,0,0,9.563,MBA
+2018 RP17,?,2.252,0.135,0,0,8.648,MBA
+2018 RO17,?,2.646,0.273,0,0,9.6,MBA
+2018 RN17,?,2.18,0.21,0,0,8.083,MBA
+2018 RM17,?,2.744,0.208,0,0,9.798,MBA
+2018 RL17,?,2.281,0.217,0,0,8.549,MBA
+2018 RF17,?,2.268,0.146,0,0,8.797,MBA
+2018 RE17,?,3.144,0.176,0,0,10.453,MBA
+2018 RD17,?,2.687,0.241,0,0,9.771,MBA
+2018 RC17,?,2.786,0.068,0,0,11.138,MBA
+2018 RB17,?,2.58,0.194,0,0,9.613,MBA
+2018 RZ16,?,2.234,0.169,0,0,8.617,MBA
+2018 RY16,?,2.718,0.325,0,0,9.048,MBA
+2018 RX16,?,3.051,0.204,0,0,9.86,MBA
+2018 RW16,?,3.084,0.205,0,0,10.546,MBA
+2018 RV16,?,2.31,0.234,0,0,8.309,MBA
+2018 RU16,?,2.253,0.39,0,0,7.269,MCA
+2018 RT16,?,2.845,0.064,0,0,10.227,MBA
+2018 RS16,?,3.948,0.276,0,0,11.055,OMB
+2018 RR16,?,2.703,0.168,0,0,10.146,MBA
+2018 RQ16,?,2.382,0.2,0,0,8.662,MBA
+2018 RP16,?,2.359,0.12,0,0,9.12,MBA
+2018 RO16,?,3.249,0.048,0,0,11.434,OMB
+2018 RN16,?,2.355,0.318,0,0,10.296,MCA
+2018 RM16,?,2.532,0.058,0,0,10.135,MBA
+2018 RL16,?,3.079,0.182,0,0,11.057,MBA
+2018 RK16,?,2.637,0.162,0,0,9.999,MBA
+2018 RJ16,?,2.355,0.236,0,0,8.511,MBA
+2018 RH16,?,2.362,0.2,0,0,8.665,MBA
+2018 RG16,?,2.667,0.137,0,0,10.502,MBA
+2018 RF16,?,3.103,0.213,0,0,11.536,MBA
+2018 RE16,?,3.03,0.091,0,0,12.126,MBA
+2018 RB16,?,3.186,0.142,0,0,10.403,MBA
+2018 RA16,?,2.568,0.164,0,0,9.552,MBA
+2018 RZ15,?,2.701,0.069,0,0,10.04,MBA
+2018 RY15,?,3.059,0.204,0,0,11.478,MBA
+2018 RX15,?,2.213,0.069,0,0,9.144,MBA
+2018 RW15,?,2.689,0.094,0,0,9.812,MBA
+2018 RV15,?,2.464,0.13,0,0,9.156,MBA
+2018 RT15,?,2.554,0.246,0,0,9.915,MBA
+2018 RS15,?,2.458,0.071,0,0,9.539,MBA
+2018 RR15,?,2.678,0.244,0,0,9.083,MBA
+2018 RQ15,?,2.636,0.269,0,0,9.468,MBA
+2018 RP15,?,2.581,0.286,0,0,9.099,MBA
+2018 RE15,?,2.597,0.267,0,0,9.566,MBA
+2018 RC15,?,3.187,0.255,0,0,10.722,MBA
+2018 RB15,?,2.365,0.218,0,0,8.658,MBA
+2018 RA15,?,2.407,0.241,0,0,8.525,MBA
+2018 RZ14,?,3.179,0.091,0,0,11.716,MBA
+2018 RY14,?,3.252,0.323,0,0,9.585,OMB
+2018 RX14,?,2.366,0.228,0,0,8.44,MBA
+2018 RV14,?,2.595,0.168,0,0,9.335,MBA
+2018 RT14,?,2.582,0.314,0,0,8.498,MBA
+2018 RS14,?,3.144,0.187,0,0,11.384,MBA
+2018 RR14,?,2.808,0.3,0,0,9.355,MBA
+2018 RQ14,?,2.344,0.243,0,0,8.349,MBA
+2018 RP14,?,2.291,0.238,0,0,8.362,MBA
+2018 RO14,?,3.035,0.211,0,0,10.326,MBA
+2018 RN14,?,2.45,0.265,0,0,9.029,MBA
+2018 RM14,?,2.42,0.243,0,0,8.54,MBA
+2018 RL14,?,2.291,0.227,0,0,8.346,MBA
+2018 RK14,?,2.911,0.129,0,0,10.016,MBA
+2018 RJ14,?,2.29,0.234,0,0,8.228,MBA
+2018 RH14,?,3.076,0.14,0,0,10.712,MBA
+2018 RG14,?,2.607,0.122,0,0,10.033,MBA
+2018 RF14,?,2.348,0.208,0,0,8.51,MBA
+2018 RE14,?,2.807,0.168,0,0,9.755,MBA
+2018 RD14,?,2.192,0.228,0,0,7.989,MBA
+2018 RC14,?,2.212,0.267,0,0,8.129,MCA
+2018 RB14,?,2.329,0.253,0,0,8.192,MBA
+2018 RA14,?,2.471,0.169,0,0,10.209,MBA
+2018 RZ13,?,2.81,0.17,0,0,9.953,MBA
+2018 RX13,?,3.13,0.269,0,0,10.239,MBA
+2018 RW13,?,2.4,0.113,0,0,9.306,MBA
+2018 RV13,?,2.218,0.228,0,0,8.26,MBA
+2018 RU13,?,2.19,0.238,0,0,8.012,MBA
+2018 RT13,?,2.261,0.178,0,0,8.599,MBA
+2018 RS13,?,3.09,0.198,0,0,9.926,MBA
+2018 RR13,?,2.595,0.269,0,0,9.956,MBA
+2018 RQ13,?,2.661,0.327,0,0,8.512,MBA
+2018 RN13,?,2.317,0.105,0,0,9.172,MBA
+2018 RM13,?,3.099,0.068,0,0,10.739,MBA
+2018 RL13,?,2.569,0.236,0,0,8.934,MBA
+2018 RK13,?,3.295,0.231,0,0,11.092,OMB
+2018 RJ13,?,2.152,0.213,0,0,7.954,MBA
+2018 RH13,?,3.078,0.142,0,0,11.473,MBA
+2018 RG13,?,2.688,0.312,0,0,8.98,MBA
+2018 RF13,?,2.376,0.218,0,0,8.535,MBA
+2018 RE13,?,2.922,0.219,0,0,9.638,MBA
+2018 RC13,?,2.228,0.185,0,0,8.453,MBA
+2018 RB13,?,2.282,0.244,0,0,8.197,MBA
+2018 RA13,?,2.293,0.264,0,0,8.223,MBA
+2018 RZ12,?,2.645,0.298,0,0,9.332,MBA
+2018 RY12,?,2.721,0.287,0,0,9.168,MBA
+2018 RU12,?,2.461,0.142,0,0,9.256,MBA
+2018 RT12,?,3.147,0.199,0,0,10.427,MBA
+2018 RS12,?,2.175,0.226,0,0,7.983,MBA
+2018 RR12,?,2.224,0.217,0,0,8.252,MBA
+2018 RQ12,?,2.686,0.354,0,0,9.54,MBA
+2018 RP12,?,2.608,0.262,0,0,9.839,MBA
+2018 RO12,?,3.188,0.198,0,0,11.289,MBA
+2018 RN12,?,2.375,0.121,0,0,9.334,MBA
+2018 RM12,?,2.206,0.258,0,0,8.084,MCA
+2018 RG12,?,2.389,0.318,0,0,8.735,MCA
+2018 RF12,?,2.6,0.29,0,0,9.169,MBA
+2018 RE12,?,3.164,0.232,0,0,10.682,MBA
+2018 RD12,?,2.681,0.252,0,0,9.641,MBA
+2018 RB12,?,3.092,0.22,0,0,10.671,MBA
+2018 RY11,?,2.653,0.253,0,0,9.754,MBA
+2018 RX11,?,3.233,0.216,0,0,10.838,OMB
+2018 RR11,?,2.35,0.193,0,0,9.137,MBA
+2018 RQ11,?,3.01,0.25,0,0,10.291,MBA
+2018 RP11,?,2.66,0.153,0,0,10.311,MBA
+2018 RN11,?,3.067,0.302,0,0,10.205,MBA
+2018 RM11,?,3.139,0.183,0,0,11.158,MBA
+2018 RH11,?,3.204,0.039,0,0,11.74,OMB
+2018 RG11,?,3.094,0.252,0,0,10.63,MBA
+2018 RF11,?,2.541,0.201,0,0,9.621,MBA
+2018 RD11,?,3.193,0.056,0,0,11.783,MBA
+2018 RC11,?,2.572,0.259,0,0,9.871,MBA
+2018 RA11,?,2.716,0.212,0,0,9.986,MBA
+2018 RZ10,?,2.576,0.163,0,0,9.805,MBA
+2018 RX10,?,3.162,0.255,0,0,10.768,MBA
+2018 RW10,?,2.554,0.147,0,0,10.244,MBA
+2018 RV10,?,2.746,0.203,0,0,10.198,MBA
+2018 RS10,?,3.157,0.229,0,0,10.736,MBA
+2018 RR10,?,3.209,0.258,0,0,10.515,OMB
+2018 RQ10,?,2.731,0.213,0,0,9.909,MBA
+2018 RO10,?,2.305,0.208,0,0,8.79,MBA
+2018 RM10,?,3.447,0.145,0,0,11.417,OMB
+2018 RL10,?,2.383,0.295,0,0,8.635,MBA
+2018 RJ10,?,2.642,0.232,0,0,9.753,MBA
+2018 RH10,?,2.574,0.255,0,0,9.469,MBA
+2018 RG10,?,2.645,0.181,0,0,10.045,MBA
+2018 RC10,?,1.881,0.061,0,0,10.125,IMB
+2018 RA10,?,2.566,0.229,0,0,10.405,MBA
+2018 RZ9,?,3.071,0.21,0,0,10.117,MBA
+2018 RY9,?,2.453,0.174,0,0,9.366,MBA
+2018 RX9,?,2.597,0.214,0,0,9.978,MBA
+2018 RW9,?,1.879,0.059,0,0,10.483,IMB
+2018 RV9,?,2.226,0.189,0,0,8.481,MBA
+2018 RU9,?,2.31,0.126,0,0,9.111,MBA
+2018 RT9,?,2.769,0.237,0,0,9.485,MBA
+2018 RS9,?,2.272,0.221,0,0,8.265,MBA
+2018 RO9,?,2.661,0.273,0,0,9.542,MBA
+2018 RN9,?,2.618,0.23,0,0,8.979,MBA
+2018 RM9,?,2.265,0.192,0,0,8.6,MBA
+2018 RL9,?,3.248,0.071,0,0,11.79,OMB
+2018 RK9,?,2.307,0.213,0,0,8.387,MBA
+2018 RJ9,?,2.569,0.297,0,0,9.373,MBA
+2018 RH9,?,3.16,0.094,0,0,11.01,MBA
+2018 RG9,?,2.568,0.34,0,0,8.936,MBA
+2018 RF9,?,2.237,0.193,0,0,8.425,MBA
+2018 RE9,?,2.736,0.058,0,0,10.253,MBA
+2018 RC9,?,3.158,0.147,0,0,10.968,MBA
+2018 RB9,?,2.799,0.115,0,0,10.002,MBA
+2018 RA9,?,3.044,0.064,0,0,11.109,MBA
+2018 RZ8,?,3.078,0.066,0,0,11.133,MBA
+2018 RY8,?,3.108,0.126,0,0,10.461,MBA
+2018 RX8,?,2.32,0.197,0,0,8.659,MBA
+2018 RW8,?,2.726,0.144,0,0,9.747,MBA
+2018 RV8,?,2.147,0.182,0,0,8.137,MBA
+2018 RU8,?,2.259,0.398,0,0,14.399,MCA
+2018 RT8,?,1.854,0.186,0,0,15.493,MCA
+2018 RS8,?,4.288,0.567,0,0,12.179,OMB
+2018 RR8,?,2.617,0.776,0,0,18.372,APO
+2018 RQ8,?,2.417,0.265,0,0,12.543,MBA
+2018 RP8,?,0.785,0.515,0,0,11.943,ATE
+2018 RO8,?,1.453,0.362,0,0,6.574,APO
+2018 RN8,?,2.55,0.349,0,0,12.432,MCA
+2018 RM8,?,2.941,0.519,0,0,11.237,MCA
+2018 RL8,?,2.767,0.388,0,0,10.294,MBA
+2018 RK8,?,2.577,0.331,0,0,12.67,MBA
+2018 RJ8,?,2.218,0.33,0,0,7.671,MCA
+2018 RH8,?,1.902,0.093,0,0,11.006,IMB
+2018 RG8,?,1.681,0.407,0,0,5.454,APO
+2018 RF8,?,1.421,0.515,0,0,7.695,APO
+2018 RE8,?,1.516,0.409,0,0,5.641,APO
+2018 RD8,?,2.413,0.584,0,0,6.422,APO
+2018 RC8,?,1.835,0.403,0,0,7.215,AMO
+2018 RB8,?,1.64,0.325,0,0,6.979,AMO
+2018 RA8,?,1.791,0.475,0,0,6.035,APO
+2018 RZ7,?,1.46,0.245,0,0,5.848,AMO
+2018 RY7,?,1.016,0.147,0,0,7.031,APO
+2018 RX7,?,2.322,0.525,0,0,6.621,AMO
+2018 RW7,?,1.614,0.444,0,0,6.148,APO
+2018 RV7,?,1.635,0.497,0,0,6.141,APO
+2018 RU7,?,2.75,0.573,0,0,10.042,AMO
+2018 RT7,?,1.397,0.112,0,0,8.451,AMO
+2018 RS7,?,2.331,0.503,0,0,6.727,AMO
+2018 RR7,?,1.707,0.367,0,0,5.773,AMO
+2018 RQ7,?,2.6,0.362,0,0,11.835,MCA
+2018 RP7,?,2.616,0.313,0,0,14.141,MBA
+2018 RO7,?,2.153,0.547,0,0,6.515,APO
+2018 RN7,?,1.927,0.657,0,0,7.669,APO
+2018 RM7,?,1.833,0.627,0,0,7.534,APO
+2018 RL7,?,1.603,0.507,0,0,6.488,APO
+2018 RK7,?,2.805,0.541,0,0,7.568,AMO
+2018 RJ7,?,2.671,0.645,0,0,6.837,APO (PHA)
+2018 RH7,?,0.965,0.276,0,0,12.58,ATE
+2018 RG7,?,1.461,0.241,0,0,5.175,AMO
+2018 RF7,?,2.539,0.49,0,0,7.229,AMO
+2018 RE7,?,1.343,0.385,0,0,6.726,APO
+2018 RD7,?,1.953,0.478,0,0,5.661,AMO
+2018 RC7,?,1.363,0.207,0,0,6.645,AMO
+2018 RB7,?,2.443,0.674,0,0,7.326,APO (PHA)
+2018 RA7,?,2.096,0.456,0,0,15.279,AMO
+2018 RZ6,?,1.607,0.441,0,0,6.917,APO
+2018 RY6,?,2.074,0.628,0,0,7.128,APO
+2018 RX6,?,2.451,0.58,0,0,6.433,AMO
+2018 RW6,?,1.884,0.395,0,0,10.964,AMO
+2018 RV6,?,2.208,0.316,0,0,10.386,MCA
+2018 RU6,?,2.523,0.442,0,0,8.443,MCA
+2018 RT6,?,2.654,0.383,0,0,8.421,MCA
+2018 RS6,?,2.738,0.504,0,0,7.953,MCA
+2018 RR6,?,2.27,0.35,0,0,11.229,MCA
+2018 RQ6,?,2.542,0.298,0,0,12.251,MBA
+2018 RP6,?,2.603,0.353,0,0,8.486,MBA
+2018 RO6,?,2.32,0.308,0,0,9.903,MCA
+2018 RN6,?,2.8,0.38,0,0,8.847,MBA
+2018 RM6,?,3.095,0.459,0,0,10.601,MBA
+2018 RL6,?,1.087,0.071,0,0,11.462,APO
+2018 RK6,?,1.382,0.314,0,0,4.816,APO
+2018 RJ6,?,1.557,0.346,0,0,6.929,AMO
+2018 RH6,?,0.988,0.229,0,0,5.813,ATE
+2018 RG6,?,1.767,0.424,0,0,7.32,AMO
+2018 RF6,?,1.018,0.084,0,0,10.726,APO
+2018 RE6,?,1.421,0.356,0,0,7.917,APO
+2018 RD6,?,1.598,0.41,0,0,5.423,APO
+2018 RC6,?,1.287,0.19,0,0,8.672,AMO
+2018 RB6,?,1.78,0.552,0,0,6.572,APO
+2018 RA6,?,2.543,0.656,0,0,6.938,APO
+2018 RZ5,?,2.88,0.736,0,0,8.549,APO
+2018 RY5,?,2.351,0.755,0,0,8.905,APO
+2018 RX5,?,1.589,0.49,0,0,11.451,APO
+2018 RW5,?,1.686,0.545,0,0,6.608,APO
+2018 RV5,?,2.27,0.444,0,0,10.975,AMO
+2018 RU5,?,2.2,0.423,0,0,6.854,AMO
+2018 RT5,?,1.963,0.511,0,0,5.809,APO
+2018 RS5,?,2.064,0.633,0,0,7.223,APO
+2018 RR5,?,1.321,0.244,0,0,4.454,APO
+2018 RQ5,?,2.163,0.54,0,0,6.545,APO
+2018 RP5,?,2.342,0.623,0,0,6.773,APO
+2018 RO5,?,0.992,0.231,0,0,5.836,ATE
+2018 RN5,?,1.785,0.236,0,0,10.307,MCA
+2018 RM5,?,2.575,0.442,0,0,8.089,MCA
+2018 RL5,?,1.83,0.074,0,0,10.506,IMB
+2018 RK5,?,2.4,0.343,0,0,8.92,MCA
+2018 RJ5,?,2.578,0.375,0,0,8.838,MCA
+2018 RH5,?,2.019,0.485,0,0,6.082,AMO
+2018 RG5,?,1.562,0.394,0,0,5.441,APO
+2018 RF5,?,2.399,0.583,0,0,6.27,APO
+2018 RE5,?,2.495,0.663,0,0,7.652,APO
+2018 RD5,?,1.419,0.288,0,0,5.154,APO
+2018 RC5,?,2.11,0.509,0,0,6.139,AMO
+2018 RB5,?,1.666,0.346,0,0,5.567,AMO
+2018 RA5,?,1.325,0.713,0,0,15.377,APO
+2018 RZ4,?,2.271,0.555,0,0,6.915,APO
+2018 RY4,?,2.751,0.459,0,0,8.657,MCA
+2018 RX4,?,1.927,0.052,0,0,10.136,IMB
+2018 RW4,?,3.074,0.411,0,0,9.934,MBA
+2018 RV4,?,2.584,0.356,0,0,8.328,MCA
+2018 RU4,?,2.591,0.365,0,0,10.667,MCA
+2018 RT4,?,2.592,0.402,0,0,8.043,MCA
+2018 RS4,?,2.628,0.36,0,0,8.458,MBA
+2018 RR4,?,2.632,0.621,0,0,6.622,APO
+2018 RQ4,?,1.607,0.402,0,0,5.155,APO
+2018 RO4,?,1.141,0.155,0,0,9.956,APO
+2018 RN4,?,1.604,0.323,0,0,12.675,AMO
+2018 RM4,?,2.206,0.585,0,0,6.372,APO
+2018 RL4,?,0.872,0.401,0,0,8.742,ATE
+2018 RK4,?,2.315,0.412,0,0,9.212,MCA
+2018 RJ4,?,2.41,0.335,0,0,10.474,MCA
+2018 RH4,?,2.778,0.37,0,0,9.235,MBA
+2018 RG4,?,2.642,0.412,0,0,8.306,MCA
+2018 RF4,?,2.702,0.335,0,0,9.357,MBA
+2018 RE4,?,1.56,0.347,0,0,5.341,AMO
+2018 RD4,?,1.544,0.346,0,0,5.116,APO
+2018 RC4,?,2.54,0.597,0,0,6.584,AMO
+2018 RB4,?,1.064,0.112,0,0,4.741,APO
+2018 RA4,?,2.146,0.524,0,0,6.335,AMO
+2018 RZ3,?,1.408,0.255,0,0,10.059,AMO
+2018 RY3,?,2.098,0.681,0,0,7.603,APO
+2018 RX3,?,1.509,0.494,0,0,6.627,APO
+2018 RW3,?,1.848,0.587,0,0,7.709,APO
+2018 RV3,?,1.595,0.358,0,0,7.048,AMO
+2018 RU3,?,0.956,0.252,0,0,6.669,ATE
+2018 RT3,?,1.417,0.45,0,0,9.923,APO
+2018 RS3,?,1.498,0.328,0,0,12.479,APO
+2018 RR3,?,2.158,0.421,0,0,7.099,AMO
+2018 RQ3,?,2.328,0.349,0,0,8.371,MCA
+2018 RP3,?,2.141,0.318,0,0,7.543,MCA
+2018 RO3,?,1.756,0.159,0,0,9.677,MCA
+2018 RN3,?,2.489,0.403,0,0,7.79,MCA
+2018 RM3,?,2.63,0.484,0,0,8.04,MCA
+2018 RL3,?,2.817,0.456,0,0,8.509,MCA
+2018 RK3,?,2.135,0.496,0,0,6.392,AMO
+2018 RJ3,?,1.329,0.306,0,0,5.171,APO
+2018 RH3,?,0.959,0.273,0,0,6.404,ATE
+2018 RG3,?,2.361,0.564,0,0,6.358,AMO
+2018 RF3,?,1.505,0.34,0,0,6.236,APO
+2018 RE3,?,1.326,0.391,0,0,5.805,APO
+2018 RD3,?,3.045,0.47,0,0,8.34,MCA
+2018 RC3,?,1.924,0.52,0,0,6.735,APO
+2018 RB3,?,2.187,0.518,0,0,6.889,AMO
+2018 RA3,?,1.139,0.169,0,0,13.991,APO
+2018 RZ2,?,1.287,0.164,0,0,9.918,AMO
+2018 RY2,?,2.897,0.537,0,0,8.146,MCA
+2018 RX2,?,2.308,0.37,0,0,7.675,MCA
+2018 RW2,?,2.238,0.374,0,0,7.31,MCA
+2018 RV2,?,2.904,0.456,0,0,8.184,MCA
+2018 RU2,?,1.786,0.058,0,0,9.97,IMB
+2018 RT2,?,2.574,0.275,0,0,9.33,MBA
+2018 RS2,?,2.616,0.446,0,0,8.389,MCA
+2018 RR2,?,21.411,0.641,0,0,15.242,CEN
+2018 RQ2,?,1.524,0.407,0,0,7.835,APO
+2018 RP2,?,1.539,0.274,0,0,5.377,AMO
+2018 RO2,?,2.69,0.524,0,0,7.964,AMO
+2018 RN2,?,0.882,0.349,0,0,9.429,ATE
+2018 RM2,?,2.207,0.45,0,0,6.822,AMO
+2018 RL2,?,2.339,0.47,0,0,7.519,AMO
+2018 RK2,?,2.511,0.417,0,0,8.668,MCA
+2018 RJ2,?,2.582,0.38,0,0,12.246,MCA
+2018 RH2,?,2.671,0.388,0,0,8.619,MCA
+2018 RG2,?,2.652,0.39,0,0,8.339,MCA
+2018 RF2,?,1.024,0.34,0,0,7.355,APO
+2018 RE2,?,1.274,0.232,0,0,5.903,APO
+2018 RD2,?,0.808,0.311,0,0,8.919,ATE
+2018 RC2,?,1.24,0.339,0,0,7.093,APO
+2018 RB2,?,1.378,0.326,0,0,5.563,APO
+2018 RA2,?,1.502,0.4,0,0,5.67,APO
+2018 RZ1,?,1.868,0.452,0,0,6.148,AMO
+2018 RY1,?,0.822,0.339,0,0,8.006,ATE
+2018 RX1,?,1.473,0.291,0,0,6.089,AMO
+2018 RW1,?,0.916,0.278,0,0,7.131,ATE
+2018 RV1,?,2.196,0.502,0,0,6.459,AMO
+2018 RU1,?,2.052,0.405,0,0,6.861,AMO
+2018 RT1,?,2.113,0.504,0,0,6.158,AMO
+2018 RS1,?,2.289,0.544,0,0,6.399,AMO
+2018 RR1,?,1.075,0.141,0,0,4.4,APO
+2018 RQ1,?,0.879,0.171,0,0,5.986,ATE
+2018 RP1,?,1.447,0.338,0,0,5.538,APO
+2018 RO1,?,1.369,0.351,0,0,6.212,APO
+2018 RN1,?,1.827,0.502,0,0,6.574,APO
+2018 RM1,?,2.948,0.525,0,0,8.09,MCA
+2018 RL1,?,2.617,0.398,0,0,8.209,MCA
+2018 RK1,?,2.329,0.312,0,0,11.303,MCA
+2018 RJ1,?,2.735,0.423,0,0,9.187,MCA
+2018 RH1,?,2.569,0.361,0,0,9.247,MCA
+2018 RG1,?,2.354,0.28,0,0,8.11,MBA
+2018 RF1,?,2.699,0.381,0,0,8.662,MBA
+2018 RE1,?,2.693,0.81,0,0,9.803,APO
+2018 RD1,?,1.504,0.309,0,0,6.888,AMO
+2018 RC1,?,1.262,0.169,0,0,4.427,AMO
+2018 RB1,?,1.119,0.282,0,0,5.721,APO
+2018 RA1,?,1.142,0.324,0,0,6.383,APO
+2018 RZ,?,2.523,0.757,0,0,8.521,APO
+2018 RY,?,1.704,0.476,0,0,7.52,APO
+2018 RX,?,2.265,0.564,0,0,8.701,APO
+2018 RW,?,0.894,0.242,0,0,6.288,ATE
+2018 RV,?,2.676,0.435,0,0,8.155,MCA
+2018 RU,?,2.507,0.358,0,0,11.834,MCA
+2018 RT,?,2.6,0.317,0,0,8.521,MBA
+2018 RS,?,1.962,0.623,0,0,7.11,APO
+2018 RR,?,1.101,0.178,0,0,6.623,APO
+2018 RQ,?,2.397,0.629,0,0,6.767,APO
+2018 RP,?,2.325,0.587,0,0,8.126,APO
+2018 RO,?,1.817,0.443,0,0,5.49,APO
+2018 RN,?,2.612,0.615,0,0,6.95,APO
+2018 RM,?,2.817,0.768,0,0,13.409,APO
+2018 RL,?,1.859,0.411,0,0,7.791,AMO
+2018 RK,?,2.587,0.35,0,0,9.24,MBA
+2018 RJ,?,1.993,0.171,0,0,10.856,MCA
+2018 RH,?,3.164,0.379,0,0,11.131,MBA
+2018 RG,?,2.206,0.37,0,0,7.299,MCA
+2018 RF,?,2.244,0.598,0,0,6.938,APO
+2018 RE,?,2.228,0.75,0,0,8.427,APO
+2018 RC,?,0.882,0.219,0,0,6.239,ATE
+2018 RB,?,1.949,0.732,0,0,8.586,APO (PHA)
+2018 RA,?,1.883,0.464,0,0,5.691,APO
+2018 QZ6,?,2.645,0.296,0,0,9.504,MBA
+2018 QW6,?,3.145,0.183,0,0,12.518,MBA
+2018 QV6,?,2.98,0.268,0,0,9.673,MBA
+2018 QU6,?,2.734,0.327,0,0,9.174,MBA
+2018 QT6,?,3.058,0.163,0,0,11.701,MBA
+2018 QQ6,?,2.589,0.253,0,0,9.535,MBA
+2018 QP6,?,2.681,0.18,0,0,10.221,MBA
+2018 QN6,?,2.329,0.193,0,0,8.525,MBA
+2018 QM6,?,3.104,0.184,0,0,10.083,MBA
+2018 QL6,?,3.05,0.061,0,0,10.748,MBA
+2018 QK6,?,2.546,0.178,0,0,10.063,MBA
+2018 QJ6,?,2.294,0.221,0,0,8.749,MBA
+2018 QH6,?,2.369,0.267,0,0,10.285,MBA
+2018 QG6,?,2.284,0.16,0,0,8.752,MBA
+2018 QF6,?,2.291,0.246,0,0,8.313,MBA
+2018 QD6,?,2.195,0.202,0,0,8.244,MBA
+2018 QC6,?,3.067,0.14,0,0,10.66,MBA
+2018 QA6,?,3.086,0.114,0,0,13.214,MBA
+2018 QZ5,?,2.256,0.103,0,0,8.967,MBA
+2018 QY5,?,2.274,0.167,0,0,8.689,MBA
+2018 QX5,?,2.7,0.248,0,0,9.494,MBA
+2018 QW5,?,2.183,0.195,0,0,8.493,MBA
+2018 QV5,?,3.204,0.278,0,0,10.906,OMB
+2018 QU5,?,3.227,0.278,0,0,11.707,OMB
+2018 QT5,?,2.761,0.19,0,0,11.878,MBA
+2018 QR5,?,2.864,0.078,0,0,10.15,MBA
+2018 QP5,?,3.061,0.087,0,0,10.407,MBA
+2018 QO5,?,2.665,0.014,0,0,10.09,MBA
+2018 QN5,?,3.166,0.113,0,0,11.373,MBA
+2018 QM5,?,3.042,0.034,0,0,11.002,MBA
+2018 QL5,?,2.7,0.315,0,0,8.967,MBA
+2018 QG5,?,2.753,0.221,0,0,9.37,MBA
+2018 QF5,?,2.774,0.309,0,0,10.465,MBA
+2018 QE5,?,2.269,0.247,0,0,8.189,MBA
+2018 QD5,?,2.587,0.256,0,0,9.446,MBA
+2018 QC5,?,2.765,0.33,0,0,9.917,MBA
+2018 QB5,?,3.154,0.096,0,0,13.123,MBA
+2018 QZ4,?,3.234,0.212,0,0,11.163,OMB
+2018 QW4,?,2.405,0.219,0,0,10.57,MBA
+2018 QV4,?,2.77,0.185,0,0,11.895,MBA
+2018 QU4,?,2.619,0.104,0,0,9.588,MBA
+2018 QT4,?,2.629,0.063,0,0,9.852,MBA
+2018 QS4,?,2.998,0.092,0,0,10.734,MBA
+2018 QO4,?,2.377,0.102,0,0,9.196,MBA
+2018 QN4,?,2.485,0.179,0,0,9.067,MBA
+2018 QL4,?,3.177,0.268,0,0,10.68,MBA
+2018 QF4,?,2.732,0.034,0,0,10.877,MBA
+2018 QD4,?,2.248,0.222,0,0,11.302,MBA
+2018 QC4,?,1.981,0.08,0,0,10.175,IMB
+2018 QB4,?,2.392,0.083,0,0,9.283,MBA
+2018 QA4,?,2.911,0.212,0,0,9.878,MBA
+2018 QZ3,?,5.119,0.042,0,0,12.893,TJN
+2018 QV3,?,2.426,0.134,0,0,9.369,MBA
+2018 QU3,?,3.232,0.091,0,0,10.634,OMB
+2018 QT3,?,2.784,0.179,0,0,10.526,MBA
+2018 QR3,?,2.599,0.118,0,0,10.145,MBA
+2018 QQ3,?,2.649,0.284,0,0,9.567,MBA
+2018 QP3,?,2.93,0.269,0,0,9.336,MBA
+2018 QO3,?,2.573,0.154,0,0,9.88,MBA
+2018 QN3,?,2.172,0.192,0,0,8.232,MBA
+2018 QM3,?,2.726,0.142,0,0,9.702,MBA
+2018 QL3,?,2.992,0.284,0,0,9.655,MBA
+2018 QK3,?,3.103,0.089,0,0,11.218,MBA
+2018 QJ3,?,2.586,0.146,0,0,9.396,MBA
+2018 QH3,?,2.687,0.216,0,0,9.183,MBA
+2018 QG3,?,3.159,0.088,0,0,11.178,MBA
+2018 QF3,?,2.746,0.3,0,0,8.857,MBA
+2018 QE3,?,2.797,0.088,0,0,10.034,MBA
+2018 QC3,?,2.763,0.073,0,0,10.078,MBA
+2018 QB3,?,2.648,0.104,0,0,10.082,MBA
+2018 QZ2,?,3.082,0.167,0,0,10.075,MBA
+2018 QY2,?,2.651,0.163,0,0,9.989,MBA
+2018 QX2,?,2.925,0.042,0,0,10.571,MBA
+2018 QW2,?,3.246,0.199,0,0,10.604,OMB
+2018 QU2,?,3.099,0.368,0,0,10.732,MBA
+2018 QS2,?,2.538,0.182,0,0,10.026,MBA
+2018 QR2,?,2.331,0.287,0,0,8.68,MCA
+2018 QQ2,?,2.735,0.29,0,0,10.695,MBA
+2018 QP2,?,2.784,0.308,0,0,9.677,MBA
+2018 QN2,?,2.847,0.319,0,0,11.5,MBA
+2018 QL2,?,4.027,0.322,0,0,10.295,OMB
+2018 QK2,?,3.037,0.13,0,0,10.376,MBA
+2018 QF2,?,3.096,0.188,0,0,9.973,MBA
+2018 QD2,?,3.182,0.112,0,0,11.521,MBA
+2018 QC2,?,3.16,0.161,0,0,10.211,MBA
+2018 QB2,?,2.888,0.052,0,0,10.678,MBA
+2018 QA2,?,2.772,0.043,0,0,10.168,MBA
+2018 QY1,?,2.668,0.116,0,0,9.778,MBA
+2018 QX1,?,2.593,0.119,0,0,10.33,MBA
+2018 QW1,?,1.034,0.326,0,0,8.49,APO
+2018 QV1,?,2.284,0.515,0,0,8.91,AMO
+2018 QU1,?,1.881,0.543,0,0,6.435,APO
+2018 QT1,?,0.659,0.595,0,0,14.04,ATE
+2018 QS1,?,0.98,0.142,0,0,10.834,ATE
+2018 QR1,?,1.432,0.326,0,0,10.573,APO
+2018 QQ1,?,1.9,0.409,0,0,6.212,AMO
+2018 QP1,?,1.692,0.472,0,0,7.054,APO
+2018 QO1,?,1.475,0.194,0,0,8.396,AMO
+2018 QN1,?,2.282,0.557,0,0,6.468,APO (PHA)
+2018 QM1,?,2.265,0.338,0,0,7.984,MCA
+2018 QL1,?,2.322,0.392,0,0,7.564,MCA
+2018 QK1,?,2.883,0.45,0,0,8.55,MCA
+2018 QJ1,?,2.158,0.54,0,0,6.472,APO
+2018 QH1,?,1.347,0.344,0,0,7.073,APO
+2018 QG1,?,3.167,0.519,0,0,10.923,MCA
+2018 QF1,?,1.275,0.219,0,0,9.439,APO
+2018 QE1,?,2.74,0.476,0,0,8.16,MCA
+2018 QD1,?,1.768,0.119,0,0,13.877,MCA
+2018 QC1,?,3.131,0.496,0,0,8.527,MCA
+2018 QB1,?,2.195,0.278,0,0,7.778,MCA
+2018 QA1,?,2.053,0.496,0,0,7.411,AMO
+2018 QZ,?,2.159,0.54,0,0,6.481,APO
+2018 QY,?,1.413,0.455,0,0,7.543,APO
+2018 QX,?,1.477,0.309,0,0,4.861,AMO
+2018 QW,?,1.345,0.21,0,0,8.902,AMO
+2018 QV,?,3.34,0.6,0,0,8.24,OMB
+2018 QU,?,1.827,0.362,0,0,7.555,AMO
+2018 QT,?,2.275,0.613,0,0,6.62,APO (PHA)
+2018 QS,?,1.817,0.48,0,0,5.646,APO
+2018 QR,?,2.091,0.464,0,0,6.203,AMO
+2018 QQ,?,1.308,0.216,0,0,4.76,AMO
+2018 QP,?,2.453,0.517,0,0,6.858,AMO
+2018 QO,?,1.489,0.263,0,0,8.01,AMO
+2018 QN,?,2.392,0.389,0,0,7.684,MCA
+2018 QM,?,1.846,0.081,0,0,10.933,IMB
+2018 QL,?,2.273,0.419,0,0,7.458,MCA
+2018 QK,?,1.703,0.131,0,0,11.5,MCA
+2018 QJ,?,1.889,0.112,0,0,11.151,IMB
+2018 QH,?,1.821,0.042,0,0,12.132,IMB
+2018 QG,?,1.879,0.11,0,0,11.047,IMB
+2018 QF,?,1.915,0.066,0,0,10.039,IMB
+2018 QE,?,1.313,0.247,0,0,4.312,APO
+2018 QD,?,1.872,0.101,0,0,11.139,IMB
+2018 QC,?,1.849,0.072,0,0,11.238,IMB
+2018 QB,?,2.561,0.417,0,0,11.517,MCA
+2018 QA,?,1.988,0.708,0,0,8.429,APO
+2018 PL28,?,19.57,0.863,0,0,22.947,CEN
+2018 PK28,?,2.855,0.084,0,0,10.113,MBA
+2018 PJ28,?,3.12,0.28,0,0,11.472,MBA
+2018 PH28,?,2.518,0.047,0,0,9.727,MBA
+2018 PG28,?,2.408,0.169,0,0,9.069,MBA
+2018 PD28,?,2.417,0.054,0,0,10.676,MBA
+2018 PC28,?,2.589,0.106,0,0,10.734,MBA
+2018 PB28,?,2.262,0.149,0,0,8.931,MBA
+2018 PY27,?,2.597,0.245,0,0,9.759,MBA
+2018 PX27,?,2.637,0.049,0,0,9.892,MBA
+2018 PV27,?,2.625,0.097,0,0,10.06,MBA
+2018 PU27,?,2.665,0.116,0,0,9.666,MBA
+2018 PT27,?,3.214,0.249,0,0,10.607,OMB
+2018 PS27,?,2.936,0.088,0,0,10.924,MBA
+2018 PR27,?,3.143,0.096,0,0,11.235,MBA
+2018 PO27,?,1.904,0.093,0,0,9.885,IMB
+2018 PN27,?,2.212,0.199,0,0,8.36,MBA
+2018 PA27,?,3.09,0.117,0,0,10.334,MBA
+2018 PY26,?,2.39,0.209,0,0,8.631,MBA
+2018 PW26,?,2.558,0.267,0,0,8.755,MBA
+2018 PV26,?,3.193,0.087,0,0,11.496,MBA
+2018 PU26,?,3.068,0.172,0,0,10.049,MBA
+2018 PS26,?,2.526,0.132,0,0,9.304,MBA
+2018 PQ26,?,2.262,0.195,0,0,8.431,MBA
+2018 PN26,?,2.627,0.06,0,0,9.837,MBA
+2018 PM26,?,3.194,0.222,0,0,13.197,MBA
+2018 PL26,?,3.001,0.092,0,0,10.591,MBA
+2018 PJ26,?,3.205,0.264,0,0,12.044,OMB
+2018 PH26,?,3.178,0.243,0,0,10.855,MBA
+2018 PG26,?,3.129,0.152,0,0,13.228,MBA
+2018 PE26,?,2.978,0.231,0,0,10.497,MBA
+2018 PZ25,?,2.996,0.134,0,0,10.451,MBA
+2018 PV25,?,3.072,0.274,0,0,9.534,MBA
+2018 PU25,?,3.897,0.188,0,0,10.907,OMB
+2018 PT25,?,3.149,0.087,0,0,10.578,MBA
+2018 PP25,?,3.155,0.11,0,0,10.59,MBA
+2018 PE25,?,2.381,0.233,0,0,10.719,MBA
+2018 PB25,?,3.256,0.113,0,0,10.627,OMB
+2018 PA25,?,1.355,0.537,0,0,8.034,APO
+2018 PZ24,?,2.468,0.449,0,0,7.568,MCA
+2018 PY24,?,2.129,0.196,0,0,14.269,MBA
+2018 PX24,?,1.846,0.586,0,0,6.976,APO
+2018 PV24,?,1.067,0.219,0,0,5.348,APO
+2018 PU24,?,1.766,0.473,0,0,5.662,APO (PHA)
+2018 PT24,?,2.195,0.342,0,0,7.533,MCA
+2018 PS24,?,2.368,0.553,0,0,6.455,AMO
+2018 PR24,?,2.011,0.565,0,0,6.84,APO
+2018 PQ24,?,2.122,0.469,0,0,6.355,AMO
+2018 PP24,?,2.865,0.538,0,0,8.242,MCA
+2018 PO24,?,2.199,0.363,0,0,7.417,MCA
+2018 PN24,?,2.167,0.284,0,0,7.909,MCA
+2018 PM24,?,2.639,0.397,0,0,8.773,MCA
+2018 PL24,?,2.387,0.397,0,0,7.794,MCA
+2018 PK24,?,1.942,0.663,0,0,7.802,APO (PHA)
+2018 PJ24,?,2.285,0.401,0,0,7.28,MCA
+2018 PH24,?,2.362,0.423,0,0,7.268,MCA
+2018 PG24,?,2.82,0.516,0,0,8.386,MCA
+2018 PF24,?,1.505,0.125,0,0,9.611,MCA
+2018 PE24,?,2.793,0.426,0,0,8.289,MCA
+2018 PD24,?,1.849,0.13,0,0,11.04,MCA
+2018 PC24,?,3.35,0.49,0,0,9.404,OMB
+2018 PB24,?,2.565,0.408,0,0,8.312,MCA
+2018 PA24,?,2.082,0.3,0,0,7.695,MCA
+2018 PZ23,?,1.554,0.379,0,0,5.101,APO
+2018 PY23,?,2.06,0.786,0,0,9.099,APO
+2018 PX23,?,2.219,0.604,0,0,7.312,APO
+2018 PW23,?,2.331,0.452,0,0,7.062,AMO
+2018 PV23,?,2.409,0.461,0,0,7.69,AMO
+2018 PU23,?,0.964,0.084,0,0,4.422,ATE
+2018 PT23,?,2.352,0.668,0,0,7.178,APO
+2018 PS23,?,2.658,0.516,0,0,7.387,AMO
+2018 PR23,?,1.224,0.259,0,0,4.813,APO
+2018 PQ23,?,2.165,0.612,0,0,8.468,APO (PHA)
+2018 PP23,?,1.63,0.208,0,0,7.713,AMO
+2018 PO23,?,2.217,0.349,0,0,18.628,MCA
+2018 PN23,?,2.084,0.416,0,0,6.682,AMO
+2018 PM23,?,1.467,0.221,0,0,9.521,AMO
+2018 PL23,?,1.567,0.787,0,0,11.034,APO (PHA)
+2018 PK23,?,2.764,0.399,0,0,8.867,MCA
+2018 PJ23,?,1.913,0.074,0,0,11.711,IMB
+2018 PH23,?,3.073,0.46,0,0,10.07,MCA
+2018 PG23,?,1.87,0.089,0,0,10.358,IMB
+2018 PF23,?,3.105,0.088,0,0,10.903,MBA
+2018 PE23,?,2.711,0.296,0,0,13.397,MBA
+2018 PD23,?,2.238,0.34,0,0,7.497,MCA
+2018 PB23,?,1.866,0.231,0,0,12.622,MCA
+2018 PA23,?,2.171,0.334,0,0,7.392,MCA
+2018 PZ22,?,1.577,0.09,0,0,11.875,MCA
+2018 PY22,?,2.079,0.365,0,0,6.979,MCA
+2018 PX22,?,1.918,0.202,0,0,9.578,MCA
+2018 PW22,?,2.589,0.348,0,0,9.17,MBA
+2018 PV22,?,1.877,0.088,0,0,10.922,IMB
+2018 PU22,?,1.844,0.069,0,0,10.955,IMB
+2018 PT22,?,1.802,0.076,0,0,9.921,MCA
+2018 PS22,?,1.98,0.107,0,0,12.52,IMB
+2018 PR22,?,1.954,0.111,0,0,11.059,IMB
+2018 PQ22,?,1.971,0.151,0,0,9.327,IMB
+2018 PP22,?,1.743,0.119,0,0,9.345,MCA
+2018 PO22,?,1.796,0.448,0,0,6.614,APO
+2018 PN22,?,0.997,0.039,0,0,4.558,ATE
+2018 PM22,?,2.578,0.575,0,0,6.708,AMO
+2018 PL22,?,2.154,0.501,0,0,6.623,AMO
+2018 PK22,?,2.257,0.51,0,0,6.487,AMO
+2018 PJ22,?,2.683,0.562,0,0,8.008,AMO
+2018 PH22,?,1.651,0.613,0,0,7.543,APO
+2018 PG22,?,1.291,0.417,0,0,6.786,APO
+2018 PF22,?,2.367,0.809,0,0,11.104,APO
+2018 PE22,?,2.818,0.568,0,0,7.247,AMO
+2018 PD22,?,0.794,0.542,0,0,11.255,ATE
+2018 PC22,?,2.136,0.466,0,0,6.821,AMO
+2018 PB22,?,1.44,0.827,0,0,18.367,APO
+2018 PA22,?,2.014,0.458,0,0,6.009,AMO
+2018 PZ21,?,0.857,0.257,0,0,6.915,ATE
+2018 PY21,?,2.197,0.425,0,0,7.04,AMO
+2018 PX21,?,1.347,0.179,0,0,10.213,AMO
+2018 PW21,?,2.135,0.492,0,0,6.664,AMO
+2018 PV21,?,2.001,0.454,0,0,6.247,AMO
+2018 PU21,?,1.313,0.057,0,0,8.07,AMO
+2018 PT21,?,2.735,0.56,0,0,8.345,AMO
+2018 PS21,?,1.819,0.103,0,0,10.334,MCA
+2018 PR21,?,1.99,0.15,0,0,11.665,IMB
+2018 PQ21,?,1.913,0.108,0,0,9.711,IMB
+2018 PP21,?,2.1,0.342,0,0,7.149,MCA
+2018 PO21,?,1.835,0.11,0,0,11.428,MCA
+2018 PN21,?,1.774,0.415,0,0,6.27,AMO
+2018 PM21,?,1.316,0.173,0,0,4.869,AMO
+2018 PL21,?,1.734,0.469,0,0,8.818,APO
+2018 PK21,?,0.988,0.081,0,0,4.146,ATE
+2018 PJ21,?,2.211,0.455,0,0,6.958,AMO
+2018 PH21,?,1.906,0.652,0,0,7.519,APO
+2018 PG21,?,2.532,0.644,0,0,8.215,APO
+2018 PF21,?,1.996,0.361,0,0,10.088,AMO
+2018 PE21,?,1.891,0.329,0,0,6.939,AMO
+2018 PD21,?,1.86,0.242,0,0,10.058,MCA
+2018 PC21,?,1.883,0.242,0,0,13.026,MCA
+2018 PB21,?,2.149,0.393,0,0,7.319,MCA
+2018 PA21,?,2.276,0.423,0,0,7.057,MCA
+2018 PZ20,?,2.185,0.393,0,0,7.337,MCA
+2018 PY20,?,1.928,0.305,0,0,6.879,MCA
+2018 PX20,?,2.54,0.427,0,0,10.927,MCA
+2018 PW20,?,1.385,0.041,0,0,6.766,MCA
+2018 PV20,?,1.877,0.146,0,0,10.931,MCA
+2018 PU20,?,2.543,0.371,0,0,11.648,MCA
+2018 PT20,?,2.316,0.44,0,0,7.263,AMO
+2018 PS20,?,2.801,0.506,0,0,7.852,MCA
+2018 PR20,?,2.45,0.414,0,0,7.574,MCA
+2018 PQ20,?,1.903,0.213,0,0,7.658,MCA
+2018 PP20,?,2.845,0.488,0,0,8.142,MCA
+2018 PO20,?,1.32,0.234,0,0,5.302,APO
+2018 PN20,?,1.689,0.378,0,0,7.491,AMO
+2018 PM20,?,1.998,0.51,0,0,5.904,APO
+2018 PL20,?,1.418,0.225,0,0,6.618,AMO
+2018 PK20,?,0.891,0.275,0,0,7.552,ATE
+2018 PJ20,?,2.291,0.608,0,0,6.583,APO
+2018 PH20,?,2.613,0.186,0,0,14.053,MBA
+2018 PG20,?,2.613,0.263,0,0,13.253,MBA
+2018 PF20,?,3.048,0.488,0,0,9.254,MCA
+2018 PE20,?,2.126,0.332,0,0,7.216,MCA
+2018 PD20,?,1.069,0.32,0,0,6.864,APO
+2018 PC20,?,1.709,0.404,0,0,5.808,AMO
+2018 PB20,?,2.921,0.579,0,0,7.612,AMO
+2018 PA20,?,1.658,0.282,0,0,12.048,AMO
+2018 PZ19,?,2.124,0.578,0,0,6.68,APO
+2018 PY19,?,2.96,0.527,0,0,8.605,MCA
+2018 PX19,?,1.994,0.362,0,0,11.254,AMO
+2018 PW19,?,2.872,0.421,0,0,9.316,MCA
+2018 PV19,?,2.29,0.374,0,0,7.565,MCA
+2018 PU19,?,2.27,0.374,0,0,8.082,MCA
+2018 PS19,?,2.272,0.202,0,0,8.923,MBA
+2018 PE19,?,2.163,0.157,0,0,8.295,MBA
+2018 PJ18,?,2.64,0.34,0,0,8.685,MBA
+2018 PH18,?,2.207,0.205,0,0,8.209,MBA
+2018 PG18,?,3.117,0.273,0,0,10.502,MBA
+2018 PF18,?,1.851,0.247,0,0,8.252,MCA
+2018 PC18,?,2.234,0.374,0,0,7.704,MCA
+2018 PO17,?,2.22,0.293,0,0,7.885,MCA
+2018 PM17,?,2.348,0.207,0,0,8.667,MBA
+2018 PG17,?,5.273,0.076,0,0,13.323,TJN
+2018 PE17,?,2.902,0.016,0,0,10.534,MBA
+2018 PC17,?,3.088,0.126,0,0,10.527,MBA
+2018 PZ16,?,1.896,0.102,0,0,10.267,IMB
+2018 PS16,?,2.962,0.025,0,0,11.207,MBA
+2018 PR16,?,2.327,0.236,0,0,8.327,MBA
+2018 PQ16,?,2.703,0.126,0,0,10.204,MBA
+2018 PP16,?,3.127,0.205,0,0,11.179,MBA
+2018 PM16,?,2.814,0.209,0,0,9.741,MBA
+2018 PG16,?,2.683,0.135,0,0,9.644,MBA
+2018 PF16,?,2.191,0.213,0,0,8.155,MBA
+2018 PW14,?,2.569,0.211,0,0,9.398,MBA
+2018 PC14,?,3.224,0.182,0,0,12.645,OMB
+2018 PZ13,?,2.754,0.155,0,0,10.076,MBA
+2018 PS13,?,2.421,0.173,0,0,9.444,MBA
+2018 PQ13,?,2.775,0.048,0,0,10.18,MBA
+2018 PM12,?,2.325,0.092,0,0,9.223,MBA
+2018 PK12,?,2.282,0.134,0,0,8.931,MBA
+2018 PC12,?,3.212,0.105,0,0,11.057,OMB
+2018 PZ11,?,2.29,0.165,0,0,8.7,MBA
+2018 PY11,?,3.004,0.043,0,0,10.997,MBA
+2018 PX11,?,2.656,0.166,0,0,9.705,MBA
+2018 PS11,?,2.34,0.165,0,0,9.32,MBA
+2018 PQ11,?,2.624,0.18,0,0,9.307,MBA
+2018 PP11,?,5.182,0.036,0,0,12.653,TJN
+2018 PH11,?,2.259,0.239,0,0,8.211,MBA
+2018 PC11,?,2.213,0.127,0,0,8.687,MBA
+2018 PB11,?,3.186,0.179,0,0,10.702,MBA
+2018 PA11,?,2.777,0.216,0,0,10.247,MBA
+2018 PY10,?,2.644,0.242,0,0,9.588,MBA
+2018 PV10,?,2.633,0.605,0,0,7.04,AMO
+2018 PU10,?,1.996,0.425,0,0,6.21,AMO
+2018 PT10,?,1.817,0.353,0,0,11.618,AMO
+2018 PS10,?,2.221,0.463,0,0,6.79,AMO
+2018 PR10,?,0.731,0.523,0,0,12.222,ATE
+2018 PQ10,?,1.989,0.507,0,0,5.918,APO
+2018 PP10,?,1.561,0.423,0,0,6.826,APO
+2018 PO10,?,2.108,0.443,0,0,6.701,AMO
+2018 PN10,?,1.654,0.342,0,0,6.227,AMO
+2018 PM10,?,1.782,0.428,0,0,5.974,AMO
+2018 PL10,?,1.423,0.294,0,0,7.545,APO
+2018 PK10,?,1.758,0.299,0,0,7.514,AMO
+2018 PJ10,?,2.69,0.592,0,0,20.696,AMO
+2018 PH10,?,2.278,0.173,0,0,8.685,MBA
+2018 PG10,?,2.444,0.458,0,0,12.423,MCA
+2018 PF10,?,2.242,0.414,0,0,7.354,MCA
+2018 PE10,?,2.724,0.397,0,0,8.807,MCA
+2018 PD10,?,2.816,0.488,0,0,8.843,MCA
+2018 PC10,?,2.377,0.33,0,0,8.518,MCA
+2018 PB10,?,1.914,0.111,0,0,10.168,IMB
+2018 PA10,?,1.814,0.155,0,0,9.357,MCA
+2018 PZ9,?,1.915,0.061,0,0,8.684,IMB
+2018 PY9,?,2.121,0.366,0,0,7.091,MCA
+2018 PX9,?,2.162,0.344,0,0,7.359,MCA
+2018 PW9,?,2.576,0.339,0,0,9.357,MBA
+2018 PV9,?,2.11,0.316,0,0,7.394,MCA
+2018 PU9,?,1.479,0.017,0,0,11.487,MCA
+2018 PT9,?,2.858,0.451,0,0,9.161,MCA
+2018 PS9,?,2.242,0.306,0,0,7.88,MCA
+2018 PR9,?,1.805,0.544,0,0,6.492,APO
+2018 PQ9,?,1.395,0.196,0,0,6.288,AMO
+2018 PP9,?,1.654,0.39,0,0,5.11,APO
+2018 PO9,?,2.121,0.464,0,0,6.642,AMO
+2018 PN9,?,1.282,0.173,0,0,7.976,AMO
+2018 PM9,?,1.296,0.172,0,0,6.127,AMO
+2018 PL9,?,3.281,0.674,0,0,11.421,AMO
+2018 PK9,?,1.858,0.473,0,0,5.582,APO
+2018 PJ9,?,1.983,0.483,0,0,5.889,AMO
+2018 PH9,?,2.053,0.455,0,0,6.208,AMO
+2018 PG9,?,2.461,0.65,0,0,7.084,APO
+2018 PF9,?,2.308,0.512,0,0,6.509,AMO
+2018 PE9,?,1.391,0.157,0,0,6.908,AMO
+2018 PD9,?,1.317,0.267,0,0,4.514,APO
+2018 PC9,?,1.507,0.25,0,0,12.853,AMO
+2018 PB9,?,1.846,0.32,0,0,6.54,AMO
+2018 PA9,?,2.413,0.373,0,0,8.274,MCA
+2018 PZ8,?,1.874,0.146,0,0,9.587,MCA
+2018 PY8,?,1.544,0.152,0,0,7.856,MCA
+2018 PX8,?,2.608,0.434,0,0,7.948,MCA
+2018 PW8,?,1.854,0.088,0,0,11.009,IMB
+2018 PV8,?,1.898,0.085,0,0,9.62,IMB
+2018 PU8,?,2.692,0.473,0,0,8,MCA
+2018 PT8,?,1.702,0.176,0,0,10.226,MCA
+2018 PS8,?,2.37,0.414,0,0,7.44,MCA
+2018 PR8,?,1.84,0.087,0,0,11.708,IMB
+2018 PQ8,?,1.724,0.121,0,0,13.474,MCA
+2018 PP8,?,2.55,0.382,0,0,9.127,MCA
+2018 PO8,?,1.845,0.096,0,0,11.138,IMB
+2018 PN8,?,2.005,0.127,0,0,13.197,MBA
+2018 PM8,?,1.897,0.133,0,0,10.191,MCA
+2018 PL8,?,1.048,0.37,0,0,8.82,APO
+2018 PK8,?,1.424,0.211,0,0,11.241,AMO
+2018 PJ8,?,2.057,0.487,0,0,6.279,AMO
+2018 PH8,?,2.166,0.526,0,0,5.972,AMO
+2018 PG8,?,2.148,0.472,0,0,6.663,AMO
+2018 PF8,?,2.863,0.639,0,0,10.892,AMO
+2018 PE8,?,2.615,0.373,0,0,8.396,MCA
+2018 PC8,?,2.841,0.405,0,0,9.474,MBA
+2018 PB8,?,2.321,0.366,0,0,7.62,MCA
+2018 PA8,?,2.159,0.376,0,0,7.549,MCA
+2018 PZ7,?,3.062,0.439,0,0,10.744,MBA
+2018 PY7,?,1.585,0.395,0,0,6.009,APO
+2018 PX7,?,2.125,0.455,0,0,6.676,AMO
+2018 PW7,?,1.429,0.408,0,0,5.813,APO
+2018 PV7,?,1.594,0.296,0,0,6.566,AMO
+2018 PU7,?,2.163,0.542,0,0,6.365,APO
+2018 PT7,?,1.908,0.447,0,0,6.433,AMO
+2018 PS7,?,2.386,0.459,0,0,7.395,AMO
+2018 PR7,?,1.026,0.11,0,0,4.811,APO
+2018 PQ7,?,1.827,0.151,0,0,12.22,MCA
+2018 PP7,?,2.154,0.377,0,0,7.153,MCA
+2018 PO7,?,1.654,0.177,0,0,9.103,MCA
+2018 PN7,?,3.117,0.349,0,0,13.082,MBA
+2018 PT6,?,2.875,0.078,0,0,10.197,MBA
+2018 PA3,?,2.379,0.116,0,0,9.119,MBA
+2018 PR2,?,2.537,0.157,0,0,10.037,MBA
+2018 PO2,?,3.15,0.186,0,0,12.819,MBA
+2018 PT1,?,2.192,0.158,0,0,8.355,MBA
+2018 PF1,?,3.231,0.288,0,0,12.29,OMB
+2018 PE,?,2.433,0.203,0,0,9.02,MBA
+2018 PC,?,1.031,0.075,0,0,8.546,APO
+2018 PB,?,2.341,0.298,0,0,8.788,MCA
+2018 PA,?,2.499,0.17,0,0,15.137,MBA
+2018 OF2,?,1.327,0.251,0,0,7.59,APO
+2018 OC2,?,3.189,0.143,0,0,10.438,MBA
+2018 OK1,?,2.834,0.054,0,0,10.902,MBA
+2018 OH1,?,2.683,0.469,0,0,8.877,MCA
+2018 OG1,?,2.35,0.14,0,0,9.033,MBA
+2018 OE1,?,2.447,0.244,0,0,9.681,MBA
+2018 OD1,?,2.378,0.285,0,0,9.905,MBA
+2018 OC1,?,2.673,0.488,0,0,9.671,MCA
+2018 OB1,?,3.184,0.69,0,0,7.19,APO (PHA)
+2018 OA1,?,2.151,0.508,0,0,6.745,AMO
+2018 OZ,?,1.032,0.245,0,0,6.933,APO
+2018 OY,?,2.131,0.547,0,0,6.164,APO
+2018 OX,?,2.664,0.442,0,0,8.346,MCA
+2018 OW,?,2.644,0.346,0,0,8.893,MBA
+2018 OV,?,2.665,0.336,0,0,9.837,MBA
+2018 OU,?,2.394,0.383,0,0,9.234,MCA
+2018 OT,?,2.433,0.488,0,0,9.071,AMO
+2018 OS,?,2.192,0.406,0,0,6.968,MCA
+2018 OR,?,3.535,0.537,0,0,8.53,OMB
+2018 OQ,?,0.746,0.371,0,0,9.563,ATE
+2018 OP,?,2.587,0.356,0,0,8.263,MCA
+2018 OO,?,2.615,0.485,0,0,8.101,MCA
+2018 ON,?,2.699,0.482,0,0,8.181,MCA
+2018 OM,?,2.353,0.783,0,0,9.487,APO
+2018 OL,?,2.534,0.654,0,0,7.842,APO
+2018 OK,?,2.322,0.515,0,0,6.663,AMO
+2018 OJ,?,2.183,0.348,0,0,7.626,MCA
+2018 OH,?,1.559,0.068,0,0,14.06,MCA
+2018 OG,?,2.359,0.582,0,0,6.86,APO
+2018 OF,?,1.286,0.266,0,0,9,APO
+2018 OE,?,2.544,0.384,0,0,8.674,MCA
+2018 OD,?,2.183,0.318,0,0,7.605,MCA
+2018 OC,?,3.131,0.238,0,0,12.124,MBA
+2018 OB,?,2.557,0.588,0,0,6.525,AMO
+2018 OA,?,1.995,0.104,0,0,9.232,IMB
+2018 NQ15,?,3.103,0.435,0,0,10.941,MBA
+2018 NP15,?,2.289,0.221,0,0,8.296,MBA
+2018 NG15,?,1.561,0.323,0,0,5.561,AMO
+2018 NF15,?,2.049,0.541,0,0,6.101,APO (PHA)
+2018 NE15,?,2.186,0.538,0,0,6.509,APO (PHA)
+2018 ND15,?,1.938,0.162,0,0,9.695,MCA
+2018 NC15,?,1.596,0.343,0,0,6.451,AMO
+2018 NB15,?,2.198,0.298,0,0,7.86,MCA
+2018 NA15,?,2.189,0.231,0,0,18.093,MBA
+2018 NZ14,?,2.647,0.47,0,0,11.194,MCA
+2018 NY14,?,1.262,0.772,0,0,13.642,APO (PHA)
+2018 NX14,?,2.028,0.285,0,0,11.594,MCA
+2018 NW14,?,2.405,0.227,0,0,9.335,MBA
+2018 NV14,?,2.572,0.1,0,0,10.493,MBA
+2018 NU14,?,2.485,0.168,0,0,9.038,MBA
+2018 NS14,?,3.163,0.071,0,0,10.92,MBA
+2018 NM14,?,2.29,0.238,0,0,8.415,MBA
+2018 NG14,?,2.807,0.216,0,0,9.709,MBA
+2018 NF14,?,3,0.325,0,0,10.146,MBA
+2018 NC14,?,2.255,0.211,0,0,8.487,MBA
+2018 NB14,?,2.369,0.105,0,0,9.488,MBA
+2018 NZ13,?,2.563,0.209,0,0,9.078,MBA
+2018 NW13,?,2.248,0.171,0,0,8.503,MBA
+2018 NV13,?,2.184,0.206,0,0,8.34,MBA
+2018 NU13,?,2.319,0.184,0,0,8.631,MBA
+2018 NT13,?,2.978,0.044,0,0,10.86,MBA
+2018 NQ13,?,2.431,0.153,0,0,9.028,MBA
+2018 NP13,?,2.284,0.238,0,0,8.288,MBA
+2018 NO13,?,3.173,0.223,0,0,10.168,MBA
+2018 NG13,?,2.253,0.183,0,0,8.783,MBA
+2018 NE13,?,3.03,0.154,0,0,10.442,MBA
+2018 NB13,?,2.381,0.124,0,0,9.285,MBA
+2018 NR12,?,3.024,0.168,0,0,10.948,MBA
+2018 NP12,?,3.157,0.23,0,0,10.517,MBA
+2018 NN12,?,1.835,0.08,0,0,9.833,IMB
+2018 NM12,?,2.774,0.46,0,0,8.305,MCA
+2018 NG12,?,2.358,0.196,0,0,8.673,MBA
+2018 NV11,?,3.159,0.136,0,0,10.712,MBA
+2018 NU11,?,3.005,0.22,0,0,11.52,MBA
+2018 NT11,?,3.184,0.133,0,0,11,MBA
+2018 NO11,?,2.36,0.131,0,0,8.956,MBA
+2018 NH11,?,2.39,0.074,0,0,9.52,MBA
+2018 NG11,?,2.407,0.062,0,0,9.573,MBA
+2018 NF11,?,3.159,0.207,0,0,10.374,MBA
+2018 NA11,?,2.718,0.094,0,0,10.549,MBA
+2018 NQ10,?,3.088,0.1,0,0,13.175,MBA
+2018 NP10,?,2.775,0.15,0,0,10.023,MBA
+2018 NB10,?,2.262,0.185,0,0,8.525,MBA
+2018 NZ9,?,2.818,0.191,0,0,9.61,MBA
+2018 NU9,?,2.768,0.149,0,0,9.761,MBA
+2018 NS9,?,2.651,0.113,0,0,9.758,MBA
+2018 NR9,?,2.382,0.076,0,0,9.533,MBA
+2018 NQ9,?,3.013,0.127,0,0,10.544,MBA
+2018 NP9,?,3.061,0.102,0,0,10.54,MBA
+2018 NL9,?,1.976,0.108,0,0,9.683,IMB
+2018 NX8,?,2.292,0.046,0,0,9.448,MBA
+2018 NQ8,?,3.124,0.207,0,0,10.964,MBA
+2018 NH8,?,2.726,0.121,0,0,9.801,MBA
+2018 ND8,?,5.355,0.07,0,0,12.511,TJN
+2018 NV7,?,3.142,0.04,0,0,11.264,MBA
+2018 NO7,?,3.155,0.052,0,0,11.389,MBA
+2018 NN7,?,2.57,0.313,0,0,12.5,MBA
+2018 NM7,?,3.201,0.202,0,0,12.763,OMB
+2018 NL7,?,2.278,0.244,0,0,8.187,MBA
+2018 NK7,?,3.15,0.19,0,0,10.084,MBA
+2018 NJ7,?,2.676,0.24,0,0,9.791,MBA
+2018 NY6,?,2.362,0.224,0,0,8.517,MBA
+2018 NV6,?,2.439,0.198,0,0,9.043,MBA
+2018 NU6,?,2.306,0.27,0,0,8.06,MBA
+2018 NH6,?,2.959,0.278,0,0,9.761,MBA
+2018 NF6,?,2.263,0.165,0,0,8.749,MBA
+2018 NE6,?,2.567,0.161,0,0,10.189,MBA
+2018 NA6,?,3.176,0.055,0,0,11.011,MBA
+2018 NZ5,?,2.18,0.063,0,0,8.801,MBA
+2018 NY5,?,2.715,0.034,0,0,10.225,MBA
+2018 NR5,?,2.184,0.291,0,0,7.674,MCA
+2018 NQ5,?,1.917,0.092,0,0,10.122,IMB
+2018 NN5,?,2.697,0.264,0,0,9.98,MBA
+2018 NL5,?,3.179,0.069,0,0,11.189,MBA
+2018 NK5,?,2.56,0.054,0,0,10.847,MBA
+2018 NJ5,?,3.181,0.288,0,0,12.107,MBA
+2018 NG5,?,2.868,0.147,0,0,10.761,MBA
+2018 NE5,?,3.134,0.221,0,0,11.832,MBA
+2018 ND5,?,2.589,0.169,0,0,10.592,MBA
+2018 NA5,?,3.152,0.15,0,0,10.688,MBA
+2018 NV4,?,2.287,0.171,0,0,11.625,MBA
+2018 NU4,?,2.314,0.38,0,0,7.54,MCA
+2018 NT4,?,2.236,0.33,0,0,8.153,MCA
+2018 NS4,?,2.96,0.376,0,0,12.236,MBA
+2018 NR4,?,2.134,0.527,0,0,20.002,APO
+2018 NQ4,?,2.638,0.397,0,0,13.305,MCA
+2018 NP4,?,1.925,0.217,0,0,11.387,MCA
+2018 NO4,?,2.434,0.512,0,0,7.355,AMO
+2018 NN4,?,2.685,0.573,0,0,10.78,AMO
+2018 NM4,?,1.692,0.252,0,0,8.126,AMO
+2018 NL4,?,1.944,0.55,0,0,6.28,APO
+2018 NK4,?,1.704,0.377,0,0,5.356,AMO
+2018 NJ4,?,0.956,0.182,0,0,9.991,ATE
+2018 NH4,?,2.092,0.513,0,0,6.391,AMO
+2018 NG4,?,2.324,0.542,0,0,11.548,AMO
+2018 NF4,?,2.059,0.54,0,0,6.794,APO
+2018 NE4,?,1.764,0.323,0,0,7.219,AMO
+2018 ND4,?,2.137,0.568,0,0,6.302,APO
+2018 NC4,?,3.329,0.599,0,0,8.305,OMB
+2018 NB4,?,2.089,0.457,0,0,7.309,AMO
+2018 NA4,?,3.253,0.57,0,0,11.056,OMB
+2018 NZ3,?,2.358,0.441,0,0,7.453,MCA
+2018 NY3,?,3.231,0.151,0,0,13.262,OMB
+2018 NX3,?,2.216,0.335,0,0,7.564,MCA
+2018 NW3,?,1.95,0.304,0,0,7.005,MCA
+2018 NV3,?,2.359,0.526,0,0,6.814,AMO
+2018 NU3,?,2.699,0.596,0,0,7.338,AMO
+2018 NT3,?,1.188,0.115,0,0,8.001,AMO
+2018 NS3,?,1.518,0.292,0,0,8.426,AMO
+2018 NR3,?,3.234,0.672,0,0,7.203,AMO
+2018 NQ3,?,2.154,0.511,0,0,6.862,AMO
+2018 NP3,?,1.829,0.446,0,0,6.481,APO
+2018 NO3,?,2.652,0.547,0,0,8.485,AMO
+2018 NN3,?,2.098,0.582,0,0,8.661,APO
+2018 NM3,?,2.115,0.413,0,0,6.867,AMO
+2018 NL3,?,2.648,0.592,0,0,6.816,AMO
+2018 NK3,?,3.312,0.48,0,0,12.518,OMB
+2018 NJ3,?,1.947,0.165,0,0,11.999,MCA
+2018 NH3,?,1.93,0.104,0,0,9.643,IMB
+2018 NG3,?,1.85,0.054,0,0,10.422,IMB
+2018 NF3,?,1.913,0.113,0,0,9.609,IMB
+2018 NE3,?,2.419,0.373,0,0,11.071,MCA
+2018 ND3,?,2.291,0.268,0,0,10.93,MBA
+2018 NC3,?,2.353,0.333,0,0,10.294,MCA
+2018 NB3,?,2.759,0.424,0,0,9.169,MCA
+2018 NA3,?,2.638,0.378,0,0,8.501,MCA
+2018 NY2,?,2.474,0.423,0,0,8.179,MCA
+2018 NX2,?,2.417,0.454,0,0,7.458,MCA
+2018 NW2,?,2.641,0.474,0,0,11.699,MCA
+2018 NV2,?,1.126,0.493,0,0,8.24,APO
+2018 NU2,?,2.608,0.561,0,0,6.862,AMO
+2018 NT2,?,1.145,0.204,0,0,5.208,APO
+2018 NS2,?,1.927,0.093,0,0,9.8,IMB
+2018 NR2,?,1.883,0.112,0,0,11.752,IMB
+2018 NQ2,?,2.334,0.323,0,0,7.891,MCA
+2018 NP2,?,2.692,0.376,0,0,8.566,MBA
+2018 NO2,?,2.359,0.424,0,0,7.479,MCA
+2018 NN2,?,2.614,0.341,0,0,9.171,MBA
+2018 NM2,?,2.741,0.221,0,0,12.87,MBA
+2018 NL2,?,1.875,0.139,0,0,10.473,MCA
+2018 NK2,?,2.581,0.34,0,0,8.808,MBA
+2018 NJ2,?,1.558,0.236,0,0,5.774,AMO
+2018 NH2,?,1.741,0.402,0,0,6.247,AMO
+2018 NG2,?,1.508,0.146,0,0,8.506,AMO
+2018 NF2,?,1.03,0.139,0,0,10.858,APO
+2018 NE2,?,2.641,0.548,0,0,11.022,AMO
+2018 ND2,?,3.242,0.443,0,0,15.125,OMB
+2018 NC2,?,2.426,0.384,0,0,7.877,MCA
+2018 NB2,?,2.221,0.41,0,0,7.085,MCA
+2018 NA2,?,2.98,0.416,0,0,8.556,MBA
+2018 NZ1,?,1.879,0.087,0,0,10.504,IMB
+2018 NY1,?,1.871,0.156,0,0,10.734,MCA
+2018 NX1,?,2.599,0.471,0,0,7.789,MCA
+2018 NW1,?,1.937,0.465,0,0,6.66,AMO
+2018 NV1,?,2.175,0.508,0,0,6.709,AMO
+2018 NU1,?,2.246,0.491,0,0,7.254,AMO
+2018 NT1,?,2.149,0.486,0,0,6.789,AMO
+2018 NS1,?,2.16,0.475,0,0,6.643,AMO
+2018 NR1,?,0.878,0.245,0,0,6.683,ATE
+2018 NQ1,?,1.293,0.264,0,0,4.877,APO
+2018 NP1,?,1.023,0.231,0,0,11.446,APO
+2018 NO1,?,2.962,0.582,0,0,8.145,AMO
+2018 NN1,?,1.858,0.466,0,0,6.483,APO
+2018 NM1,?,1.877,0.181,0,0,10.684,MCA
+2018 NL1,?,3.021,0.472,0,0,12.551,MCA
+2018 NK1,?,1.695,0.117,0,0,13.496,MCA
+2018 NJ1,?,2.638,0.528,0,0,7.686,AMO
+2018 NH1,?,2.598,0.36,0,0,9.456,MCA
+2018 NG1,?,1.197,0.362,0,0,11.935,APO
+2018 NF1,?,1.058,0.159,0,0,8.257,APO
+2018 NE1,?,1.94,0.572,0,0,6.548,APO
+2018 ND1,?,2.484,0.654,0,0,21.114,APO
+2018 NA1,?,2.353,0.408,0,0,8.746,MCA
+2018 NZ,?,1.942,0.116,0,0,9.624,IMB
+2018 NY,?,2.105,0.508,0,0,6.289,AMO
+2018 NX,?,0.898,0.146,0,0,5.83,ATE
+2018 NW,?,1.162,0.34,0,0,13.65,APO
+2018 NV,?,0.926,0.16,0,0,6.985,ATE
+2018 NU,?,1.747,0.425,0,0,6.386,APO
+2018 NT,?,2.616,0.228,0,0,13.442,MBA
+2018 NS,?,1.344,0.333,0,0,6.087,APO
+2018 NR,?,1.802,0.431,0,0,7.463,AMO
+2018 NQ,?,1.722,0.706,0,0,10.623,APO
+2018 NP,?,3.129,0.176,0,0,13.397,MBA
+2018 NO,?,2.388,0.254,0,0,8.868,MBA
+2018 NN,?,1.858,0.314,0,0,6.991,AMO
+2018 NM,?,1.52,0.36,0,0,4.916,APO
+2018 NL,?,1.826,0.449,0,0,5.948,APO
+2018 NK,?,2.501,0.335,0,0,12.119,MCA
+2018 NJ,?,1.54,0.345,0,0,5.018,APO
+2018 NH,?,1.889,0.52,0,0,11.918,APO
+2018 NG,?,2.503,0.399,0,0,7.921,MCA
+2018 NF,?,2.576,0.426,0,0,13.546,MCA
+2018 NE,?,0.971,0.194,0,0,6.237,ATE
+2018 ND,?,2.068,0.86,0,0,13.029,APO
+2018 NC,?,2.059,0.599,0,0,6.913,APO (PHA)
+2018 NB,?,2.391,0.554,0,0,6.389,AMO
+2018 NA,?,1.56,0.484,0,0,6.195,APO
+2018 MT8,?,2.225,0.307,0,0,7.719,MCA
+2018 MS8,?,1.203,0.608,0,0,13.021,APO
+2018 MR8,?,0.972,0.178,0,0,11.582,ATE
+2018 MQ8,?,2.185,0.312,0,0,7.691,MCA
+2018 MP8,?,365.95,0.99,0,0,20.04,TNO
+2018 MO8,?,15.068,0.669,0,0,17.667,CEN
+2018 MN8,?,0.847,0.688,0,0,15.377,ATE
+2018 MM8,?,2.675,0.569,0,0,8.832,AMO
+2018 ML8,?,2.133,0.473,0,0,6.702,AMO
+2018 MK8,?,2.706,0.801,0,0,10.988,APO
+2018 MJ8,?,3.06,0.549,0,0,10.004,MCA
+2018 MG8,?,2.312,0.24,0,0,10.856,MBA
+2018 ME8,?,2.639,0.216,0,0,9.832,MBA
+2018 MD8,?,3.151,0.122,0,0,10.781,MBA
+2018 MC8,?,2.454,0.189,0,0,9.031,MBA
+2018 MB8,?,2.691,0.238,0,0,9.715,MBA
+2018 MA8,?,2.441,0.138,0,0,9.541,MBA
+2018 MY7,?,2.543,0.026,0,0,10.673,MBA
+2018 MS7,?,3.09,0.132,0,0,10.86,MBA
+2018 MR7,?,2.628,0.205,0,0,9.352,MBA
+2018 ML7,?,2.624,0.17,0,0,10.061,MBA
+2018 MK7,?,2.03,0.14,0,0,13.836,MBA
+2018 MJ7,?,1.095,0.416,0,0,7.234,APO
+2018 MH7,?,0.893,0.18,0,0,6.352,ATE
+2018 MG7,?,0.912,0.327,0,0,11.363,ATE (PHA)
+2018 MF7,?,2.458,0.173,0,0,12.23,MBA
+2018 ME7,?,2.161,0.439,0,0,6.858,AMO
+2018 MD7,?,0.947,0.11,0,0,5.906,ATE
+2018 MC7,?,1.413,0.281,0,0,4.844,APO
+2018 MB7,?,1.291,0.301,0,0,6.958,APO
+2018 MA7,?,2.864,0.474,0,0,11.098,MCA
+2018 MZ6,?,2.885,0.44,0,0,11.375,MCA
+2018 MY6,?,0.905,0.154,0,0,21.595,ATE (PHA)
+2018 MX6,?,1.973,0.479,0,0,5.852,AMO
+2018 MW6,?,3.393,0.773,0,0,8.368,APO (PHA)
+2018 MV6,?,2.631,0.731,0,0,7.788,APO
+2018 MU6,?,2.216,0.584,0,0,6.554,APO
+2018 MT6,?,1.839,0.437,0,0,5.535,AMO
+2018 MS6,?,2.114,0.389,0,0,7.149,AMO
+2018 MR6,?,2.19,0.441,0,0,7.064,AMO
+2018 MQ6,?,1.756,0.368,0,0,6.571,AMO
+2018 MP6,?,2.213,0.267,0,0,8.004,MCA
+2018 MO6,?,2.27,0.423,0,0,8.422,MCA
+2018 MN6,?,2.223,0.321,0,0,7.886,MCA
+2018 MJ6,?,3.21,0.128,0,0,10.707,OMB
+2018 MH6,?,2.802,0.23,0,0,9.628,MBA
+2018 MF6,?,2.73,0.095,0,0,10.001,MBA
+2018 MD6,?,1.839,0.06,0,0,9.678,IMB
+2018 MB6,?,2.728,0.091,0,0,10.552,MBA
+2018 MA6,?,3.241,0.141,0,0,11.982,OMB
+2018 MZ5,?,2.595,0.119,0,0,9.778,MBA
+2018 MY5,?,2.359,0.045,0,0,9.39,MBA
+2018 MX5,?,2.401,0.146,0,0,10.167,MBA
+2018 MU5,?,3.155,0.177,0,0,10.672,MBA
+2018 MT5,?,2.617,0.077,0,0,9.826,MBA
+2018 MR5,?,2.07,0.72,0,0,8.177,APO (PHA)
+2018 MQ5,?,1.077,0.023,0,0,5.256,AMO
+2018 MP5,?,1.295,0.329,0,0,8.12,APO
+2018 MO5,?,1.775,0.324,0,0,7.854,AMO
+2018 MN5,?,2.618,0.355,0,0,9.689,MBA
+2018 MM5,?,2.473,0.418,0,0,8.019,MCA
+2018 ML5,?,3.01,0.457,0,0,8.44,MCA
+2018 MK5,?,2.263,0.551,0,0,7.5,APO
+2018 MJ5,?,2.045,0.498,0,0,6.247,AMO
+2018 MH5,?,2.265,0.624,0,0,6.891,APO
+2018 MG5,?,2.24,0.525,0,0,6.656,AMO
+2018 MF5,?,1.497,0.285,0,0,9.103,AMO
+2018 ME5,?,1.406,0.304,0,0,5.08,APO
+2018 MC5,?,1.373,0.265,0,0,4.435,APO
+2018 MB5,?,2.099,0.443,0,0,6.613,AMO
+2018 MA5,?,0.948,0.178,0,0,5.457,ATE
+2018 MZ4,?,1.209,0.301,0,0,5.954,APO
+2018 MY4,?,1.535,0.289,0,0,9.851,AMO
+2018 MX4,?,2.318,0.56,0,0,6.155,AMO
+2018 MW4,?,2.779,0.553,0,0,10.142,AMO
+2018 MV4,?,1.251,0.243,0,0,9.552,APO (PHA)
+2018 MU4,?,1.624,0.592,0,0,7.491,APO
+2018 MR4,?,2.629,0.23,0,0,9.196,MBA
+2018 MQ4,?,2.485,0.023,0,0,9.867,MBA
+2018 MO4,?,2.334,0.218,0,0,8.89,MBA
+2018 ML4,?,2.267,0.191,0,0,8.473,MBA
+2018 MK4,?,2.159,0.099,0,0,8.626,MBA
+2018 MJ4,?,1.886,0.072,0,0,10.507,IMB
+2018 MH4,?,2.654,0.371,0,0,12.037,MBA
+2018 MG4,?,1.804,0.051,0,0,10.294,IMB
+2018 MF4,?,1.881,0.102,0,0,11.277,IMB
+2018 ME4,?,3.227,0.263,0,0,10.482,OMB
+2018 MD4,?,3.233,0.093,0,0,11.126,OMB
+2018 MG3,?,2.48,0.176,0,0,9.403,MBA
+2018 ME3,?,2.372,0.176,0,0,8.757,MBA
+2018 MZ2,?,2.933,0.277,0,0,10.025,MBA
+2018 MX2,?,2.901,0.064,0,0,11.027,MBA
+2018 MV2,?,3.245,0.068,0,0,11.506,OMB
+2018 MU2,?,2.526,0.163,0,0,10.029,MBA
+2018 ML2,?,1.91,0.081,0,0,10.007,IMB
+2018 MK2,?,3.049,0.072,0,0,11.054,MBA
+2018 MH2,?,2.954,0.066,0,0,10.904,MBA
+2018 MG2,?,3.148,0.17,0,0,13.103,MBA
+2018 MF2,?,3.396,0.417,0,0,9.618,OMB

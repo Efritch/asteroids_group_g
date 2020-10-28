@@ -42,3 +42,18 @@ Monday: Combine Projects. (2 hrs) work on presentation. (2 hrs)
 Tuesday: Complete data pull and analysis (Erik). (12 hrs) address any final issues. (2 hrs)
 
 Wednesday: Deliver presentaion. (.2 hrs)
+
+# Concusion
+
+1. Are inner planets receiving more close approaches on average in the recent decade they did in the last 5 decades?
+
+There appears to be a week positive correlation between the number of asteroids observed over time. However, from the outlier points in the recent decade obtained from earth, and the lack of information provided from the outer planets, it appears that the increase is due to an increase in technology and the ability to observe more asteroids, rather than a spike in them from items outside of our galaxy entering in.
+
+
+2. Are more asteroids posing an impact threat to Earh today than they did 15 years ago.
+
+
+
+3. Do rare earth elements exist in significant quantities on asteroids near earth? 
+
+The data collected supports the hypotheses that asteroids in proximity to the earth do contain rare earth elements. The p-value complimented with the data presented would suggest that rare earth elements exist in statistical meaningful quantities on asteroids near earth orbit.

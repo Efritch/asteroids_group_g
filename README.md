@@ -1,4 +1,5 @@
 # An Analysis of Asteroid Orbits
+
 This repo contains all files and code related to project 1.
 
 Group Members: Paul Hoogestraat Brent Sergent Erik Fritzsche
@@ -19,14 +20,20 @@ Alt: If the number of asteroids posing an impact threat is changed per year over
 Null: If an asteroid with rare earth elements are close to earth, then a measurable amount of rare earth elements will not be detected more or less observed. 
 Alt: If and asteroid with rare earth elements are close to earth, then a measurable amount of rare earth elements more or less will be detected.
 
+# Resources
 Our data for this project will be sourced from NASA’s public APIs. • Asteroids NeoWs • SSD/CNEOS. Data from the Asteroids NeoWs API is limited to 15 years since only 7 days of data can be pulled at a time, and the API access is limited to 1,000 requests per day. We will also be looking at asterlink.com for information related to near-earth objects.
 
-Summary
+# Summary
+
 The data collected supports the hypotheses that asteroids in proximity to the earth do contain rare earth elements. The p-value complimented with the data presented would suggest that rare earth elements exist in statistical meaningful quantities on asteroids near earth orbit.
+
 In regards to the number of close approaches by asteroids to the inner planets, there appears to be a week positive correlation between the number of asteroids observed over time. However, from the outlier points in the recent decade obtained from earth, and the lack of information provided from the outer planets, it appears that the increase is due to an increase in technology and the ability to observe more asteroids, rather than a spike in them from items outside of our galaxy entering in.
 
 
-Wednesday: Identify project. (.5 hrs) Defined roles and responsibilities. (1 hrs)
+
+
+
+# Schedule
 
 Thursday:
 Reviewing API, assess resources. (1 hrs)
@@ -42,18 +49,3 @@ Monday: Combine Projects. (2 hrs) work on presentation. (2 hrs)
 Tuesday: Complete data pull and analysis (Erik). (12 hrs) address any final issues. (2 hrs)
 
 Wednesday: Deliver presentaion. (.2 hrs)
-
-# Conclusion
-
-1. Are inner planets receiving more close approaches on average in the recent decade they did in the last 5 decades?
-
-There appears to be a week positive correlation between the number of asteroids observed over time. However, from the outlier points in the recent decade obtained from earth, and the lack of information provided from the outer planets, it appears that the increase is due to an increase in technology and the ability to observe more asteroids, rather than a spike in them from items outside of our galaxy entering in.
-
-
-2. Are more asteroids posing an impact threat to Earh today than they did 15 years ago.
-
-
-
-3. Do rare earth elements exist in significant quantities on asteroids near earth? 
-
-The data collected supports the hypotheses that asteroids in proximity to the earth do contain rare earth elements. The p-value complimented with the data presented would suggest that rare earth elements exist in statistical meaningful quantities on asteroids near earth orbit.

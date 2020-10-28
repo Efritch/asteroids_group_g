@@ -43,7 +43,7 @@ Tuesday: Complete data pull and analysis (Erik). (12 hrs) address any final issu
 
 Wednesday: Deliver presentaion. (.2 hrs)
 
-# Concusion
+# Conclusion
 
 1. Are inner planets receiving more close approaches on average in the recent decade they did in the last 5 decades?
 

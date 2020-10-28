@@ -19,7 +19,7 @@ Alt: If the number of asteroids posing an impact threat is changed per year over
 Null: If an asteroid with rare earth elements are close to earth, then a measurable amount of rare earth elements will not be detected more or less observed. 
 Alt: If and asteroid with rare earth elements are close to earth, then a measurable amount of rare earth elements more or less will be detected.
 
-Our data for this project will be sourced from NASA’s public APIs. • Asteroids NeoWs • SSD/CNEOS We will also be looking at asterlink.com for information related to near-earth objects.
+Our data for this project will be sourced from NASA’s public APIs. • Asteroids NeoWs • SSD/CNEOS. Data from the Asteroids NeoWs API is limited to 15 years since only 7 days of data can be pulled at a time, and the API access is limited to 1,000 requests per day. We will also be looking at asterlink.com for information related to near-earth objects.
 
 Summary
 The data collected supports the hypotheses that asteroids in proximity to the earth do contain rare earth elements. The p-value complimented with the data presented would suggest that rare earth elements exist in statistical meaningful quantities on asteroids near earth orbit.
